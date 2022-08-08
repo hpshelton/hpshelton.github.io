@@ -11,7 +11,7 @@ tags:
 - work from home
 - meetings
 ---
-{% img images/9553cb671eacbb267758888f74bd45d96fb919e4.png %}
+![](images/9553cb671eacbb267758888f74bd45d96fb919e4.png)
 
 <p>So I've been a little busy this month...</p>
 <p>To see the full report Microsoft produced on the ways COVID-19 have changed the way work is done, see https://www.microsoft.com/en-us/microsoft-365/blog/2020/04/09/remote-work-trend-report-meetings/.</p>
