@@ -4,3 +4,7 @@ defaults:
       path: "images"
     values:
       image: true
+markdown: CommonMarkGhPages
+commonmark:
+   extensions:
+   - autolink
