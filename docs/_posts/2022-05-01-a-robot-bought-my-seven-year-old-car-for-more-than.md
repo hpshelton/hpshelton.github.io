@@ -12,6 +12,4 @@ tags:
 - artificial intelligence
 - cars
 ---
-<a href="https://www.theverge.com/22923871/carvana-pandemic-used-car-prices-sold-online-chip-shortage">A robot bought my seven-year-old car for more than I paid brand-new</a>
-
 <p>I know used car sales are crazy right now, but that's wild.</p>

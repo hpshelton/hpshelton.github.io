@@ -12,6 +12,4 @@ tags:
 - Microsoft Teams
 - government
 ---
-<a href="https://www.microsoft.com/en-us/microsoft-365/blog/2022/03/28/announcing-office-365-government-secret-cloud-to-help-secure-classified-data/">Announcing Office 365 Government Secret cloud</a>
-
 <p>The secret's out - Teams will support the US government's Secret classified workloads.</p>

@@ -12,8 +12,6 @@ tags:
 - power
 - green energy
 ---
-<a href="https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/">US regulators will certify first small nuclear reactor design</a>
-
 <p>Huge (pun intended)! Making a standard design constructed off-site will lead to huge cost benefits for licensing, construction, operation, and maintenance of future nuclear plants.</p>
 <p>NuScale has <a href="https://www.nuscalepower.com/benefits/simplified-design">more details</a> on <a href="https://www.nuscalepower.com/environment/energy-issues">their website</a> but the goal is that power plant facilities house 12 self-contained reactors that can provide "154 MWe to a mission critical facility micro-grid for 12 years without new fuel following a catastrophic loss of offsite grid and transportation infrastructure."</p>
 <p>They estimate the cost of production for the n-th plant to be in the range "approximately $40/MWh to $65/MWh" and their first project has a contractual cap on costs at $58/MWh, all of which is price-competitive with large, established reactors like <a href="https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant">Diablo Canyon</a>, though their small plant footprint generates a tenth of the electricity output.</p> 

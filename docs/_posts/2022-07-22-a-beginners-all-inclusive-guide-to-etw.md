@@ -10,7 +10,5 @@ tags:
 - ETW
 - Windows
 ---
-<a href="https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw">A Beginners All Inclusive Guide to ETW</a>
-
 <blockquote>An all inclusive guide to ETW, from what it is to how we can use it.</blockquote>
 <p>I've used ETW a lot and I still learned things from this walkthrough.</p>

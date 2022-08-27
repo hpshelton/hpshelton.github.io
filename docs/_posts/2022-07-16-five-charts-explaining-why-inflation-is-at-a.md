@@ -12,6 +12,4 @@ tags:
 - economics
 - cpi
 ---
-<a href="https://www.washingtonpost.com/business/2022/inflation-charts/">Five charts explaining why inflation is at a 40-year high</a>
-
 

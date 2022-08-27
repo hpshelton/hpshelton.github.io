@@ -9,5 +9,3 @@ redirect_from:
 tags:
 - relationships
 ---
-<a href="https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex">How to Know When You're Over Your Ex</a>
-

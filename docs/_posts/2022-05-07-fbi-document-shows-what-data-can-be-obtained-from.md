@@ -13,7 +13,5 @@ tags:
 - messaging
 - law enforcement
 ---
-<a href="https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/">FBI document shows what data can be obtained from encrypted messaging apps</a>
-
 <blockquote>A recently discovered FBI training document shows that US law enforcement can gain limited access to the content of encrypted messages from secure messaging services like iMessage, Line, and WhatsApp, but not to messages sent via Signal, Telegram, Threema, Viber, WeChat, or Wickr.</blockquote>
 <p>What type of encryption you use and how you use it are pretty important.</p>

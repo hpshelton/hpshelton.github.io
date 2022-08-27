@@ -13,7 +13,5 @@ tags:
 - ai
 - artificial intelligence
 ---
-<a href="https://www.deepmind.com/blog/competitive-programming-with-alphacode">Competitive programming with AlphaCode</a>
-
 <blockquote>As part of <a href="https://deepmind.com/about">DeepMind's mission</a> to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level. AlphaCode achieved an estimated rank within the top 54% of participants in programming competitions by solving new problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding.</blockquote>
 <p>Between AlphaCode and GitHub's <a href="https://copilot.github.com/">Copilot</a>, it's sure an interesting time to be a programmer.</p> 

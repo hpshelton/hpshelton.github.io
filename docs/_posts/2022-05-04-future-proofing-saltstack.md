@@ -11,7 +11,5 @@ tags:
 - CloudFlare
 - SaltStack
 ---
-<a href="https://blog.cloudflare.com/future-proofing-saltstack/">Future-proofing SaltStack</a>
-
 <blockquote>This blogpost chronicles the recent CVEs investigation, our findings, and how we are helping secure Salt now and in the Quantum future.</blockquote>
 <p>Cool infrastructure security research from CloudFlare.</p>

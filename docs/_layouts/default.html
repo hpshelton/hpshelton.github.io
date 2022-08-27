@@ -777,59 +777,11 @@ a {
   -moz-transition-property: color;
 }
 
-/*
-a img {
-  border-color: rgba(255, 255, 255, .1);
-}
-  
-img {
-  -webkit-transition-duration: .25s; 
-  -webkit-transition-property: border-color;
-  -moz-transition-duration: .25s; 
-  -moz-transition-property: border-color;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-}
-*/
-
-/* Structure (CSS3)
------------------------------------------------------------*/
-
-/*
-.mod,
-.mod p img,
-.mod p a img {
-  border-color: rgba (255, 255, 255, .1);
-}
-
-.mod p a img:hover {
-  border-color: rgb(255, 103, 0);
-}
-
-.grid_8 .mod-inner {
-  border-color: rgba(255, 255, 255, .1);
-}
-*/
-
 /* Notes (CSS3)
 -----------------------------------------------------------*/
 .mod blockquote {
   border-left-color: rgba(255, 255, 255, .25);
 }
-
-/* Search Box (CSS3)
------------------------------------------------------------*/
-
-/*
-.search-box {
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  background-color: rgba(255, 255, 255, .5);
-}
-
-*/
   </style>
 </head>
 <body>
@@ -860,34 +812,21 @@ img {
       <!-- Begin Posts -->
       <div><!--</div> id="post-{PostID}">-->
       {{ content }}      
-      </div> <!-- /end {PostID} -->
+      </div>
      
-      <!-- Permalink Pagination -->
+      <!-- Pagination -->
       <div id="permalink-navigation" class="grid_8 mod prefix_3">
-        <div class="mod-inner">
-          {% if page.previous.url %}
-          <p class="right grid_2"><a href="{{ page.previous.url }}">Older &rarr;</a></p> 
-          {% endif %}
-          {% if page.next.url %}
-          <p class="left grid_2"><a href="{{ page.next.url }}">&larr; Newer</a></p><p>&nbsp;</p>
-          {% endif %}
+        <div class="mod-inner">          
+          <p class="right grid_2">
+            {% if page.previous.url %}<a href="{{ page.previous.url }}">Older &rarr;</a>{% endif %}
+          </p> 
+          <p class="left grid_2">
+            {% if page.next.url %}<a href="{{ page.next.url }}">&larr; Newer</a>{% endif %}
+          </p><p>&nbsp;</p>          
         </div>
       </div>
       
       <div class="clear"></div>
-      <!-- /end Posts -->
-      
-      <!-- Pagination -->
-      <!-- <div id="permalink-navigation" class="grid_8 mod prefix_3">
-        <div class="mod-inner">
-          {% if page.next.url %}
-          <p class="right grid_2">&nbsp;<a href="{{ page.next.url }}">Older &rarr;</a></p>
-          {% endif %}
-          {% if page.previous.url %}
-          <p class="left grid_2"><a href="{{ page.previous.url }}">&larr; Newer</a></p><p>&nbsp;</p>
-          {% endif %}
-        </div>
-      </div> -->
       
       <!-- Clear pre-footer -->
       <div id="pre-big-footer" class="clear"></div>
@@ -905,18 +844,17 @@ img {
                 <li><a href="https://www.tumblr.com/liked/by/hpshelton">Liked Posts</a></li>
                 <li><a href="https://linkedin.com/in/hpshelton">LinkedIn</a></li>
               </ul>
-            </div> <!-- /end big-footer-elsewhere -->
-          </div> <!-- /end big-footer-section-one -->
+            </div>
+          </div>
           
           <div id="big-footer-section-two" class="grid_8">
             <div id="big-footer-bio">
               <h1>H. Parker Shelton</h1>
               <p>I'm just an ordinary thirty-something who's had some extraordinary opportunities. I graduated from Johns Hopkins University, work for Microsoft in Silicon Valley, code websites and applications, take the occasional photograph, and keep a constant eye on current events, politics, and technology. This blog is the best of what catches that eye.</p>
-            </div> <!-- /end big-footer-bio -->
-          </div> <!-- /end big-footer-section-two -->
-            
-        </div> <!-- /end big-footer-inner -->
-      </div> <!-- /end big-footer -->
+            </div>
+          </div>
+        </div>
+      </div>
         
       <!-- Clear pre-footer -->
       <div id="post-big-footer" class="clear"></div>
@@ -929,9 +867,9 @@ img {
           <li>Hosted by <a href="https://pages.github.com/">GitHub Pages</a></li>
           <li>Design by <a href="http://ianhin.es" title="Theme by Ian P. Hines">Ian P. Hines</a></li>
         </ul>
-      </div> <!-- /end footer -->
-    </div> <!-- /end container-->
-  </div> <!-- /end background -->
-</div> <!-- /end top -->
+      </div>
+    </div>
+  </div>
+</div>
 </body>
 </html>

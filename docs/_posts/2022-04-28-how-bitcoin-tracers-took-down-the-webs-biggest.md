@@ -12,6 +12,4 @@ tags:
 - law
 - law enforcement
 ---
-<a href="https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/">How Bitcoin Tracers Took Down the Web's Biggest Child Abuse Site</a>
-
 <p>Absolutely heart-wrenching story of technology facilitating child abuse and one effort to stop it, in the process shredding the myth of Bitcoin's anonymity.</p>

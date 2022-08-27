@@ -11,6 +11,4 @@ tags:
 - agile
 - productivity
 ---
-<a href="https://medium.com/serious-scrum/being-busy-is-the-silent-killer-of-scrum-team-effectiveness-befa997020e0">Being busy is the silent killer of Scrum Team effectiveness</a>
-
 Too often true of my work; busyness often looks like productivity. 
