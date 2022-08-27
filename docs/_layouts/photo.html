@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
-<p>{{ page.date }} - Written by {{ page.author }}</p>
+<div class="mod grid_2 prefix_1">
+  <div class="sidebar mod-inner">
+    <h2><a href="{{ page.permalink }}">{{ page.date | date: "%b %d, %Y" }}</a></h2>
+  </div>
+</div>
 
-{{ content }}
+<div class="grid_8 mod photos">
+  <div class="mod-inner">
+    <!-- <p style="text-align:center">{LinkOpenTag}<img src="{PhotoURL-HighRes}" alt="{PhotoAlt}" />{LinkCloseTag}</p>  
+    {block:Caption}{Caption}{/block:Caption} -->
+    {{ content }}
+  </div>
+</div>
