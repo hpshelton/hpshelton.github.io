@@ -1,13 +1,13 @@
 <div class="mod grid_2 prefix_1">
-    <div class="sidebar mod-inner">
-      <h2><a href="{{ include.content.permalink }}">{{ include.content.date | date: "%b %e, %Y" }}</a></h2>
-    </div>
+  <div class="sidebar mod-inner">
+    <h2><a href="{{ include.content.permalink }}">{{ include.content.date | date: "%b %e, %Y" }}</a></h2>
   </div>
-  
-  <div class="grid_8 mod {{include.content.type}}{% unless include.content.type == "text" %}s{% endunless %}">
-    <div class="mod-inner">
-      {% if include.content.type == "text" %}<h1><strong>{{ include.content.title }}</strong></h1>{% endif %}
-      {% if include.content.type == "link" %}<h1><a href="{{ include.content.link }}">{{ include.content.title }}</a> &rarr;</h1>{% endif %}
-      {{ include.content.content }}
-    </div>
+</div>
+
+<div class="grid_8 mod {{include.content.type}}{% unless include.content.type == "text" %}s{% endunless %}">
+  <div class="mod-inner">
+{% if include.content.type == "text" %}<h1><strong>{{ include.content.title }}</strong></h1>{% endif %}
+{% if include.content.type == "link" %}<h1><a href="{{ include.content.link }}">{{ include.content.title }}</a> &rarr;</h1>{% endif %}
+{{ include.content.content }}
   </div>
+</div>
