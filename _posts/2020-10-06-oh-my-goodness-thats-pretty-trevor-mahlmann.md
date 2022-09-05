@@ -12,6 +12,6 @@ tags:
 - photography
 - Space X
 ---
-![](/images/886d734b184621c284ac789ddbdb61fafdc556d2.jpg)
+![](/assets/images/886d734b184621c284ac789ddbdb61fafdc556d2.jpg)
 
 <p>Oh my goodness that's pretty. Trevor Mahlmann captures Space X's latest launch for Ars Technica.</p>

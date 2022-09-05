@@ -1,0 +1,751 @@
+/*  960-Grid System
+-------------------------------------------------------------
+Author:    Nathan Smith (http://960.gs/)  
+Copyright:  2010 Nathan Smith
+
+Licensed Under GPL (http://www.gnu.org/licenses/gpl.html) 
+and MIT (http://www.opensource.org/licenses/mit-license.php)
+-----------------------------------------------------------*/
+
+/* Containers
+-----------------------------------------------------------*/
+.container_12 {
+margin: 0px auto 0px auto;
+width: 960px;
+}
+
+/* Grid >> Global
+-----------------------------------------------------------*/
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+  display:inline;
+  float: left;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* Grid >> Children (Alpha ~ First, Omega ~ Last)
+-----------------------------------------------------------*/
+.alpha { 
+  margin-left: 0;
+}
+
+.omega {
+  margin-right: 0;
+}
+
+/* Grid >> 12 Columns
+-----------------------------------------------------------*/
+.container_12 .grid_1 {
+  width:60px;
+}
+
+.container_12 .grid_2 {
+  width:140px;
+}
+
+.container_12 .grid_3 {
+  width:220px;
+}
+
+.container_12 .grid_4 {
+  width:300px;
+}
+
+.container_12 .grid_5 {
+  width:380px;
+}
+
+.container_12 .grid_6 {
+  width:460px;
+}
+
+.container_12 .grid_7 {
+  width:540px;
+}
+
+.container_12 .grid_8 {
+  width:620px;
+}
+
+.container_12 .grid_9 {
+  width:700px;
+}
+
+.container_12 .grid_10 {
+  width:780px;
+}
+
+.container_12 .grid_11 {
+  width:860px;
+}
+
+.container_12 .grid_12 {
+  width:940px;
+}
+
+/* Prefix Extra Space >> 12 Columns
+-----------------------------------------------------------*/
+.container_12 .prefix_1 {
+  padding-left:80px;
+}
+
+.container_12 .prefix_2 {
+  padding-left:160px;
+}
+
+.container_12 .prefix_3 {
+  padding-left:240px;
+}
+
+.container_12 .prefix_4 {
+  padding-left:320px;
+}
+
+.container_12 .prefix_5 {
+  padding-left:400px;
+}
+
+.container_12 .prefix_6 {
+  padding-left:480px;
+}
+
+.container_12 .prefix_7 {
+  padding-left:560px;
+}
+
+.container_12 .prefix_8 {
+  padding-left:640px;
+}
+
+.container_12 .prefix_9 {
+  padding-left:720px;
+}
+
+.container_12 .prefix_10 {
+  padding-left:800px;
+}
+
+.container_12 .prefix_11 {
+  padding-left:880px;
+}
+
+/* Suffix Extra Space >> 12 Columns
+-----------------------------------------------------------*/
+.container_12 .suffix_1 {
+  padding-right:80px;
+}
+
+.container_12 .suffix_2 {
+  padding-right:160px;
+}
+
+.container_12 .suffix_3 {
+  padding-right:240px;
+}
+
+.container_12 .suffix_4 {
+  padding-right:320px;
+}
+
+.container_12 .suffix_5 {
+  padding-right:400px;
+}
+
+.container_12 .suffix_6 {
+  padding-right:480px;
+}
+
+.container_12 .suffix_7 {
+  padding-right:560px;
+}
+
+.container_12 .suffix_8 {
+  padding-right:640px;
+}
+
+.container_12 .suffix_9 {
+  padding-right:720px;
+}
+
+.container_12 .suffix_10 {
+  padding-right:800px;
+}
+
+.container_12 .suffix_11 {
+  padding-right:880px;
+}
+
+/* Push Space >> 12 Columns
+-----------------------------------------------------------*/
+.container_12 .push_1 {
+  left:80px;
+}
+
+.container_12 .push_2 {
+  left:160px;
+}
+
+.container_12 .push_3 {
+  left:240px;
+}
+
+.container_12 .push_4 {
+  left:320px;
+}
+
+.container_12 .push_5 {
+  left:400px;
+}
+
+.container_12 .push_6 {
+  left:480px;
+}
+
+.container_12 .push_7 {
+  left:560px;
+}
+
+.container_12 .push_8 {
+  left:640px;
+}
+
+.container_12 .push_9 {
+  left:720px;
+}
+
+.container_12 .push_10 {
+  left:800px;
+}
+
+.container_12 .push_11 {
+  left:880px;
+}
+
+/* Pull Space >> 12 Columns
+-----------------------------------------------------------*/
+.container_12 .pull_1 {
+  left:-80px;
+}
+
+.container_12 .pull_2 {
+  left:-160px;
+}
+
+.container_12 .pull_3 {
+  left:-240px;
+}
+
+.container_12 .pull_4 {
+  left:-320px;
+}
+
+.container_12 .pull_5 {
+  left:-400px;
+}
+
+.container_12 .pull_6 {
+  left:-480px;
+}
+
+.container_12 .pull_7 {
+  left:-560px;
+}
+
+.container_12 .pull_8 {
+  left:-640px;
+}
+
+.container_12 .pull_9 {
+  left:-720px;
+}
+
+.container_12 .pull_10 {
+  left:-800px;
+}
+
+.container_12 .pull_11 {
+  left:-880px;
+}
+
+/* Clear Floated Elements
+-----------------------------------------------------------*/
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+/* http://perishablepress.com/press/2008/02/05/lessons-learned-concerning-the-clearfix-css-hack */
+
+.clearfix:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  font-size: 0;
+  line-height: 0;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+* html .clearfix {
+  height: 1%;
+}
+
+.clearfix {
+  display: block;
+}
+
+/*  Global Elements
+-----------------------------------------------------------
+Author:    Ian P. Hines (http://ianhin.es)  
+Copyright:  2010 Ian P. Hines. 
+
+You must adhere to this Creative Commons License 
+(http://creativecommons.org/licenses/by-nc/3.0/).
+-----------------------------------------------------------*/
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  line-height: 24px;
+  background: rgb(51, 51, 51);
+  text-rendering: optimizeLegibility;
+}
+
+p strong {
+  font-weight: bolder;
+}
+
+p em {
+  font-weight: lighter;
+  font-style: italic;  
+}
+
+/* Links 
+-----------------------------------------------------------*/
+a {
+  border-width: 0px;
+  text-decoration: underline;
+  color: rgb(255, 255, 255); 
+}
+
+a:hover {
+  color: #909090;
+}
+
+a:active { 
+  position: relative; top: 1px 
+}
+
+.sidebar a, 
+#big-footer-elsewhere a,
+#header-nav-inner a,
+#header-inner h1 a,
+#header-inner p a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.sidebar a:hover, 
+#big-footer-elsewhere a:hover,
+#header-nav-inner a:hover,
+#header-inner h1 a:hover,
+#header-inner p a:hover,
+#footer a:hover {
+  color: #909090;
+}
+  
+#footer a:hover {
+  color: #909090;
+}
+
+/* Navigation 
+-----------------------------------------------------------*/
+#header-nav {
+  padding: 0px;
+  display: inline;
+  margin: 0px;
+}
+
+#header-nav-inner {
+  line-height: 24px;
+  float: right;
+  text-align: right;
+  padding: 24px 0px 0px 0px;
+  margin: 0px -10px 0px 0px;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: lighter;
+}
+
+#header-nav-inner ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+#header-nav-inner ul li {
+  margin: 0px 0px 0px 18px;
+  padding: 0px;
+  list-style-type: none;
+  float: none;
+  display: inline;  
+}
+
+/* Header 
+-----------------------------------------------------------*/
+#header-inner {
+ margin-bottom: 72px;
+}
+
+#header-inner h1 {
+  line-height: 60px;
+  padding: 0px;
+  margin: 0px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 60px;
+  font-weight: lighter;
+}
+
+#header-inner h1 .p {
+  color: rgb(255, 255, 255);
+}
+
+#header-inner p {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Search Form 
+-----------------------------------------------------------*/
+.search-box {
+  margin-top: -18px;
+  float: right;
+  text-align: right;
+  border-width: 0px;
+  padding: 2px 8px 2px 8px;
+  font-size: 10px;
+  width: 223px;
+  background-color: rgb(255, 255, 255);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(37, 42, 46);
+}
+
+input:focus {
+  outline: 0;
+}
+
+.search-button {
+  visibility: hidden;
+}
+
+/* Mod
+-----------------------------------------------------------*/
+.mod {
+  margin-bottom: 36px;
+}
+
+.mod h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+}
+
+.mod p img {
+  border-width: 5x;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  max-width: 99%;
+}
+
+.mod p {
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 24px;
+}
+
+.mod ul {
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 24px;
+}
+
+.mod ul li {
+  list-style-position: outside;
+  list-style-type: circle;
+  margin: 0px;
+}
+
+.mod ol {
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 24px;
+}
+
+.mod ol li {
+  list-style-type: decimal;
+  list-style-position: outside;
+  margin: 0px;
+}
+
+.mod blockquote {
+  margin: 0px 12px 24px 24px;
+  padding-left: 24px;
+  border-left: 1px solid rgb(255, 255, 255);
+}
+
+.grid_8 .mod-inner {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: rgb(255, 255, 255);
+  padding-bottom: 12px;
+}
+
+.grid_8 .mod-inner h1, h2, h3, h4, h5 {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* Sidebar
+-----------------------------------------------------------*/
+.sidebar {
+  margin: 0px;
+}
+ 
+.sidebar h1 {
+  font-weight: bold;  
+  font-size: 14px;
+  line-height: 24px;
+} 
+ 
+.sidebar h2, h3, h4, h5 {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px; 
+}
+
+.sidebar h3, h4, h5 {
+  text-transform: lowercase;
+}
+ 
+.sidebar p {
+  margin: 0px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;  
+  text-transform: lowercase;
+}
+
+/* Notes
+-----------------------------------------------------------*/
+.grid_8 .mod-inner h2, h3, h4, h5, h6 {
+  font-weight: bolder;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* Links
+-----------------------------------------------------------*/
+.links h1 {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+  margin-bottom: 12px;
+}
+
+.text h1 {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+  margin-bottom: 12px;
+}
+
+
+/* Quotes
+-----------------------------------------------------------*/
+.quotes h1 {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 24px;
+  margin-top: 0px;
+  margin-right: 24px;
+  padding-left: 24px;
+  border-left: 1px;
+  border-left-style: solid;
+  border-left-color: rgba(255, 255, 255, .25);
+}
+
+.quotes p.quote {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+/* Videos
+-----------------------------------------------------------*/
+.videos object {
+  margin-bottom: 24px;
+  border: 3px solid white;
+}
+
+/* Chats
+-----------------------------------------------------------*/
+p.chat {
+  margin: 0px;
+}
+
+p.chat:last-child {
+  margin: 0px 0px 24px 0px;
+}
+
+/* Navigation
+-----------------------------------------------------------*/
+#permalink-navigation p {
+  display: inline;
+  text-align: right;
+}
+
+#permalink-navigation a {
+  text-decoration: none;
+}
+
+#permalink-navigation .left {
+  text-align: left;
+  float: left;
+}
+
+#permalink-navigation .right {
+  float: right;
+  text-align: right;
+}
+
+#permalink-navigation .mod-inner {
+  margin-top: -24px;
+}
+
+/* Big Footer
+-----------------------------------------------------------*/
+#big-footer {
+  padding-top: 36px;
+}
+
+#big-footer ul,
+#big-footer h1, h2 {
+  padding: 0px;
+  margin: 0px;
+  line-height: 24px;
+}
+
+#big-footer ul {
+  list-style-type: none;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+#big-footer h1, h2 {
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+#big-footer p {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+  margin-top: 0px;
+  margin-bottom: 24px;
+}
+
+#pre-big-footer3 {
+  margin: 0px 0px 24px 0px;
+  padding: 0px;
+}
+
+/* Footer
+-----------------------------------------------------------*/
+#footer {
+  line-height: 24px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  padding-left: 0px;
+  padding-bottom: 24px;
+  padding-right: 0px;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: lighter;
+}
+
+#footer a, ul, ul li {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+#footer ul {
+  display: inline;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+#footer ul li {
+  margin-right: 20px;
+  list-style-type: none;
+  float: none;
+  display: inline;  
+}
+
+#footer p {
+  text-align: right;
+  display: inline;
+  float: right;
+  margin: 0px;
+  padding: 0px;
+}
+
+p.link-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+p.link-title a {
+  padding-left: 12px;
+}
+
+/* Links (CSS3)
+-----------------------------------------------------------*/
+a {
+  -webkit-transition-duration: .25s; 
+  -webkit-transition-property: color;
+  -moz-transition-duration: .25s; 
+  -moz-transition-property: color;
+}
+
+/* Notes (CSS3)
+-----------------------------------------------------------*/
+.mod blockquote {
+  border-left-color: rgba(255, 255, 255, .25);
+}
