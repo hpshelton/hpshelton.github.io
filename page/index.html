@@ -3,16 +3,5 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<div class="mod grid_2 prefix_1">
-  <div class="sidebar mod-inner">
-    <h2><a href="{{ post.permalink }}">{{ post.date | date: "%b %e, %Y" }}</a></h2>
-  </div>
-</div>
-
-<div class="grid_8 prefix_0 mod text">
-  <div class="mod-inner">
-    <h1><a href="{{ post.link }}">{{ post.title }}</a> &rarr;</h1>
-    {{ post.content }}
-  </div>
-</div>
+  {% include post.html content=post %}
 {% endfor %}
