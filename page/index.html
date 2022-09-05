@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+<div class="mod grid_2 prefix_1">
+  <div class="sidebar mod-inner">
+    <h2><a href="{{ post.permalink }}">{{ post.date | date: "%b %e, %Y" }}</a></h2>
+  </div>
+</div>
+
+<div class="grid_8 prefix_0 mod text">
+  <div class="mod-inner">
+    <h1><a href="{{ post.link }}">{{ post.title }}</a> &rarr;</h1>
+    {{ post.content }}
+  </div>
+</div>
+{% endfor %}
+
+<div id="permalink-navigation" class="grid_8 mod prefix_3">
+  <div class="mod-inner">          
+    <p class="right grid_2">
+      {% if paginator.next_page %}<a href="{{ paginator.next_page_path }}">Older &rarr;</a>{% endif %}
+    </p> 
+    <p class="left grid_2">
+      {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path }}">&larr; Newer</a>{% endif %}
+    </p><p>&nbsp;</p>          
+  </div>
+</div>

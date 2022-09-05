@@ -1,10 +1,28 @@
 theme: jekyll-theme-slate
+
 defaults:
   - scope:
       path: "images"
     values:
       image: true
+
 markdown: CommonMarkGhPages
 commonmark:
    extensions:
    - autolink
+   options: ["UNSAFE"]
+
+plugins:
+  ##- jekyll-feed
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# collections:
+#   category:
+#     output: true
+
+paginate: 10
+paginate_path: "/page/:num/"
