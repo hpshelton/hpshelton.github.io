@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-05 01:31:08 GMT
 title: "I read the federal government's Zero-Trust Memo so you don't have to"
 link: https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to

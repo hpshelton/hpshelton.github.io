@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-15 01:30:41 GMT
 title: "The Electric Taxi Company You Could Have Called in 1900"
 link: https://www.theatlantic.com/technology/archive/2011/03/the-electric-taxi-company-you-could-have-called-in-1900/72481/

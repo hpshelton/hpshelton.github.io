@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-10 01:30:25 GMT
 title: "Subversive Trilemma: Why Cyber Operations Fall Short of Expectations"
 link: https://direct.mit.edu/isec/article/46/2/51/107693/The-Subversive-Trilemma-Why-Cyber-Operations-Fall

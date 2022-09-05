@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-02 16:30:56 GMT
 title: "CRISPR injected into the blood treats a genetic disease for first time"
 link: https://www.sciencemag.org/news/2021/06/crispr-injected-blood-treats-genetic-disease-first-time

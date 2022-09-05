@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-22 01:30:48 GMT
 title: "Microsoft in standoff with Amazon over big hire, names Charlie Bell to lead 'bold' new security group"
 link: https://www.geekwire.com/2021/microsoft-standoff-amazon-big-hire-names-charlie-bell-lead-bold-new-security-group/

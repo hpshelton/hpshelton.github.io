@@ -1,5 +1,6 @@
 ---
-layout: photo
+layout: post
+type: photo
 date: 2020-04-13 01:32:10 GMT
 title: "Photo post"
 permalink: /post/615243086995587072/so-ive-been-a-little-busy-this-month-to-see-the

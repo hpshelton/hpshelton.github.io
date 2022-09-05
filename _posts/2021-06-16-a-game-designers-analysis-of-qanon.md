@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-16 01:30:52 GMT
 title: "A Game Designer's Analysis Of QAnon"
 link: https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5

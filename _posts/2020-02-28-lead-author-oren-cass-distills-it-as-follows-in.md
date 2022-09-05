@@ -1,5 +1,6 @@
 ---
-layout: photo
+layout: post
+type: photo
 date: 2020-02-28 02:30:56 GMT
 title: "This chart is the best explanation of middle-class finances you will ever see"
 permalink: /post/611169920828555264/lead-author-oren-cass-distills-it-as-follows-in

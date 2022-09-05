@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-27 01:31:05 GMT
 title: "Private Israeli spyware used to hack cellphones of journalists, activists worldwide"
 link: https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/

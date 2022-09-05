@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-04-27 01:30:32 GMT
 title: "Why the Past 10 Years of American Life Have Been Uniquely Stupid"
 link: https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/

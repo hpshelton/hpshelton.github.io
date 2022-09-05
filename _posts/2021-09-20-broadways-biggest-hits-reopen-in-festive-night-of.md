@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-20 01:30:29 GMT
 title: "Broadway's Biggest Hits Reopen in Festive Night of Theater"
 link: https://www.nytimes.com/live/2021/09/14/theater/broadway-reopening-shows-nyc

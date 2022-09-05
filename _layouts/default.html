@@ -813,18 +813,20 @@ a {
       <div><!--</div> id="post-{PostID}">-->
       {{ content }}      
       </div>
-<!--      
-      <!-- Pagination 
+
+      <!-- Pagination -->
       <div id="permalink-navigation" class="grid_8 mod prefix_3">
         <div class="mod-inner">          
           <p class="right grid_2">
+            {% if paginator.next_page %}<a href="{{ paginator.next_page_path }}">Older &rarr;</a>{% endif %}
             {% if page.previous.url %}<a href="{{ page.previous.url }}">Older &rarr;</a>{% endif %}
           </p> 
           <p class="left grid_2">
+            {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path }}">&larr; Newer</a>{% endif %}
             {% if page.next.url %}<a href="{{ page.next.url }}">&larr; Newer</a>{% endif %}
           </p><p>&nbsp;</p>          
         </div>
-      </div> -->
+      </div>
       
       <div class="clear"></div>
       

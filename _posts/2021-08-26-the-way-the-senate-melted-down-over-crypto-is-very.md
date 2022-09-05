@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-08-26 01:30:28 GMT
 title: "The Way the Senate Melted Down Over Crypto Is Very Revealing"
 link: https://www.nytimes.com/2021/08/12/opinion/senate-cryptocurrency.html

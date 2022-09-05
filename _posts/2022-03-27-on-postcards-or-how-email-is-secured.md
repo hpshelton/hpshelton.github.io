@@ -1,5 +1,6 @@
 ---
 layout: post
+type: text
 date: 2022-03-27 05:46:41 GMT
 title: "On Postcards (or How Email Is Secured)"
 permalink: /post/679854736809295872/on-postcards-or-how-email-is-secured

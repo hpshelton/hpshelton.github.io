@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-29 01:31:05 GMT
 title: "The rise and importance of Secret Congress"
 link: https://www.slowboring.com/p/the-rise-and-importance-of-secret

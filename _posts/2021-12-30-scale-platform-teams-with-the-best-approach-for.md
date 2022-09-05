@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-12-30 18:50:33 GMT
 title: "Scale platform teams with the best approach for platform teams - self-service"
 link: https://www.rubick.com/platform-teams-and-the-self-service-model/

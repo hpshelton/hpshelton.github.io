@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-07 01:30:34 GMT
 title: "FBI document shows what data can be obtained from encrypted messaging apps"
 link: https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/

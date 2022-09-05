@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-07-30 00:55:18 GMT
 title: "US regulators will certify first small nuclear reactor design"
 link: https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/

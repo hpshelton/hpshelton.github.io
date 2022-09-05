@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-02-08 15:50:16 GMT
 title: "How This All Happened"
 link: http://www.collaborativefund.com/blog/how-this-all-happened/

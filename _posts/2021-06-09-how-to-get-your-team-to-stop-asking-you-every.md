@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-09 01:30:47 GMT
 title: "How to Get Your Team to Stop Asking You Every Little Question"
 link: https://hbr.org/2021/06/how-to-get-your-team-to-stop-asking-you-every-little-question

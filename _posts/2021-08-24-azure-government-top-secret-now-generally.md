@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-08-24 01:30:34 GMT
 title: "Azure Government Top Secret now generally available for US national security missions"
 link: https://azure.microsoft.com/en-us/blog/azure-government-top-secret-now-generally-available-for-us-national-security-missions

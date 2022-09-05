@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-12-10 02:30:26 GMT
 title: "Can Nuclear Fusion Put the Brakes on Climate Change?"
 link: https://www.newyorker.com/magazine/2021/10/11/can-nuclear-fusion-put-the-brakes-on-climate-change

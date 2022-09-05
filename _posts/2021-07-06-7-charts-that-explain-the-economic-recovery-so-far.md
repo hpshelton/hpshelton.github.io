@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-06 01:30:58 GMT
 title: "7 Charts That Explain the Economic Recovery So Far"
 link: https://www.nytimes.com/2021/07/02/opinion/june-jobs-report-us.html

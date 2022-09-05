@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-02-21 08:00:00 GMT
 title: "The post-quantum state: a taxonomy of challenges"
 link: https://blog.cloudflare.com/post-quantum-taxonomy/

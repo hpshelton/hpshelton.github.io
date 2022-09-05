@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-08 01:30:22 GMT
 title: "Death, the Prosperity Gospel and Me"
 link: https://www.nytimes.com/2016/02/14/opinion/sunday/death-the-prosperity-gospel-and-me.html

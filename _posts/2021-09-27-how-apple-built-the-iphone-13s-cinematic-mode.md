@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-27 01:30:48 GMT
 title: "How Apple built the iPhone 13's Cinematic Mode – TechCrunch"
 link: https://techcrunch.com/2021/09/23/how-apple-built-the-iphone-13-pros-cinematic-mode/

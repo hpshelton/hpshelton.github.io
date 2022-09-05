@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-12-05 02:30:15 GMT
 title: "The Case of the Recursive Resolvers"
 link: https://slack.engineering/what-happened-during-slacks-dnssec-rollout/

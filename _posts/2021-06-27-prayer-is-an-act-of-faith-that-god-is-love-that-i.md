@@ -1,5 +1,6 @@
 ---
 layout: post
+type: quote
 date: 2021-06-27 22:16:51 GMT
 title: ""
 permalink: /post/655184061387636737/prayer-is-an-act-of-faith-that-god-is-love-that-i

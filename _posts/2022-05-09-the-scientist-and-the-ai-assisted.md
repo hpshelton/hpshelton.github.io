@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-09 01:30:39 GMT
 title: "The Scientist and the A.I.-Assisted, Remote-Control Killing Machine"
 link: https://www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizadeh-assassination-israel.html

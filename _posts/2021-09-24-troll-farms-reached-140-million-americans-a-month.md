@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-24 01:30:57 GMT
 title: "Troll farms reached 140 million Americans a month on Facebook before 2020 election, internal report shows"
 link: https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/

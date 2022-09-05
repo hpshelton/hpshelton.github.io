@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-07-22 01:30:22 GMT
 title: "A Beginners All Inclusive Guide to ETW"
 link: https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw

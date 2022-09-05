@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-08-25 01:30:44 GMT
 title: "Building Microsoft-powered native video meetings on LinkedIn"
 link: https://engineering.linkedin.com/blog/2021/building-microsoft-powered-native-video-meetings-on-linkedin

@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-06 01:30:29 GMT
 title: "A Crazy LEGO Journey"
 link: https://ironicsans.substack.com/p/52-crazy-lego-people?s=r

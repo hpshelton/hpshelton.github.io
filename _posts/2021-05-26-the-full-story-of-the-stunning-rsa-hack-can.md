@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-05-26 01:30:57 GMT
 title: "The Full Story of the Stunning RSA Hack Can Finally Be Told"
 link: https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told

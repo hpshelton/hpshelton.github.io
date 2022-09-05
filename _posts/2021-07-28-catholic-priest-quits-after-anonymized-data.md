@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-28 01:31:08 GMT
 title: "Catholic priest quits after \"anonymized\" data revealed alleged use of Grindr"
 link: https://arstechnica.com/tech-policy/2021/07/catholic-priest-quits-after-anonymized-data-revealed-alleged-use-of-grindr/

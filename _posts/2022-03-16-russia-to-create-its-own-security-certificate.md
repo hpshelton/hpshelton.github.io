@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-03-16 07:00:00 GMT
 title: "Russia to create its own security certificate authority, alarming experts"
 link: https://www.cyberscoop.com/russia-tls-security-certificate-authority/

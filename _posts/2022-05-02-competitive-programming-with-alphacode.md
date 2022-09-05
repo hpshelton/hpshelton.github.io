@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-02 01:30:27 GMT
 title: "Competitive programming with AlphaCode"
 link: https://www.deepmind.com/blog/competitive-programming-with-alphacode

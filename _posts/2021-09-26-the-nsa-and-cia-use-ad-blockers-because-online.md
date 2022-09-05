@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-26 01:30:34 GMT
 title: "The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous"
 link: https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous

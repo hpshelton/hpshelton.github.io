@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-08-09 01:30:31 GMT
 title: "Visualizing Olympic Champions, Present vs. Past"
 link: https://www.nytimes.com/interactive/2021/08/07/sports/olympics/olympic-races.html

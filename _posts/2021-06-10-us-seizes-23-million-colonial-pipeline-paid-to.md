@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-10 04:57:44 GMT
 title: "US seizes $2.3 million Colonial Pipeline paid to ransomware attackers"
 link: https://arstechnica.com/gadgets/2021/06/us-seizes-2-3-million-colonial-pipeline-paid-to-ransomware-attackers/

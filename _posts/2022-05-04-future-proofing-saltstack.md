@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-05-04 01:30:21 GMT
 title: "Future-proofing SaltStack"
 link: https://blog.cloudflare.com/future-proofing-saltstack/

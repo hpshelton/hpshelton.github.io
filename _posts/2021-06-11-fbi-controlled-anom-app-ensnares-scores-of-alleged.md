@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-11 01:30:41 GMT
 title: "FBI-controlled Anom app ensnares scores of alleged criminals in global police sting"
 link: https://www.washingtonpost.com/world/2021/06/08/fbi-app-arrests-australia-crime/

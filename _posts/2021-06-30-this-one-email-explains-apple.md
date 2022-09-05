@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-30 01:30:49 GMT
 title: "This one email explains Apple"
 link: https://techcrunch.com/2021/06/04/this-one-email-explains-apple/

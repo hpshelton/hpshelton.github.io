@@ -7,9 +7,10 @@ layout: default
   </div>
 </div>
 
-<div class="grid_8 prefix_0 mod text">
+<div class="grid_8 mod {{page.type}}{% unless page.type == "text" %}s{% endunless %}">
   <div class="mod-inner">
-    <h1><strong>{{ page.title }}</strong></h1>
+    {% if page.type == "text" %}<h1><strong>{{ page.title }}</strong></h1>{% endif %}
+    {% if page.type == "link" %}<h1><a href="{{ page.link }}">{{ page.title }}</a> &rarr;</h1>{% endif %}
     {{ content }}
   </div>
 </div>

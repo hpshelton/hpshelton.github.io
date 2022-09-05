@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-12-07 02:30:24 GMT
 title: "'Trojan Source' Bug Threatens the Security of All Code – Krebs on Security"
 link: https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/

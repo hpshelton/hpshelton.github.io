@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-06-17 01:30:51 GMT
 title: "A Better Remedy for Cancel Culture"
 link: https://www.persuasion.community/p/a-better-remedy-for-cancel-culture

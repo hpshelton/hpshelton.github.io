@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-07-16 01:30:22 GMT
 title: "Five charts explaining why inflation is at a 40-year high"
 link: https://www.washingtonpost.com/business/2022/inflation-charts/

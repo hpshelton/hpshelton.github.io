@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-19 01:30:29 GMT
 title: "Tim Keller on Social Media, Identity, and the Church"
 link: https://quarterly.gospelinlife.com/social-media-identity-and-the-church/

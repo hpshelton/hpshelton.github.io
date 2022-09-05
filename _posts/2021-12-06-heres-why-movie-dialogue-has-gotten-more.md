@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-12-06 02:30:24 GMT
 title: "Here's Why Movie Dialogue Has Gotten More Difficult To Understand (And Three Ways To Fix It)"
 link: https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/

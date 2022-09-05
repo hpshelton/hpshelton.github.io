@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-21 01:30:39 GMT
 title: "Microsoft accounts can now go fully passwordless"
 link: https://www.theverge.com/2021/9/15/22675175/microsoft-account-passwordless-no-password-security-feature

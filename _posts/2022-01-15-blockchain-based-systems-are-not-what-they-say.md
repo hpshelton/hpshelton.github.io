@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-01-15 02:20:58 GMT
 title: "Blockchain-based systems are not what they say they are"
 link: https://blog.mollywhite.net/blockchains-are-not-what-they-say/

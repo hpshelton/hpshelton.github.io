@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-12-08 02:30:54 GMT
 title: "CRISP: Critical Path Analysis for Microservice Architectures"
 link: https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/

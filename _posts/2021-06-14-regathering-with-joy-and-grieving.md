@@ -1,5 +1,6 @@
 ---
 layout: post
+type: text
 date: 2021-06-14 01:30:23 GMT
 title: "Regathering with Joy and Grieving"
 permalink: /post/653927879424573440/regathering-with-joy-and-grieving

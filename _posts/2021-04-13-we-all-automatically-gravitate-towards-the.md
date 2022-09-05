@@ -1,5 +1,6 @@
 ---
-layout: quote
+layout: post
+type: quote
 date: 2021-04-13 01:30:35 GMT
 title: "Quote post"
 permalink: /post/648310880024559616/we-all-automatically-gravitate-towards-the

@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-29 01:30:29 GMT
 title: "Inside Facebook's Data Wars"
 link: https://www.nytimes.com/2021/07/14/technology/facebook-data.html

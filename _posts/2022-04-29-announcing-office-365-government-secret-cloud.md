@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-04-29 01:30:52 GMT
 title: "Announcing Office 365 Government Secret cloud"
 link: https://www.microsoft.com/en-us/microsoft-365/blog/2022/03/28/announcing-office-365-government-secret-cloud-to-help-secure-classified-data/

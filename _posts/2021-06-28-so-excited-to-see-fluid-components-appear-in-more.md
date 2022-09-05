@@ -1,5 +1,6 @@
 ---
-layout: video
+layout: post
+type: video
 date: 2021-06-28 01:30:41 GMT
 title: "Microsoft Fluid Components"
 permalink: /post/655196256065486848/so-excited-to-see-fluid-components-appear-in-more

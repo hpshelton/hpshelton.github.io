@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2022-04-25 01:30:20 GMT
 title: "Nothing Sacred: These Apps Reserve The Right To Sell Your Prayers"
 link: https://www.buzzfeednews.com/article/emilybakerwhite/apps-selling-your-prayers

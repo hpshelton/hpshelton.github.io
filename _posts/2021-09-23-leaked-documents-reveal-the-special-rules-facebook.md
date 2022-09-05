@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-09-23 01:30:30 GMT
 title: "Leaked documents reveal the special rules Facebook uses for 5.8M VIPs"
 link: https://arstechnica.com/tech-policy/2021/09/leaked-documents-reveal-the-special-rules-facebook-uses-for-5-8m-vips/

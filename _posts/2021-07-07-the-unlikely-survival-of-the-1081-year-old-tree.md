@@ -1,5 +1,6 @@
 ---
-layout: link
+layout: post
+type: link
 date: 2021-07-07 01:30:41 GMT
 title: "The Unlikely Survival of the 1,081-Year-Old Tree That Gave Palo Alto Its Name"
 link: https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html
