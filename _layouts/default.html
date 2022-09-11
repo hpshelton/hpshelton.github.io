@@ -59,9 +59,10 @@
 
       <!-- Begin Posts -->
       <div><!--</div> id="post-{PostID}">-->
-      {{ content }}      
+      {{ content }}
       </div>
 
+      {% if page.title != "Now" %}
       <!-- Pagination -->
       <div id="permalink-navigation" class="grid_8 mod prefix_3">
         <div class="mod-inner">          
@@ -77,6 +78,7 @@
           <p>&nbsp;</p>
         </div>
       </div>
+      {% endif %}
       
       <div class="clear"></div>
       
