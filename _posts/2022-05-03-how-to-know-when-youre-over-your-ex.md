@@ -7,6 +7,6 @@ link: https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-y
 permalink: /post/683190747674116096/how-to-know-when-youre-over-your-ex
 redirect_from: 
   - /post/683190747674116096/how-to-know-when-youre-over-your-ex
-tags:
+categories:
 - relationships
 ---

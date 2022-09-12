@@ -7,7 +7,7 @@ link: https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-
 permalink: /post/669786125191217152/heres-why-movie-dialogue-has-gotten-more
 redirect_from: 
   - /post/669786125191217152/heres-why-movie-dialogue-has-gotten-more
-tags:
+categories:
 - film
 - movies
 - dialogue

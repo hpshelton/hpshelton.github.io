@@ -7,7 +7,7 @@ link: https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-s
 permalink: /post/691161026024079360/us-regulators-will-certify-first-small-nuclear
 redirect_from: 
   - /post/691161026024079360/us-regulators-will-certify-first-small-nuclear
-tags:
+categories:
 - NuScale
 - nuclear
 - power

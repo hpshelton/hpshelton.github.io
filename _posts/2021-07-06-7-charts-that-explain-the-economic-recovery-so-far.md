@@ -7,7 +7,7 @@ link: https://www.nytimes.com/2021/07/02/opinion/june-jobs-report-us.html
 permalink: /post/655921049058312193/7-charts-that-explain-the-economic-recovery-so-far
 redirect_from: 
   - /post/655921049058312193/7-charts-that-explain-the-economic-recovery-so-far
-tags:
+categories:
 - economics
 - pandemic
 - jobs

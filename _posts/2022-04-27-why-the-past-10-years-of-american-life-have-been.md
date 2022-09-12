@@ -7,7 +7,7 @@ link: https://www.theatlantic.com/magazine/archive/2022/05/social-media-democrac
 permalink: /post/682647127672881152/why-the-past-10-years-of-american-life-have-been
 redirect_from: 
   - /post/682647127672881152/why-the-past-10-years-of-american-life-have-been
-tags:
+categories:
 - social media
 - culture
 - technology

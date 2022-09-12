@@ -7,7 +7,7 @@ link: https://www.deepmind.com/blog/competitive-programming-with-alphacode
 permalink: /post/683100106903437313/competitive-programming-with-alphacode
 redirect_from: 
   - /post/683100106903437313/competitive-programming-with-alphacode
-tags:
+categories:
 - software
 - programming
 - technology

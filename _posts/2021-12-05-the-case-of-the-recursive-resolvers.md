@@ -7,7 +7,7 @@ link: https://slack.engineering/what-happened-during-slacks-dnssec-rollout/
 permalink: /post/669695518105108480/the-case-of-the-recursive-resolvers
 redirect_from: 
   - /post/669695518105108480/the-case-of-the-recursive-resolvers
-tags:
+categories:
 - DNS
 - DNSSEC
 - security

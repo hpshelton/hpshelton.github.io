@@ -7,7 +7,7 @@ link: https://arstechnica.com/gadgets/2021/06/us-seizes-2-3-million-colonial-pip
 permalink: /post/653578537940467712/us-seizes-23-million-colonial-pipeline-paid-to
 redirect_from: 
   - /post/653578537940467712/us-seizes-23-million-colonial-pipeline-paid-to
-tags:
+categories:
 - bitcoin
 - Colonial pipeline
 - ransomware

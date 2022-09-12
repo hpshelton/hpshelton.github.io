@@ -7,7 +7,7 @@ link: http://www.collaborativefund.com/blog/how-this-all-happened/
 permalink: /post/675634653530554368/how-this-all-happened
 redirect_from: 
   - /post/675634653530554368/how-this-all-happened
-tags:
+categories:
 - inequality
 - economics
 - history

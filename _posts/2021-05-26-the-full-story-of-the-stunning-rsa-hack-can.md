@@ -7,7 +7,7 @@ link: https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-fi
 permalink: /post/652206573324763137/the-full-story-of-the-stunning-rsa-hack-can
 redirect_from: 
   - /post/652206573324763137/the-full-story-of-the-stunning-rsa-hack-can
-tags:
+categories:
 - cybersecurity
 - RSA
 - multifactor auth

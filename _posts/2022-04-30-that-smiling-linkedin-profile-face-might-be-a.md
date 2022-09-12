@@ -7,7 +7,7 @@ link: https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles?campaign_
 permalink: /post/682918929839095808/that-smiling-linkedin-profile-face-might-be-a
 redirect_from: 
   - /post/682918929839095808/that-smiling-linkedin-profile-face-might-be-a
-tags:
+categories:
 - artificial intelligence
 - LinkedIn
 - ai

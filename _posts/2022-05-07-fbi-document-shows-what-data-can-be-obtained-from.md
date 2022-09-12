@@ -7,7 +7,7 @@ link: https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-
 permalink: /post/683553099503288320/fbi-document-shows-what-data-can-be-obtained-from
 redirect_from: 
   - /post/683553099503288320/fbi-document-shows-what-data-can-be-obtained-from
-tags:
+categories:
 - encryption
 - security
 - privacy

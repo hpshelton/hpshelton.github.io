@@ -6,7 +6,7 @@ title: "This chart is the best explanation of middle-class finances you will eve
 permalink: /post/611169920828555264/lead-author-oren-cass-distills-it-as-follows-in
 redirect_from: 
   - /post/611169920828555264/lead-author-oren-cass-distills-it-as-follows-in
-tags:
+categories:
 - economics
 - income
 - finance

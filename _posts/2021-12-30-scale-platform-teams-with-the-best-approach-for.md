@@ -7,7 +7,7 @@ link: https://www.rubick.com/platform-teams-and-the-self-service-model/
 permalink: /post/672022118773440513/scale-platform-teams-with-the-best-approach-for
 redirect_from: 
   - /post/672022118773440513/scale-platform-teams-with-the-best-approach-for
-tags:
+categories:
 - self-service
 - platforms
 - technology

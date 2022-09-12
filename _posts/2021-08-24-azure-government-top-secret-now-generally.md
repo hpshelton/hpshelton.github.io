@@ -7,7 +7,7 @@ link: https://azure.microsoft.com/en-us/blog/azure-government-top-secret-now-gen
 permalink: /post/660360275489439744/azure-government-top-secret-now-generally
 redirect_from: 
   - /post/660360275489439744/azure-government-top-secret-now-generally
-tags:
+categories:
 - Azure
 - government
 - top secret

@@ -7,7 +7,7 @@ link: https://www.theatlantic.com/technology/archive/2011/03/the-electric-taxi-c
 permalink: /post/654018494985289728/the-electric-taxi-company-you-could-have-called-in
 redirect_from: 
   - /post/654018494985289728/the-electric-taxi-company-you-could-have-called-in
-tags:
+categories:
 - electric car
 - battery
 - batteries

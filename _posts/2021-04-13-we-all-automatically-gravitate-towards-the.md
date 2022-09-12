@@ -6,7 +6,7 @@ title: ""
 permalink: /post/648310880024559616/we-all-automatically-gravitate-towards-the
 redirect_from: 
   - /post/648310880024559616/we-all-automatically-gravitate-towards-the
-tags:
+categories:
 - Christianity
 - righteousness
 - obedience

@@ -7,7 +7,7 @@ link: https://www.newyorker.com/magazine/2021/10/11/can-nuclear-fusion-put-the-b
 permalink: /post/670148514217705472/can-nuclear-fusion-put-the-brakes-on-climate
 redirect_from: 
   - /post/670148514217705472/can-nuclear-fusion-put-the-brakes-on-climate
-tags:
+categories:
 - fusion
 - energy
 - climate change

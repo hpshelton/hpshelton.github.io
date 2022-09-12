@@ -7,7 +7,7 @@ link: https://www.nytimes.com/2021/08/12/opinion/senate-cryptocurrency.html
 permalink: /post/660541463371923456/the-way-the-senate-melted-down-over-crypto-is-very
 redirect_from: 
   - /post/660541463371923456/the-way-the-senate-melted-down-over-crypto-is-very
-tags:
+categories:
 - cryptocurrency
 - distributed finance
 - politics

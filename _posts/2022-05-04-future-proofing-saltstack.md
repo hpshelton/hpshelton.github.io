@@ -7,7 +7,7 @@ link: https://blog.cloudflare.com/future-proofing-saltstack/
 permalink: /post/683281294222868480/future-proofing-saltstack
 redirect_from: 
   - /post/683281294222868480/future-proofing-saltstack
-tags:
+categories:
 - security
 - CloudFlare
 - SaltStack

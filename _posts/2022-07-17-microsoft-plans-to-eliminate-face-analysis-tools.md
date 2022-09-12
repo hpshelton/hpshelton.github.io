@@ -7,11 +7,11 @@ link: https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition
 permalink: /post/689985472107315200/microsoft-plans-to-eliminate-face-analysis-tools
 redirect_from: 
   - /post/689985472107315200/microsoft-plans-to-eliminate-face-analysis-tools
-tags:
+categories:
 - artificial intelligence
 - ai
 - technology
-- Microsoft
+- microsoft
 - facial recognition
 ---
 <blockquote><p>The technology giant will stop offering automated tools that predict a person's gender, age and emotional state and will restrict the use of its facial recognition tool.</p>

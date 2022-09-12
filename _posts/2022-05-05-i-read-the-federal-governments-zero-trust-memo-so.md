@@ -7,7 +7,7 @@ link: https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust
 permalink: /post/683371941186371584/i-read-the-federal-governments-zero-trust-memo-so
 redirect_from: 
   - /post/683371941186371584/i-read-the-federal-governments-zero-trust-memo-so
-tags:
+categories:
 - security
 - cybersecurity
 - government

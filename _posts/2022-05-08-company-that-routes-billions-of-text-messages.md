@@ -7,7 +7,7 @@ link: https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-tex
 permalink: /post/683643704807964673/company-that-routes-billions-of-text-messages
 redirect_from: 
   - /post/683643704807964673/company-that-routes-billions-of-text-messages
-tags:
+categories:
 - sms
 - text messages
 - messaging

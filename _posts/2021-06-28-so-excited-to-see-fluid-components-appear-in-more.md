@@ -6,7 +6,7 @@ title: "Microsoft Fluid Components"
 permalink: /post/655196256065486848/so-excited-to-see-fluid-components-appear-in-more
 redirect_from: 
   - /post/655196256065486848/so-excited-to-see-fluid-components-appear-in-more
-tags:
+categories:
 - fluid
 - Microsoft
 - collaboration

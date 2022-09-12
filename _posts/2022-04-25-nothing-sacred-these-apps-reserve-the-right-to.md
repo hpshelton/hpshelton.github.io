@@ -7,7 +7,7 @@ link: https://www.buzzfeednews.com/article/emilybakerwhite/apps-selling-your-pra
 permalink: /post/682465921029259264/nothing-sacred-these-apps-reserve-the-right-to
 redirect_from: 
   - /post/682465921029259264/nothing-sacred-these-apps-reserve-the-right-to
-tags:
+categories:
 - data
 - privacy
 - religion

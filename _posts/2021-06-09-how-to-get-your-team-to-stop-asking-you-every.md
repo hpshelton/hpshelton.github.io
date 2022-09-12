@@ -7,7 +7,7 @@ link: https://hbr.org/2021/06/how-to-get-your-team-to-stop-asking-you-every-litt
 permalink: /post/653474919976435712/how-to-get-your-team-to-stop-asking-you-every
 redirect_from: 
   - /post/653474919976435712/how-to-get-your-team-to-stop-asking-you-every
-tags:
+categories:
 - productivity
 - HBR
 - empowerment

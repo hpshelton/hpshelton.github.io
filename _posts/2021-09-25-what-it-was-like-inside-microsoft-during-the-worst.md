@@ -7,7 +7,7 @@ link: https://www.fastcompany.com/90672384/microsoft-president-brad-smith-solarw
 permalink: /post/663259407949430784/what-it-was-like-inside-microsoft-during-the-worst
 redirect_from: 
   - /post/663259407949430784/what-it-was-like-inside-microsoft-during-the-worst
-tags:
+categories:
 - Microsoft
 - SolarWinds
 - cybersecurity

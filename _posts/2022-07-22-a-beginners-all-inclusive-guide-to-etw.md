@@ -7,7 +7,7 @@ link: https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw
 permalink: /post/690438456531451904/a-beginners-all-inclusive-guide-to-etw
 redirect_from: 
   - /post/690438456531451904/a-beginners-all-inclusive-guide-to-etw
-tags:
+categories:
 - ETW
 - Windows
 ---

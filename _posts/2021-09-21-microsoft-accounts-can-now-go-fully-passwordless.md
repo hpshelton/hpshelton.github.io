@@ -7,7 +7,7 @@ link: https://www.theverge.com/2021/9/15/22675175/microsoft-account-passwordless
 permalink: /post/662896996302159872/microsoft-accounts-can-now-go-fully-passwordless
 redirect_from: 
   - /post/662896996302159872/microsoft-accounts-can-now-go-fully-passwordless
-tags:
+categories:
 - Microsoft
 - passwords
 - passwordless

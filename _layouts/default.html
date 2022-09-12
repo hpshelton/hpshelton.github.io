@@ -51,8 +51,7 @@
       <div id="header" class="grid_6 prefix_0">  
         <div id="header-inner">
           <h1><a href="/">HPSHELTON</a></h1>
-          <!--<p class="subtitle"><a href="/tagged/programming">Programming</a>, <a href="/tagged/privacy">Privacy</a>, <a href="/tagged/politics">Politics, </a><a href="/tagged/photography">Photography</a></p>-->
-          <p class="subtitle">Programming, Privacy, Politics, Photography</p>
+          <p class="subtitle"><a href="/tagged/programming">Programming</a>, <a href="/tagged/privacy">Privacy</a>, <a href="/tagged/politics">Politics, </a><a href="/tagged/photography">Photography</a></p>
         </div>
       </div>
       <div id="post-header" class="clear"></div>
@@ -62,7 +61,7 @@
       {{ content }}
       </div>
 
-      {% if page.title != "Now" %}
+      {% unless page.title == "Now" or page.next.url contains "tagged" or page.previous.url contains "tagged" %}
       <!-- Pagination -->
       <div id="permalink-navigation" class="grid_8 mod prefix_3">
         <div class="mod-inner">          
@@ -78,7 +77,7 @@
           <p>&nbsp;</p>
         </div>
       </div>
-      {% endif %}
+      {% endunless %}
       
       <div class="clear"></div>
       

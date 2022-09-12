@@ -7,7 +7,7 @@ link: https://www.nytimes.com/interactive/2021/08/07/sports/olympics/olympic-rac
 permalink: /post/659001317729107968/visualizing-olympic-champions-present-vs-past
 redirect_from: 
   - /post/659001317729107968/visualizing-olympic-champions-present-vs-past
-tags:
+categories:
 - swimming
 - track
 - olympics

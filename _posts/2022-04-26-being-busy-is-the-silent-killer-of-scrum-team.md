@@ -7,7 +7,7 @@ link: https://medium.com/serious-scrum/being-busy-is-the-silent-killer-of-scrum-
 permalink: /post/682556521764274176/being-busy-is-the-silent-killer-of-scrum-team
 redirect_from: 
   - /post/682556521764274176/being-busy-is-the-silent-killer-of-scrum-team
-tags:
+categories:
 - scrum
 - agile
 - productivity

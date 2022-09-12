@@ -7,7 +7,7 @@ link: https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-5
 permalink: /post/654109104048078848/a-game-designers-analysis-of-qanon
 redirect_from: 
   - /post/654109104048078848/a-game-designers-analysis-of-qanon
-tags:
+categories:
 - QAnon
 - conspiracy
 - game design

@@ -7,7 +7,7 @@ link: https://quarterly.gospelinlife.com/social-media-identity-and-the-church/
 permalink: /post/662715791301558272/tim-keller-on-social-media-identity-and-the
 redirect_from: 
   - /post/662715791301558272/tim-keller-on-social-media-identity-and-the
-tags:
+categories:
 - social media
 - Facebook
 - Twitter

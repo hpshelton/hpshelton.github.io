@@ -7,7 +7,7 @@ link: https://www.nytimes.com/live/2021/09/14/theater/broadway-reopening-shows-n
 permalink: /post/662806388474511360/broadways-biggest-hits-reopen-in-festive-night-of
 redirect_from: 
   - /post/662806388474511360/broadways-biggest-hits-reopen-in-festive-night-of
-tags:
+categories:
 - Broadway
 - New York
 - sports

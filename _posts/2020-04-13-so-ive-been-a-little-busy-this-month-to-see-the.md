@@ -6,7 +6,7 @@ title: "Photo post"
 permalink: /post/615243086995587072/so-ive-been-a-little-busy-this-month-to-see-the
 redirect_from: 
   - /post/615243086995587072/so-ive-been-a-little-busy-this-month-to-see-the
-tags:
+categories:
 - Microsoft
 - Teams
 - work from home

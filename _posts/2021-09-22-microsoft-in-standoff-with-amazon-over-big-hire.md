@@ -7,7 +7,7 @@ link: https://www.geekwire.com/2021/microsoft-standoff-amazon-big-hire-names-cha
 permalink: /post/662987602129977344/microsoft-in-standoff-with-amazon-over-big-hire
 redirect_from: 
   - /post/662987602129977344/microsoft-in-standoff-with-amazon-over-big-hire
-tags:
+categories:
 - Charlie Bell
 - Microsoft
 - Amazon

@@ -7,7 +7,7 @@ link: https://arstechnica.com/tech-policy/2021/07/catholic-priest-quits-after-an
 permalink: /post/657914193698275328/catholic-priest-quits-after-anonymized-data
 redirect_from: 
   - /post/657914193698275328/catholic-priest-quits-after-anonymized-data
-tags:
+categories:
 - location
 - privacy
 - technology

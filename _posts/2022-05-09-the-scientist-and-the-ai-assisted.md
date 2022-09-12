@@ -7,7 +7,7 @@ link: https://www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizad
 permalink: /post/683734297798131712/the-scientist-and-the-ai-assisted
 redirect_from: 
   - /post/683734297798131712/the-scientist-and-the-ai-assisted
-tags:
+categories:
 - Iran
 - Israel
 - robots

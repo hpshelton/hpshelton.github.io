@@ -7,7 +7,7 @@ link: https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html
 permalink: /post/656011628639338496/the-unlikely-survival-of-the-1081-year-old-tree
 redirect_from: 
   - /post/656011628639338496/the-unlikely-survival-of-the-1081-year-old-tree
-tags:
+categories:
 - Palo Alto
 - El Palo Alto
 - tree

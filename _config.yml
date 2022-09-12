@@ -3,6 +3,11 @@ defaults:
       path: "images"
     values:
       image: true
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 
 markdown: CommonMarkGhPages
 commonmark:
@@ -18,9 +23,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# collections:
-#   category:
-#     output: true
+collections:
+  category:
+    output: true
 
 paginate: 10
 paginate_path: "/page/:num/"

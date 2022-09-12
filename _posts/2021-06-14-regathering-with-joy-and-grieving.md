@@ -6,7 +6,7 @@ title: "Regathering with Joy and Grieving"
 permalink: /post/653927879424573440/regathering-with-joy-and-grieving
 redirect_from: 
   - /post/653927879424573440/regathering-with-joy-and-grieving
-tags:
+categories:
 - covid
 - regathering
 - normal

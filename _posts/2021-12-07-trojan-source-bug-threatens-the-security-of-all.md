@@ -7,7 +7,7 @@ link: https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-securi
 permalink: /post/669876722245779456/trojan-source-bug-threatens-the-security-of-all
 redirect_from: 
   - /post/669876722245779456/trojan-source-bug-threatens-the-security-of-all
-tags:
+categories:
 - Trojan Source
 - software
 - security

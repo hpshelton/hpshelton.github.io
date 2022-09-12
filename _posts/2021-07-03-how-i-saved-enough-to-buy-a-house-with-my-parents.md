@@ -7,7 +7,7 @@ link: https://www.mcsweeneys.net/articles/how-i-saved-enough-to-buy-a-house-with
 permalink: /post/655657236154269696/how-i-saved-enough-to-buy-a-house-with-my-parents
 redirect_from: 
   - /post/655657236154269696/how-i-saved-enough-to-buy-a-house-with-my-parents
-tags:
+categories:
 - humor
 - McSweeney's
 - economics

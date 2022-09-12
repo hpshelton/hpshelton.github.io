@@ -7,7 +7,7 @@ link: https://www.persuasion.community/p/a-better-remedy-for-cancel-culture
 permalink: /post/654199699747815424/a-better-remedy-for-cancel-culture
 redirect_from: 
   - /post/654199699747815424/a-better-remedy-for-cancel-culture
-tags:
+categories:
 - job
 - employment
 - cancel culture

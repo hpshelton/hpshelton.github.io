@@ -7,7 +7,7 @@ link: https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-an
 permalink: /post/682737714117967872/how-bitcoin-tracers-took-down-the-webs-biggest
 redirect_from: 
   - /post/682737714117967872/how-bitcoin-tracers-took-down-the-webs-biggest
-tags:
+categories:
 - Bitcoin
 - technology
 - law

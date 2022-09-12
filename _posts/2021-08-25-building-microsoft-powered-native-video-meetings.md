@@ -7,7 +7,7 @@ link: https://engineering.linkedin.com/blog/2021/building-microsoft-powered-nati
 permalink: /post/660450883314810880/building-microsoft-powered-native-video-meetings
 redirect_from: 
   - /post/660450883314810880/building-microsoft-powered-native-video-meetings
-tags:
+categories:
 - Azure
 - Azure Communication Services
 - LinkedIn

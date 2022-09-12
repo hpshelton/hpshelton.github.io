@@ -6,7 +6,7 @@ title: "On Postcards (or How Email Is Secured)"
 permalink: /post/679854736809295872/on-postcards-or-how-email-is-secured
 redirect_from: 
   - /post/679854736809295872/on-postcards-or-how-email-is-secured
-tags:
+categories:
 - email
 - encryption
 - security

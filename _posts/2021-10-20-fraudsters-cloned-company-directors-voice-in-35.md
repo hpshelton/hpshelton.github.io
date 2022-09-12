@@ -7,7 +7,7 @@ link: https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-use
 permalink: /post/665524283218477056/fraudsters-cloned-company-directors-voice-in-35
 redirect_from: 
   - /post/665524283218477056/fraudsters-cloned-company-directors-voice-in-35
-tags:
+categories:
 - artificial intelligence
 - voice
 - security

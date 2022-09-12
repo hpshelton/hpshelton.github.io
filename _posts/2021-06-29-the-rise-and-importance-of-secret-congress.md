@@ -7,7 +7,7 @@ link: https://www.slowboring.com/p/the-rise-and-importance-of-secret
 permalink: /post/655286878346543104/the-rise-and-importance-of-secret-congress
 redirect_from: 
   - /post/655286878346543104/the-rise-and-importance-of-secret-congress
-tags:
+categories:
 - Congress
 - politics
 - bipartisanship

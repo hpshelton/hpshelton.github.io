@@ -7,7 +7,7 @@ link: https://www.theverge.com/22923871/carvana-pandemic-used-car-prices-sold-on
 permalink: /post/683009505217413120/a-robot-bought-my-seven-year-old-car-for-more-than
 redirect_from: 
   - /post/683009505217413120/a-robot-bought-my-seven-year-old-car-for-more-than
-tags:
+categories:
 - Carvana
 - ai
 - artificial intelligence

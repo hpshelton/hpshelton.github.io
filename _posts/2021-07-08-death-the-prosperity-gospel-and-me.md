@@ -7,7 +7,7 @@ link: https://www.nytimes.com/2016/02/14/opinion/sunday/death-the-prosperity-gos
 permalink: /post/656102206102290432/death-the-prosperity-gospel-and-me
 redirect_from: 
   - /post/656102206102290432/death-the-prosperity-gospel-and-me
-tags:
+categories:
 - Christianity
 - prosperity gospel
 - faith

@@ -7,7 +7,7 @@ link: https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware
 permalink: /post/657823593619750912/private-israeli-spyware-used-to-hack-cellphones-of
 redirect_from: 
   - /post/657823593619750912/private-israeli-spyware-used-to-hack-cellphones-of
-tags:
+categories:
 - privacy
 - NSO
 - technology

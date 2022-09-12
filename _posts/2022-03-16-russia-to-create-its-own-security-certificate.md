@@ -7,7 +7,7 @@ link: https://www.cyberscoop.com/russia-tls-security-certificate-authority/
 permalink: /post/679858458332446720/russia-to-create-its-own-security-certificate
 redirect_from: 
   - /post/679858458332446720/russia-to-create-its-own-security-certificate
-tags:
+categories:
 - Russia
 - security
 - cybersecurity

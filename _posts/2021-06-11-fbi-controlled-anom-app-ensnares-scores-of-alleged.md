@@ -7,7 +7,7 @@ link: https://www.washingtonpost.com/world/2021/06/08/fbi-app-arrests-australia-
 permalink: /post/653656107228758017/fbi-controlled-anom-app-ensnares-scores-of-alleged
 redirect_from: 
   - /post/653656107228758017/fbi-controlled-anom-app-ensnares-scores-of-alleged
-tags:
+categories:
 - encryption
 - app
 - law enforcement

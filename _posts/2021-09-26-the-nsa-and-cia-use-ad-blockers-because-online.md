@@ -7,7 +7,7 @@ link: https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-bec
 permalink: /post/663349975090085888/the-nsa-and-cia-use-ad-blockers-because-online
 redirect_from: 
   - /post/663349975090085888/the-nsa-and-cia-use-ad-blockers-because-online
-tags:
+categories:
 - ads
 - advertising
 - NSA

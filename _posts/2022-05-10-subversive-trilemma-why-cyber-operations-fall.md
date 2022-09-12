@@ -7,7 +7,7 @@ link: https://direct.mit.edu/isec/article/46/2/51/107693/The-Subversive-Trilemma
 permalink: /post/683824881455005696/subversive-trilemma-why-cyber-operations-fall
 redirect_from: 
   - /post/683824881455005696/subversive-trilemma-why-cyber-operations-fall
-tags:
+categories:
 - cybersecurity
 - security
 - politics

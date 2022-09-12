@@ -7,7 +7,7 @@ link: https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-r
 permalink: /post/663168806078791680/troll-farms-reached-140-million-americans-a-month
 redirect_from: 
   - /post/663168806078791680/troll-farms-reached-140-million-americans-a-month
-tags:
+categories:
 - Facebook
 - society
 ---

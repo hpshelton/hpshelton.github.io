@@ -7,7 +7,7 @@ link: https://techcrunch.com/2021/06/04/this-one-email-explains-apple/
 permalink: /post/655377458761269248/this-one-email-explains-apple
 redirect_from: 
   - /post/655377458761269248/this-one-email-explains-apple
-tags:
+categories:
 - Apple
 - communication
 ---

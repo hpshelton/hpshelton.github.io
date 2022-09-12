@@ -7,7 +7,7 @@ link: https://www.sciencemag.org/news/2021/06/crispr-injected-blood-treats-genet
 permalink: /post/655615283402276864/crispr-injected-into-the-blood-treats-a-genetic
 redirect_from: 
   - /post/655615283402276864/crispr-injected-into-the-blood-treats-a-genetic
-tags:
+categories:
 - CRISPR
 - biology
 - science

@@ -7,7 +7,7 @@ link: https://www.nytimes.com/2021/07/14/technology/facebook-data.html
 permalink: /post/658004749505970176/inside-facebooks-data-wars
 redirect_from: 
   - /post/658004749505970176/inside-facebooks-data-wars
-tags:
+categories:
 - Facebook
 - CrowdTangle
 - transparency

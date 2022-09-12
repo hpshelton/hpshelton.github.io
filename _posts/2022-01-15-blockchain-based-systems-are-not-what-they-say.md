@@ -7,7 +7,7 @@ link: https://blog.mollywhite.net/blockchains-are-not-what-they-say/
 permalink: /post/673409409869824000/blockchain-based-systems-are-not-what-they-say
 redirect_from: 
   - /post/673409409869824000/blockchain-based-systems-are-not-what-they-say
-tags:
+categories:
 - blockchain
 - NFT
 - web3

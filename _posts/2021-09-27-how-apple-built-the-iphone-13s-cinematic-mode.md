@@ -7,7 +7,7 @@ link: https://techcrunch.com/2021/09/23/how-apple-built-the-iphone-13-pros-cinem
 permalink: /post/663440586883432448/how-apple-built-the-iphone-13s-cinematic-mode
 redirect_from: 
   - /post/663440586883432448/how-apple-built-the-iphone-13s-cinematic-mode
-tags:
+categories:
 - iPhone
 - camera
 - photography

@@ -7,7 +7,7 @@ link: https://www.wired.com/story/amazon-failed-to-protect-your-data-investigati
 permalink: /post/670057946855718912/amazons-dark-secret-it-has-failed-to-protect
 redirect_from: 
   - /post/670057946855718912/amazons-dark-secret-it-has-failed-to-protect
-tags:
+categories:
 - security
 - privacy
 - Amazon

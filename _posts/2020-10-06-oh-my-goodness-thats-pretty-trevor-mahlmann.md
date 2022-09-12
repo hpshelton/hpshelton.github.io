@@ -6,7 +6,7 @@ title: ""
 permalink: /post/631246014538514432/oh-my-goodness-thats-pretty-trevor-mahlmann
 redirect_from: 
   - /post/631246014538514432/oh-my-goodness-thats-pretty-trevor-mahlmann
-tags:
+categories:
 - rockets
 - space
 - photography

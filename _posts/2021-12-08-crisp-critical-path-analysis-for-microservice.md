@@ -7,7 +7,7 @@ link: https://eng.uber.com/crisp-critical-path-analysis-for-microservice-archite
 permalink: /post/669967349632401408/crisp-critical-path-analysis-for-microservice
 redirect_from: 
   - /post/669967349632401408/crisp-critical-path-analysis-for-microservice
-tags:
+categories:
 - distributed tracing
 - Uber
 - CRISP
