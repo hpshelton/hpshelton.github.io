@@ -8,7 +8,7 @@ permalink: /post/663168806078791680/troll-farms-reached-140-million-americans-a-
 redirect_from: 
   - /post/663168806078791680/troll-farms-reached-140-million-americans-a-month
 categories:
-- Facebook
+- facebook
 - society
 ---
 <blockquote>In the run-up to the 2020 election, the most highly contested in US history, Facebook's most popular pages for Christian and Black American content were being run by Eastern European troll farms. These pages were part of a larger network that collectively reached nearly half of all Americans, according to an internal company report, and achieved that reach not through user choice but primarily as a result of Facebook's own platform design and engagement-hungry algorithm. </blockquote>

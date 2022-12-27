@@ -9,8 +9,8 @@ redirect_from:
   - /post/669967349632401408/crisp-critical-path-analysis-for-microservice
 categories:
 - distributed tracing
-- Uber
-- CRISP
+- uber
+- crisp
 - microservices
 - observability
 ---

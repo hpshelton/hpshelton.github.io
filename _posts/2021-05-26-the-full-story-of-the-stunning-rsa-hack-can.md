@@ -9,7 +9,7 @@ redirect_from:
   - /post/652206573324763137/the-full-story-of-the-stunning-rsa-hack-can
 categories:
 - cybersecurity
-- RSA
+- rsa
 - multifactor auth
 - hack
 ---

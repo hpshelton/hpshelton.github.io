@@ -9,7 +9,7 @@ redirect_from:
   - /post/653474919976435712/how-to-get-your-team-to-stop-asking-you-every
 categories:
 - productivity
-- HBR
+- hbr
 - empowerment
 ---
 <blockquote>You're finally in the flow, typing away and making progress on that strategy document. And then a team member IMs you a question. And then another one pops up. Before you know it, your afternoon is gone and you've made no progress. Sound familiar?</blockquote>

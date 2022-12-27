@@ -9,7 +9,7 @@ redirect_from:
   - /post/653578537940467712/us-seizes-23-million-colonial-pipeline-paid-to
 categories:
 - bitcoin
-- Colonial pipeline
+- colonial pipeline
 - ransomware
 - malware
 - fbi

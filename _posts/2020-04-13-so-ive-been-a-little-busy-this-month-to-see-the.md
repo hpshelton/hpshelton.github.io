@@ -1,18 +1,18 @@
 ---
 layout: post
-type: photo
+type: post
 date: 2020-04-13 01:32:10 GMT
 title: "Photo post"
 permalink: /post/615243086995587072/so-ive-been-a-little-busy-this-month-to-see-the
 redirect_from: 
   - /post/615243086995587072/so-ive-been-a-little-busy-this-month-to-see-the
 categories:
-- Microsoft
-- Teams
+- microsoft
+- teams
 - work from home
 - meetings
 ---
-![](/images/9553cb671eacbb267758888f74bd45d96fb919e4.png)
+![](/assets/images/9553cb671eacbb267758888f74bd45d96fb919e4.png)
 
 <p>So I've been a little busy this month...</p>
 <p>To see the full report Microsoft produced on the ways COVID-19 have changed the way work is done, see https://www.microsoft.com/en-us/microsoft-365/blog/2020/04/09/remote-work-trend-report-meetings/.</p>

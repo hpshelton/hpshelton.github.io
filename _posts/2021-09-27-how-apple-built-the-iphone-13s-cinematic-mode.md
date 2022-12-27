@@ -8,10 +8,10 @@ permalink: /post/663440586883432448/how-apple-built-the-iphone-13s-cinematic-mod
 redirect_from: 
   - /post/663440586883432448/how-apple-built-the-iphone-13s-cinematic-mode
 categories:
-- iPhone
+- iphone
 - camera
 - photography
 - video
-- Cinematic Mode
+- cinematic mode
 ---
 <p>A great look into the capabilities of Apple's new Cinematic Mode for iPhone 13 as well as some of the technology behind it. Don't miss the demo video for real-world examples.</p>

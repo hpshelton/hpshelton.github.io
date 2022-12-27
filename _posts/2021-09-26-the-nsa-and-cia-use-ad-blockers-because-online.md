@@ -10,8 +10,8 @@ redirect_from:
 categories:
 - ads
 - advertising
-- NSA
-- CIA
+- nsa
+- cia
 ---
 <blockquote>The Intelligence Community has deployed ad-blocking technology, according to a letter sent by Congress and shared with Motherboard.</blockquote>
 <p>Today in not-surprising news...</p>

@@ -10,6 +10,6 @@ redirect_from:
 categories:
 - security
 - privacy
-- Amazon
+- amazon
 ---
 <p>Some pretty harrowing stories from Wired about Amazon's retail business's security and privacy culture.</p>

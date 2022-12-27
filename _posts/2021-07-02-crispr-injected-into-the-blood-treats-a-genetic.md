@@ -8,7 +8,7 @@ permalink: /post/655615283402276864/crispr-injected-into-the-blood-treats-a-gene
 redirect_from: 
   - /post/655615283402276864/crispr-injected-into-the-blood-treats-a-genetic
 categories:
-- CRISPR
+- crispr
 - biology
 - science
 - medicine

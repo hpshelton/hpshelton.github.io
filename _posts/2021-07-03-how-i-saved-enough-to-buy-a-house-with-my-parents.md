@@ -9,7 +9,7 @@ redirect_from:
   - /post/655657236154269696/how-i-saved-enough-to-buy-a-house-with-my-parents
 categories:
 - humor
-- McSweeney's
+- mcsweeney's
 - economics
 - finance
 - satire

@@ -9,7 +9,7 @@ redirect_from:
   - /post/657823593619750912/private-israeli-spyware-used-to-hack-cellphones-of
 categories:
 - privacy
-- NSO
+- nso
 - technology
 ---
 

@@ -8,9 +8,9 @@ permalink: /post/682828342718840832/announcing-office-365-government-secret-clou
 redirect_from: 
   - /post/682828342718840832/announcing-office-365-government-secret-cloud
 categories:
-- Microsoft
-- Teams
-- Microsoft Teams
+- microsoft
+- teams
+- microsoft teams
 - government
 ---
 <p>The secret's out - Teams will support the US government's Secret classified workloads.</p>

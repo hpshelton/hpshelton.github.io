@@ -8,7 +8,7 @@ permalink: /post/669876722245779456/trojan-source-bug-threatens-the-security-of-
 redirect_from: 
   - /post/669876722245779456/trojan-source-bug-threatens-the-security-of-all
 categories:
-- Trojan Source
+- trojan source
 - software
 - security
 ---

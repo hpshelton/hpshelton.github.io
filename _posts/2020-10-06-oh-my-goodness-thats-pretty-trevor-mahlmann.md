@@ -10,7 +10,7 @@ categories:
 - rockets
 - space
 - photography
-- Space X
+- space x
 ---
 ![](/assets/images/886d734b184621c284ac789ddbdb61fafdc556d2.jpg)
 

@@ -8,10 +8,10 @@ permalink: /post/669695518105108480/the-case-of-the-recursive-resolvers
 redirect_from: 
   - /post/669695518105108480/the-case-of-the-recursive-resolvers
 categories:
-- DNS
-- DNSSEC
+- dns
+- dnssec
 - security
-- Slack
+- slack
 - outage
 - postmortem
 ---

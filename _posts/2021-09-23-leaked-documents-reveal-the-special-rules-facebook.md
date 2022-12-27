@@ -8,6 +8,6 @@ permalink: /post/663078180886888448/leaked-documents-reveal-the-special-rules-fa
 redirect_from: 
   - /post/663078180886888448/leaked-documents-reveal-the-special-rules-facebook
 categories:
-- Facebook
+- facebook
 ---
 <blockquote>"For a select few members of our community, we are not enforcing our policies and standards," reads an internal Facebook report published as part of a <a href="https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353?mod=hp_lead_pos7">Wall Street Journal investigation</a>. "Unlike the rest of our community, these people can violate our standards without any consequences."</blockquote>

@@ -8,8 +8,8 @@ permalink: /post/656011628639338496/the-unlikely-survival-of-the-1081-year-old-t
 redirect_from: 
   - /post/656011628639338496/the-unlikely-survival-of-the-1081-year-old-tree
 categories:
-- Palo Alto
-- El Palo Alto
+- palo alto
+- el palo alto
 - tree
 - history
 ---

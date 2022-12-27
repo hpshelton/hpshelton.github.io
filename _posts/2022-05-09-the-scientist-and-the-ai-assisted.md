@@ -8,8 +8,8 @@ permalink: /post/683734297798131712/the-scientist-and-the-ai-assisted
 redirect_from: 
   - /post/683734297798131712/the-scientist-and-the-ai-assisted
 categories:
-- Iran
-- Israel
+- iran
+- israel
 - robots
 - ai
 - artificial intelligence

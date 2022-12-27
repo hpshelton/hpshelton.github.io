@@ -8,7 +8,7 @@ permalink: /post/656102206102290432/death-the-prosperity-gospel-and-me
 redirect_from: 
   - /post/656102206102290432/death-the-prosperity-gospel-and-me
 categories:
-- Christianity
+- christianity
 - prosperity gospel
 - faith
 - death

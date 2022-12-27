@@ -8,8 +8,8 @@ permalink: /post/662806388474511360/broadways-biggest-hits-reopen-in-festive-nig
 redirect_from: 
   - /post/662806388474511360/broadways-biggest-hits-reopen-in-festive-night-of
 categories:
-- Broadway
-- New York
+- broadway
+- new york
 - sports
 - musicals
 ---

@@ -8,7 +8,7 @@ permalink: /post/682737714117967872/how-bitcoin-tracers-took-down-the-webs-bigge
 redirect_from: 
   - /post/682737714117967872/how-bitcoin-tracers-took-down-the-webs-biggest
 categories:
-- Bitcoin
+- bitcoin
 - technology
 - law
 - law enforcement

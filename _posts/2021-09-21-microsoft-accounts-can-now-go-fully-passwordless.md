@@ -8,7 +8,7 @@ permalink: /post/662896996302159872/microsoft-accounts-can-now-go-fully-password
 redirect_from: 
   - /post/662896996302159872/microsoft-accounts-can-now-go-fully-passwordless
 categories:
-- Microsoft
+- microsoft
 - passwords
 - passwordless
 ---

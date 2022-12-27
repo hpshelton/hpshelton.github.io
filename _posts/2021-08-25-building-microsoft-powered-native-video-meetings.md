@@ -8,12 +8,12 @@ permalink: /post/660450883314810880/building-microsoft-powered-native-video-meet
 redirect_from: 
   - /post/660450883314810880/building-microsoft-powered-native-video-meetings
 categories:
-- Azure
-- Azure Communication Services
-- LinkedIn
-- ACS
+- azure
+- azure communication services
+- linkedin
+- acs
 - video calling
-- Microsoft
+- microsoft
 ---
 <blockquote>Azure Communications Services is built on the same technology that powers Microsoft Teams, which already supports millions of users daily. When a LinkedIn member wants to start a video meeting, LinkedIn services will communicate with Azure Communication Services to generate a user token and call token for the occasion. LinkedIn apps then join the call by using the Azure client library, providing the specified call token and identifying the LinkedIn member with the user token. Once LinkedIn members are in the meeting, the service handles all communication for the video call using their own network and protocols.</blockquote>
 <p>So excited to see my org's services powering hero scenarios for even more products, endpoints, and customers, and proud to have been a part of it.</p>

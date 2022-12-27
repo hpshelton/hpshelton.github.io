@@ -8,7 +8,7 @@ permalink: /post/683009505217413120/a-robot-bought-my-seven-year-old-car-for-mor
 redirect_from: 
   - /post/683009505217413120/a-robot-bought-my-seven-year-old-car-for-more-than
 categories:
-- Carvana
+- carvana
 - ai
 - artificial intelligence
 - cars

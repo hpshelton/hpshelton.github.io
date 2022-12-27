@@ -10,7 +10,7 @@ categories:
 - email
 - encryption
 - security
-- Microsoft
+- microsoft
 ---
 <p>Microsoft announced significant security enhancements to our Exchange Online, Outlook.com, and Hotmail email offerings in February - <a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-mta-sts-for-exchange-online/ba-p/3106386">MTA-STS</a> and <a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/releasing-outbound-smtp-dane-with-dnssec/ba-p/3100920">DANE</a>. As a former developer on Microsoft's consumer email product, here's why that matters.</p>
 

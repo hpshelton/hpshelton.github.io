@@ -8,8 +8,8 @@ permalink: /post/658004749505970176/inside-facebooks-data-wars
 redirect_from: 
   - /post/658004749505970176/inside-facebooks-data-wars
 categories:
-- Facebook
-- CrowdTangle
+- facebook
+- crowdtangle
 - transparency
 - data
 - social media

@@ -8,7 +8,7 @@ permalink: /post/660360275489439744/azure-government-top-secret-now-generally
 redirect_from: 
   - /post/660360275489439744/azure-government-top-secret-now-generally
 categories:
-- Azure
+- azure
 - government
 - top secret
 ---

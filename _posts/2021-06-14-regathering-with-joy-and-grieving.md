@@ -11,7 +11,7 @@ categories:
 - regathering
 - normal
 - church
-- Christianity
+- christianity
 - joy
 - hope
 - grieving

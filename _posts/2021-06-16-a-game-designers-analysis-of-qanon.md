@@ -8,7 +8,7 @@ permalink: /post/654109104048078848/a-game-designers-analysis-of-qanon
 redirect_from: 
   - /post/654109104048078848/a-game-designers-analysis-of-qanon
 categories:
-- QAnon
+- qanon
 - conspiracy
 - game design
 ---

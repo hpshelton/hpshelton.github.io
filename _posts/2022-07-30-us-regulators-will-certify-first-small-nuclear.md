@@ -8,7 +8,7 @@ permalink: /post/691161026024079360/us-regulators-will-certify-first-small-nucle
 redirect_from: 
   - /post/691161026024079360/us-regulators-will-certify-first-small-nuclear
 categories:
-- NuScale
+- nuscale
 - nuclear
 - power
 - green energy

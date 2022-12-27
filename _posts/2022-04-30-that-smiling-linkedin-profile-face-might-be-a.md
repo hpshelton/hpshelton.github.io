@@ -9,7 +9,7 @@ redirect_from:
   - /post/682918929839095808/that-smiling-linkedin-profile-face-might-be-a
 categories:
 - artificial intelligence
-- LinkedIn
+- linkedin
 - ai
 ---
 <blockquote>[A] chance message launched [Renée] DiResta and her colleague Josh Goldstein at the Stanford Internet Observatory on an investigation that uncovered more than 1,000 LinkedIn profiles using what appear to be faces created by artificial intelligence.</blockquote>

@@ -9,8 +9,8 @@ redirect_from:
   - /post/683281294222868480/future-proofing-saltstack
 categories:
 - security
-- CloudFlare
-- SaltStack
+- cloudflare
+- saltstack
 ---
 <blockquote>This blogpost chronicles the recent CVEs investigation, our findings, and how we are helping secure Salt now and in the Quantum future.</blockquote>
 <p>Cool infrastructure security research from CloudFlare.</p>

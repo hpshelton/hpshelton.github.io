@@ -9,8 +9,8 @@ redirect_from:
   - /post/662715791301558272/tim-keller-on-social-media-identity-and-the
 categories:
 - social media
-- Facebook
-- Twitter
+- facebook
+- twitter
 - belonging
 - society
 - community

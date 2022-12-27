@@ -8,8 +8,8 @@ permalink: /post/663259407949430784/what-it-was-like-inside-microsoft-during-the
 redirect_from: 
   - /post/663259407949430784/what-it-was-like-inside-microsoft-during-the-worst
 categories:
-- Microsoft
-- SolarWinds
+- microsoft
+- solarwinds
 - cybersecurity
 - security
 ---

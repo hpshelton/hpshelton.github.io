@@ -9,7 +9,7 @@ redirect_from:
   - /post/673409409869824000/blockchain-based-systems-are-not-what-they-say
 categories:
 - blockchain
-- NFT
+- nft
 - web3
 ---
 <blockquote>

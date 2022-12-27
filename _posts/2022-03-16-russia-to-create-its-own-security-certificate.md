@@ -8,7 +8,7 @@ permalink: /post/679858458332446720/russia-to-create-its-own-security-certificat
 redirect_from: 
   - /post/679858458332446720/russia-to-create-its-own-security-certificate
 categories:
-- Russia
+- russia
 - security
 - cybersecurity
 - certificates
