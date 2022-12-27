@@ -1,0 +1,19 @@
+---
+layout: post
+type: quote
+date: 2010-06-01 22:18:57 GMT
+title: "Quote post"
+permalink: /post/654480607/sorry-to-hear-about-the-gore-separation-will
+redirect_from: 
+  - /post/654480607/sorry-to-hear-about-the-gore-separation-will
+categories:
+- al gore
+- tipper gore
+- internet
+- divorce
+- custody
+- jian ghomeshi via <a href="http://twitter.com/jianghomeshi/status/15200230552">twitter</a>
+---
+<blockquote>Sorry to hear about the Gore separation. Will Tipper get shared custody of the internet?</blockquote>
+
+ — Jian Ghomeshi via <a href="http://twitter.com/jianghomeshi/status/15200230552">Twitter</a>
