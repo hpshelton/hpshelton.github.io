@@ -7,6 +7,7 @@ link: http://www.suntimes.com/technology/ihnatko/3187565-452/android-slate-ipad-
 permalink: /post/2631520128/how-your-tablet-can-compete-with-the-ipad
 redirect_from: 
   - /post/2631520128/how-your-tablet-can-compete-with-the-ipad
+  - /post/2723771638/how-your-tablet-can-compete-with-the-ipad
 categories:
 - ipad
 - apple

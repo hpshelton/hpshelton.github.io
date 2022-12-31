@@ -7,6 +7,7 @@ link: http://www.asymco.com/2010/12/13/verizon-strikes-out/
 permalink: /post/2411227438/verizon-strikes-out-in-smartphones
 redirect_from: 
   - /post/2411227438/verizon-strikes-out-in-smartphones
+  - /post/2308840343/verizon-strikes-out-in-smartphones
 categories:
 - verizon
 - apple

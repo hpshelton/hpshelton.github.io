@@ -7,6 +7,7 @@ link: http://www.technologyreview.com/blog/arxiv/26114/?p1=A4
 permalink: /post/2440237145/spacecraft-saw-ulf-radio-emissions-over-haiti
 redirect_from: 
   - /post/2440237145/spacecraft-saw-ulf-radio-emissions-over-haiti
+  - /post/2309906232/spacecraft-saw-ulf-radio-emissions-over-haiti
 categories:
 - technology
 - science

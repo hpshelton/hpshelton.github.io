@@ -6,6 +6,7 @@ title: "Photo post"
 permalink: /post/2344882259/when-a-plane-flies-through-a-google-maps-satellite
 redirect_from: 
   - /post/2344882259/when-a-plane-flies-through-a-google-maps-satellite
+  - /post/2368435384/when-a-plane-flies-through-a-google-maps-satellite
 categories:
 - airplane
 - google

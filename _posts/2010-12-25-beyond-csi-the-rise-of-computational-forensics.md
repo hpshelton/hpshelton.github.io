@@ -7,6 +7,7 @@ link: http://spectrum.ieee.org/computing/software/beyond-csi-the-rise-of-computa
 permalink: /post/2453524363/beyond-csi-the-rise-of-computational-forensics
 redirect_from: 
   - /post/2453524363/beyond-csi-the-rise-of-computational-forensics
+  - /post/2130263306/beyond-csi-the-rise-of-computational-forensics
 categories:
 - science
 - technology

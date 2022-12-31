@@ -7,6 +7,7 @@ link: http://www.nytimes.com/2010/12/20/technology/20google.html?_r=2&hp
 permalink: /post/2382832619/google-tv-faces-delays-amid-poor-reviews
 redirect_from: 
   - /post/2382832619/google-tv-faces-delays-amid-poor-reviews
+  - /post/2382818700/google-tv-faces-delays-amid-poor-reviews
 categories:
 - google
 - television

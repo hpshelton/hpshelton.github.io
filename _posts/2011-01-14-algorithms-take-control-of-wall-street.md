@@ -7,6 +7,7 @@ link: http://www.wired.com/magazine/2010/12/ff_ai_flashtrading/
 permalink: /post/2739082187/algorithms-take-control-of-wall-street
 redirect_from: 
   - /post/2739082187/algorithms-take-control-of-wall-street
+  - /post/2694912534/algorithms-take-control-of-wall-street
 categories:
 - wall street
 - algorithms

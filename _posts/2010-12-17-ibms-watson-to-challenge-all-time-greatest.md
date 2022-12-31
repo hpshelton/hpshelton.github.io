@@ -7,6 +7,7 @@ link: http://www-03.ibm.com/press/us/en/pressrelease/33233.wss
 permalink: /post/2344892335/ibms-watson-to-challenge-all-time-greatest
 redirect_from: 
   - /post/2344892335/ibms-watson-to-challenge-all-time-greatest
+  - /post/2344862616/ibms-watson-to-challenge-all-time-greatest
 categories:
 - ibm
 - watson

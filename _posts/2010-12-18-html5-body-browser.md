@@ -7,6 +7,7 @@ link: http://bodybrowser.googlelabs.com/index.html
 permalink: /post/2355273318/html5-body-browser
 redirect_from: 
   - /post/2355273318/html5-body-browser
+  - /post/2344931113/html5-body-browser
 categories:
 - science
 - technology

@@ -7,6 +7,7 @@ link: http://www.facebook.com/note.php?note_id=469716398919&id=9445547199
 permalink: /post/2396629158/visualizing-facebook
 redirect_from: 
   - /post/2396629158/visualizing-facebook
+  - /post/2396349042/visualizing-facebook
 categories:
 - facebook
 - data visualization

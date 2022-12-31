@@ -7,6 +7,7 @@ link: http://html5labs.interoperabilitybridges.com/
 permalink: /post/2549405005/ies-html5labs
 redirect_from: 
   - /post/2549405005/ies-html5labs
+  - /post/2549405005/ies-html5labs
 categories:
 - microsoft
 - ie9

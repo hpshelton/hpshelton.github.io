@@ -7,6 +7,7 @@ link: http://arstechnica.com/science/news/2010/12/sciences-breakthrough-of-2010-
 permalink: /post/2521529187/sciences-breakthroughs-of-2010
 redirect_from: 
   - /post/2521529187/sciences-breakthroughs-of-2010
+  - /post/2508410710/sciences-breakthroughs-of-2010
 categories:
 - science
 - genomics

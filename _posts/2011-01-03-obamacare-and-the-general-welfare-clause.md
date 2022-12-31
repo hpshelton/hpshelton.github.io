@@ -7,6 +7,7 @@ link: http://online.wsj.com/article/SB10001424052748703581204576033862848034544.
 permalink: /post/2576158691/obamacare-and-the-general-welfare-clause
 redirect_from: 
   - /post/2576158691/obamacare-and-the-general-welfare-clause
+  - /post/2508451479/obamacare-and-the-general-welfare-clause
 categories:
 - obama
 - constitution

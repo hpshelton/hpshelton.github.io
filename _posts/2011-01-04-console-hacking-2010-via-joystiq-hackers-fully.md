@@ -6,6 +6,7 @@ title: "Video post"
 permalink: /post/2520837033/console-hacking-2010-via-joystiq-hackers-fully
 redirect_from: 
   - /post/2520837033/console-hacking-2010-via-joystiq-hackers-fully
+  - /post/2590460324/console-hacking-2010-via-joystiq-hackers-fully
 categories:
 - sony
 - playstation 3
