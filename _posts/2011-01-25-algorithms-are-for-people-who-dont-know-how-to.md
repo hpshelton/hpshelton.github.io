@@ -11,8 +11,5 @@ categories:
 - memory
 - ram
 - programming
-- 
 ---
 <blockquote>Algorithms are for people who don't know how to buy RAM.</blockquote>
-
- — 

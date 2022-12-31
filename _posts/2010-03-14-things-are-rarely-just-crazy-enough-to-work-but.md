@@ -11,7 +11,6 @@ categories:
 - fail
 - quotes
 - comics
-- http://xkcd.com/580/ (hovertext)
 ---
 <blockquote>Things are rarely just crazy enough to work, but they're frequently crazy enough to fail hilariously.</blockquote>
 

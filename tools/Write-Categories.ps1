@@ -20,9 +20,15 @@ Get-ChildItem $postsPath | % {
     $content = [string](Get-Content -Raw (Join-Path $postsPath $_))
     $frontMatter = $content.Substring(0, $content.LastIndexOf("---"))
     $yaml = ConvertFrom-YAML $frontMatter
-    $yaml.categories | % {
-        $category = $_.ToLower()
-        $output = [string]::Format($categoryPageContent, $category)
-        $output | Out-File (Join-Path $postsPath ../_category/$category.md) -Encoding ascii
+    if ($yaml.categories.Count -gt 0) {
+        $yaml.categories | % {
+            $category = ([string]$_).ToLower()
+            $output = [string]::Format($categoryPageContent, $category)
+            if ($category -eq "" -or [string]::IsNullOrWhiteSpace($category))
+            {
+               Write-Error "Do you need to enclose a category in quotes?" 
+            }
+            $output | Out-File (Join-Path $postsPath ../_category/$category.md) -Encoding ascii
+        }
     }
 }

@@ -15,7 +15,6 @@ categories:
 - technology
 - society
 - language
-- via http://raphael.doxos.com/2011/01/drifting/
 ---
 <blockquote>For the last 100 years or so, written English has been formalized by mass literacy and the printed word: media has meant books and newspapers printed in a set style, following accepted norms. However there has always been – and always will be – a vibrant spoken and ever-changing, living language that runs through our culture. In these latter days, the Internet (blogs, cell phones, chat rooms and email) has put text-production in the hands of everyone. We are seeing now the emergence of that living language into the visible culture which hitherto was controlled by the elite.</blockquote>
 

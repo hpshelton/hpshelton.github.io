@@ -12,7 +12,7 @@ categories:
 - drm
 - video games
 - ubisoft
-- splinter cell: conviction
+- "splinter cell: conviction"
 ---
 <blockquote>Ubisoft has eliminated its controversial PC DRM technology that required players to remain connected to the internet in order to play the company's games, enabling consumers to play many 2010 titles offline for the first time.</blockquote>
 Now maybe I can look into buying Splinter Cell: Conviction.

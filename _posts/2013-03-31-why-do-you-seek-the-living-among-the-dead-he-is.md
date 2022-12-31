@@ -10,8 +10,7 @@ categories:
 - easter
 - christianity
 - bible
-- ressurection
-- luke 24:5-6
+- resurrection
 ---
 <blockquote>Why do you seek the living among the dead? He is not here, but is risen!</blockquote>
 

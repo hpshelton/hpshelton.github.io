@@ -8,7 +8,8 @@ permalink: /post/93732481514/who-wins-in-the-name-game
 redirect_from: 
   - /post/93732481514/who-wins-in-the-name-game
 categories:
-- names. naming
+- names
+- naming
 - privilege
 - impressions
 ---

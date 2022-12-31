@@ -11,8 +11,5 @@ categories:
 - memory
 - ram
 - programming
-- 
 ---
 <blockquote>Buying RAM is for people who don't know how to write algorithms.</blockquote>
-
- — 

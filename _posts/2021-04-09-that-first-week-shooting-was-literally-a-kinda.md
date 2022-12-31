@@ -9,7 +9,7 @@ redirect_from:
 categories:
 - tenet
 - movies
-- nilo otero, first assistant director, tenet
+- nilo otero
 ---
 <blockquote>That first week shooting was literally a kinda preschool. I've never had any job where so many - of the finest professionals in the world at what they do - would show up on a given day and, honest to God, they didn't have it right what's happening in that scene. That's no slur, no call on anybody, it's just that complicated and that different from movies that came before.</blockquote>
 

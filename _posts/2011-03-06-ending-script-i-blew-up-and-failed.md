@@ -13,7 +13,6 @@ categories:
 - script
 - programming
 - software
-- another great microsoft easter egg. i mean, if you're going to fail, do so with style...
 ---
 <blockquote>ENDING SCRIPT - I BLEW UP AND FAILED</blockquote>
 

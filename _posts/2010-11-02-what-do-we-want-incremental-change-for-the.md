@@ -10,8 +10,5 @@ categories:
 - quotes
 - politics
 - conservative
-- 
 ---
 <blockquote>What do we want? Incremental change for the betterment of society! When do we want it? As soon as is reasonably practical.</blockquote>
-
- — 

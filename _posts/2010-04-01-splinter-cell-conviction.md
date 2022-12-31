@@ -7,7 +7,7 @@ permalink: /post/489389908/splinter-cell-conviction
 redirect_from: 
   - /post/489389908/splinter-cell-conviction
 categories:
-- splinter cell: conviction
+- "splinter cell: conviction"
 - drm
 ---
 I've been a big fan of the Splinter Cell series (yes, Chaos Theory was the best). This, however, means I won't be buying the game until it's for sale on Steam. Without the DRM.

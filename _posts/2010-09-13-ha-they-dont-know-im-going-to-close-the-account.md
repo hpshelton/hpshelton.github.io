@@ -7,7 +7,7 @@ permalink: /post/1113644130/ha-they-dont-know-im-going-to-close-the-account
 redirect_from: 
   - /post/1113644130/ha-they-dont-know-im-going-to-close-the-account
 categories:
-- m&amp;t bank
+- m&t bank
 - customer loyalty
 ---
 ![](/assets/images/tumblr_l89h17Fd3s1qb098no1_1280.png)

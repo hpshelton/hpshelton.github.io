@@ -13,7 +13,6 @@ categories:
 - purpose
 - pable picasso
 - picasso
-- pablo picasso.
 ---
 <blockquote>The meaning of life is to find your gift. The purpose of life is to give it away.</blockquote>
 

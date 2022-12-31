@@ -10,7 +10,6 @@ categories:
 - financial
 - quotes
 - carl birkelbach
-- carl birkelbach, chairman and ceo of birkelbach investment securities in chicago
 ---
 <blockquote>The first story is that the NYSE system somehow broke down, and that's scary. There are going to be a lot of questions about program trading, because that's touched off the decline. If computers are running the world instead of people, people are going to lose confidence in the financial institutions.</blockquote>
 

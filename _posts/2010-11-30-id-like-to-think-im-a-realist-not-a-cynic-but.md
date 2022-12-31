@@ -11,8 +11,5 @@ categories:
 - cynic
 - idealism
 - cynicism
-- 
 ---
 <blockquote>I'd like to think I'm a realist, not a cynic. But I'm too cynical to think that's the case.</blockquote>
-
- — 

@@ -9,7 +9,7 @@ redirect_from:
   - /post/10111644681/f-16-pilot-was-ready-to-give-her-life-on-sept-11
 categories:
 - september 11
-- 9/11
+- "9/11"
 - air force
 - sacrifice
 - united 93

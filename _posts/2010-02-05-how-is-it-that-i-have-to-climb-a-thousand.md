@@ -9,8 +9,5 @@ redirect_from:
 categories:
 - pickup lines
 - quotes
-- 
 ---
 <blockquote>How is it that I have to climb a thousand mountains to get to you, but you only have to smile to get to me?</blockquote>
-
- — 

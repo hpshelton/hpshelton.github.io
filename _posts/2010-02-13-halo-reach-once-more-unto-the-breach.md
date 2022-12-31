@@ -8,7 +8,7 @@ permalink: /post/387791939/halo-reach-once-more-unto-the-breach
 redirect_from: 
   - /post/387791939/halo-reach-once-more-unto-the-breach
 categories:
-- halo: reach
+- "halo: reach"
 - video games
 - bungie
 - video

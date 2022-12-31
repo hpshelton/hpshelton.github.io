@@ -11,8 +11,9 @@ categories:
 - distance
 - time
 - space
-- jeff, tenth avenue north
+- tenth avenue north
+- jeff owen
 ---
 <blockquote>The shortest distance between any two points is a straight line...unless you create a wormhole and transcend space and time.</blockquote>
 
- — Jeff, Tenth Avenue North
+ — Jeff Owen, Tenth Avenue North

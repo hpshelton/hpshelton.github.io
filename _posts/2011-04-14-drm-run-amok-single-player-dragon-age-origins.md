@@ -11,8 +11,8 @@ categories:
 - digital rights management
 - drm
 - video games
-- dragon age: origin
+- "dragon age: origin"
 - online
 ---
-<blockquote>Sometime on Friday morning, Dragon Age:Origins players who booted up the game for a session of single-player dungeon crawling were greeted with a nasty surprise: all of the downloadable content (DLC) that they had purchased for the game had been flagged as "unauthorized," so their saved games wouldn't load. Again, these were vanilla, single-player saved games, representing untold hours of gameplay and investment, that users were suddenly unable to load.</blockquote>
+<blockquote>Sometime on Friday morning, Dragon Age: Origins players who booted up the game for a session of single-player dungeon crawling were greeted with a nasty surprise: all of the downloadable content (DLC) that they had purchased for the game had been flagged as "unauthorized," so their saved games wouldn't load. Again, these were vanilla, single-player saved games, representing untold hours of gameplay and investment, that users were suddenly unable to load.</blockquote>
 And that's why I won't buy games with terrible DRM schemes.

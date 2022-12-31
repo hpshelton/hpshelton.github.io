@@ -11,7 +11,6 @@ categories:
 - bible
 - joel
 - ash wednesday
-- joel 2:12-14 (from ash wednesday service)
 ---
 <blockquote>"Even now," declares the LORD, 
 &nbsp;&nbsp;&nbsp;"return to me with all your heart, 

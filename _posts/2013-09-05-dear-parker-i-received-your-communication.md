@@ -20,8 +20,7 @@ categories:
 - fisc
 - fisa
 - patriot act
-- senator feinstein
-- feinstein
+- dianne feinstein
 - law
 ---
 <p>Below is the full text of an email sent to my Senator in response to her email defending the Prism and the Verizon metadata collection programs (edited for formatting only). It does not contain the whole of my opinion on the subject, either as a citizen or as an employee of a technology company subject to subpoenas, warrants, and National Security Letters for users' data, but this is certainly sufficient as a long overdue response to the controversy.</p>

@@ -10,7 +10,7 @@ categories:
 - adobe
 - cs5
 - content-aware
-- image-editing
+- image editing
 - technology
 - video
 ---

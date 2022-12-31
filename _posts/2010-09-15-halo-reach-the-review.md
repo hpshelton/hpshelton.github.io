@@ -8,7 +8,7 @@ redirect_from:
   - /post/1124817664/halo-reach-the-review
 categories:
 - halo
-- halo: reach
+- "halo: reach"
 - video game
 - review
 ---

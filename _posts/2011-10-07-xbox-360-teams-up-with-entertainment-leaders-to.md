@@ -12,7 +12,7 @@ categories:
 - xbox
 - xbox 360
 - comcast
-- at&amp;t
+- at&t
 - verizon
 ---
 <blockquote>Today, Microsoft Corp. announced plans to roll out the next generation of TV entertainment on Xbox LIVE, the online entertainment service for Xbox 360. Nearly 40 world-leading TV and entertainment providers, including Bravo, Comcast, HBO GO, Verizon FiOS and Syfy in the U.S.; BBC in the U.K., Telefónica in Spain; Rogers On Demand in Canada; Televisa in Mexico; ZDF in Germany; and MediaSet in Italy, will begin rolling out entertainment services to the console this holiday, in more than 20 countries.</blockquote>

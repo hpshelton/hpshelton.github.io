@@ -11,7 +11,7 @@ categories:
 - mistake
 - computer science
 - programming
-- null
+- "null"
 - c
 ---
 <blockquote><p>Which IT or CS decision has resulted in the most expensive mistake?</p>

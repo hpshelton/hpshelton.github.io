@@ -7,7 +7,7 @@ permalink: /post/5348898943/parislemon-inception-as-explained-by-the-os-x
 redirect_from: 
   - /post/5348898943/parislemon-inception-as-explained-by-the-os-x
 categories:
-- apple,
+- apple
 - inception
 - os x
 - mac

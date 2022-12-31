@@ -12,7 +12,6 @@ categories:
 - success
 - failure
 - best
-- steve jobs, 1998
 ---
 <blockquote>If I try my best and fail, well, I tried my best.</blockquote>
 

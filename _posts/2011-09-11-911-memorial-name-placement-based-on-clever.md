@@ -9,7 +9,7 @@ redirect_from:
   - /post/10062434354/911-memorial-name-placement-based-on-clever
 categories:
 - september 11
-- 9/11
+- "9/11"
 - memorial
 - algorithm
 - computer science

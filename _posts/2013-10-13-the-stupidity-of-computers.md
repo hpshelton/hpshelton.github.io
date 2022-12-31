@@ -13,7 +13,8 @@ categories:
 - computers
 - taxonomy
 - ontology
-- social. artificial intelligence
+- social
+- artificial intelligence
 ---
 <blockquote>Computers do not invent new categories; they make use of the ones we give them, warts and all. And the increasing amount of information they process can easily fool us into thinking that the underlying categories they use are not just a model of reality, but reality itself.</blockquote>
 <blockquote>We will define and regiment our lives, including our social lives and our perceptions of our selves, in ways that are conducive to what a computer can "understand."</blockquote>
