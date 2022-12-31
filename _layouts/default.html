@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"> 
+<!DOCTYPE html>
+<html lang="en"> 
 <head>
 
-  <title>HPShelton | {{ page.title }}</title>
+  <title>HPShelton{% if page.title != "" %} | {{ page.title }}{% endif %}</title>
     
   <!-- The description shown under the link on search pages, like Google. -->
   <meta name="description" content="Programming, Privacy, Politics, Photography">
@@ -23,13 +23,26 @@
   
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" href="https://hpshelton.com/rss">
-
-  <!-- Custom Fields -->
-  <!-- <meta name="text:Site Root URL" content="http://hpshelton.com" />
-  <!-- Import Twitter's widget.js for the few times I might embed a tweet
-  <script type="text/javascript" src="//platform.twitter.com/widgets.js" ></script> -->
   
   <!-- CSS -->
+  <style>
+    body {
+      font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: white;
+      font-size: 14px;
+      line-height: 24px;
+      background: rgb(51, 51, 51);
+      text-rendering: optimizeLegibility;
+    }
+    a {
+      border-width: 0px;
+      text-decoration: underline;
+      color: rgb(255, 255, 255); 
+    }
+    #header-inner h1 .p {
+      color: rgb(255, 255, 255);
+    }
+  </style>
   <link rel="stylesheet" href="/assets/css/styles.css" />
 </head>
 <body>
@@ -57,7 +70,7 @@
       <div id="post-header" class="clear"></div>
 
       <!-- Begin Posts -->
-      <div><!--</div> id="post-{PostID}">-->
+      <div>
       {{ content }}
       </div>
 
