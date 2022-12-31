@@ -10,7 +10,7 @@ categories:
 - science
 - technology
 - society
-- carl sagan (via <a href="http://crookedindifference.com/" class="tumblr_blog">crookedindifference</a>)
+- carl sagan
 ---
 <blockquote>We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.</blockquote>
 

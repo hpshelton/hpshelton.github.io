@@ -11,7 +11,7 @@ categories:
 - mass incarceration
 - crime
 - society
-- <p>george gascón, san francisco district attorney at the <a href="http://able.is/able-forum/">2017 ableforum</a></p>
+- george gascón
 ---
 <blockquote>You wouldn't walk into a hospital and want to be treated without evidence-based treatment, but we do that all the time with incarceration.</blockquote>
 

@@ -12,7 +12,6 @@ categories:
 - games
 - video games
 - software
-- <a href="http://www.mikeleeproject.com/index.php?title=michael_lee_motherfucker">mike lee</a>
 ---
 <blockquote>There are two types of people who want to make games. People who don't know what they're getting into, and people who are jumping on the hot thing the other people are jumping onto. The people who actually do make great games are rounding error.</blockquote>
 

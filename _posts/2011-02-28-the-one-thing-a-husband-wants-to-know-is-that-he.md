@@ -14,7 +14,7 @@ categories:
 - husband
 - wife
 - marriage
-- via <a href="http://www.jonacuff.com/stuffchristianslike/2011/01/4334/">jon acuff</a>
+- jon acuff
 ---
 <blockquote>The one thing a husband wants to know is that he is enough. That his masculinity, the way he provides for the family, the security he gives is enough. The one thing a wife wants to know is that she is not 'too much.' That she can be as beautiful and as powerful and as unique as God has called her to be without overpowering the relationship. That her husband is enough to handle her becoming everything she can become.</blockquote>
 

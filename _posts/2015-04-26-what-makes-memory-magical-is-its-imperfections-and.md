@@ -11,7 +11,6 @@ categories:
 - remembrance
 - quote
 - walter kirn
-- <p>walter kirn, <a href="http://tmagazine.blogs.nytimes.com/2015/04/01/remembrance-of-things-lost-walter-kirn/?utm_source=nextdraft&utm_medium=email">remembrance of things lost</a></p>
 ---
 <blockquote>What makes memory magical is its imperfections and its unpredictability; try as we might, we never quite control it. It draws our attention to the margins of stories that once seemed to be the main events.</blockquote>
 

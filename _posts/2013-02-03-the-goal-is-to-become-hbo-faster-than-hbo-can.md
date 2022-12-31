@@ -12,7 +12,6 @@ categories:
 - netflix
 - television
 - movies
-- ted sarandos, <a href="http://www.gq.com/entertainment/movies-and-tv/201302/netflix-founder-reed-hastings-house-of-cards-arrested-development?currentpage=all">arrested development, house of cards, and the future of netflix</a>
 ---
 <blockquote>The goal is to become HBO faster than HBO can become us.</blockquote>
 

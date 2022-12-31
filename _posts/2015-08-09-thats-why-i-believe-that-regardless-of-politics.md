@@ -12,7 +12,6 @@ categories:
 - second amendment
 - america
 - politics
-- <a href="http://www.clickhole.com/blogpost/its-our-duty-support-troops-and-second-amendment-c-1929">clickhole</a>.
 ---
 <blockquote>That's why I believe that, regardless of politics, it's everyone's duty to support the troops, and also to support the Second Amendment should the day come when we need to overthrow the government and kill those troops.</blockquote>
 

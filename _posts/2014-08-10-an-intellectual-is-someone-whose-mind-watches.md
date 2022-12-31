@@ -11,7 +11,6 @@ categories:
 - quotes
 - intellectual
 - mind
-- <a href="en.wikipedia.org/wiki/albert_camus">albert camus</a>
 ---
 <blockquote>An intellectual is someone whose mind watches itself.</blockquote>
 

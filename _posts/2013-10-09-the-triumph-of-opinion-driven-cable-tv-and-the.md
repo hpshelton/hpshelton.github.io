@@ -9,7 +9,7 @@ redirect_from:
 categories:
 - politics
 - media
-- <p>david rohde, "<a href="http://www.theatlantic.com/politics/archive/2013/10/how-the-broken-media-helped-break-the-government/280261/">how the broken media helped break the government</a>"</p>
+- david rohde
 ---
 <blockquote>The triumph of opinion-driven cable TV and the collapse of newspapers has created an American news media that does an increasingly poor job of informing the public. And an excellent job of dividing it.</blockquote>
 

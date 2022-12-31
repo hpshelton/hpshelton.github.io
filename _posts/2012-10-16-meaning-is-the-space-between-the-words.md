@@ -12,7 +12,6 @@ categories:
 - communication
 - patrick rhone
 - quotes
-- patrick rhone, <a href="http://patrickrhone.com/2012/10/01/45/">45</a>
 ---
 <blockquote>Meaning is the space between the words.</blockquote>
 

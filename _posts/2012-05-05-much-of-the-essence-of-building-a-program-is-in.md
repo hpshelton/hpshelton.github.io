@@ -12,7 +12,7 @@ categories:
 - design
 - software
 - fred brooks
-- fred brooks, <i>the mythical man-month</i>
+- the mythical man-month
 ---
 <blockquote>Much of the essence of building a program is in fact the debugging of the specification.</blockquote>
 

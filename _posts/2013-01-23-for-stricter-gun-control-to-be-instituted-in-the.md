@@ -13,7 +13,7 @@ categories:
 - gun control
 - laws
 - politics
-- ben adler, <i><a href="http://www.guardian.co.uk/commentisfree/2012/dec/15/sandy-hook-dead-deserve-change">sandy hook's dead deserve a change in us gun law. but don't hold your breath</a></i>
+- ben adler
 ---
 <blockquote>For stricter gun control to be instituted in the US would require a mass movement. First, a clear majority of Americans would have to be persuaded, and then they would have to apply sufficient pressure that either Republicans shift their position or Democrats retake Congress and develop the fortitude to pass laws.</blockquote>
 

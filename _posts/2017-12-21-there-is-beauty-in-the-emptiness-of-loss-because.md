@@ -14,7 +14,6 @@ categories:
 - lisa leonard
 - quotes
 - love
-- lisa leonard, <a href="https://www.lisaleonard.com/blog/thoughts/finding-beauty/it-was-beautiful">"it was beautiful"</a>
 ---
 <blockquote>There is beauty in the emptiness of loss, because loss means I have loved.</blockquote>
 

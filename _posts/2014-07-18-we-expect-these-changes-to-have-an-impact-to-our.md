@@ -12,8 +12,6 @@ categories:
 - layoff
 - stephen elop
 - business
-- <p><a href="http://www.microsoft.com/en-us/news/press/2014/jul14/07-17announcement2.aspx">steven elop</a>, "email to nokia employees"</p>
-<p>corporate-speak translation: we're laying off 12,500 of you from multiple countries over the next several months.</p>
 ---
 <blockquote>We expect these changes to have an impact to our team structure.</blockquote>
 

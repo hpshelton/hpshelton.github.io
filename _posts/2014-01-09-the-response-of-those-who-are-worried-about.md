@@ -16,7 +16,7 @@ categories:
 - politics
 - liberty
 - power
-- <p>quentin skinner, <a href="http://www.opendemocracy.net/ourkingdom/quentin-skinner-richard-marshall/liberty-liberalism-and-surveillance-historic-overview">liberty, liberalism and surveillance: a historic overview</a> (via <a href="http://pressthink.org/2013/12/three-things-i-learned-from-the-snowden-files/">three things i learned from the snowden files</a>)</p>
+- quentin skinner
 ---
 <blockquote>The response of those who are worried about surveillance has so far been too much couched, it seems to me, in terms of the violation of the right to privacy. Of course it's true that my privacy has been violated if someone is reading my emails without my knowledge. But my point is that my liberty is also being violated, and not merely by the fact that someone is reading my emails but also by the fact that someone has the power to do so should they choose. We have to insist that this in itself takes away liberty because it leaves us at the mercy of arbitrary power. It's no use those who have possession of this power promising that they won't necessarily use it, or will use it only for the common good. What is offensive to liberty is the very existence of such arbitrary power.</blockquote>
 

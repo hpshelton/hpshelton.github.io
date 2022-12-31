@@ -10,7 +10,6 @@ categories:
 - gary thomas
 - quotes
 - marriage
-- gary thomas, <i>sacred marriage</i>
 ---
 <blockquote>What if God designed marriage to make us holy more than to make us happy?</blockquote>
 

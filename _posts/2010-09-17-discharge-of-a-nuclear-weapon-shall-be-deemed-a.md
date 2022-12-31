@@ -10,7 +10,6 @@ categories:
 - state farm
 - nuclear weapons
 - insurance
-- state farm renter's insurance policy - sec. 1, "losses not insured"
 ---
 <blockquote>Discharge of a nuclear weapon shall be deemed a warlike act, even if accidental.</blockquote>
 

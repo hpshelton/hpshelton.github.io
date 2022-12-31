@@ -13,7 +13,6 @@ categories:
 - democracy
 - forum
 - dissatisfaction
-- <a href="http://www.cnn.com/2011/09/26/tech/social-media/features-missing-facebook-music/">5 features missing from facebook music - cnn.com</a>
 ---
 <blockquote>Facebook finds it beneficial to keep its users dissatisfied while offering them a forum where they can express that dissatisfaction - just like the Democratic Party.</blockquote>
 

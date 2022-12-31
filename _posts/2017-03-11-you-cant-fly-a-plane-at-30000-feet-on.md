@@ -11,7 +11,6 @@ categories:
 - quotes
 - os guinness
 - theology
-- os guinness, "the journey: a thinking person's quest for meaning"
 ---
 <blockquote>You can't fly a plane at 30,000 feet on post-modern philosophies.</blockquote>
 

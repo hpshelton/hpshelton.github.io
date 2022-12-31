@@ -16,7 +16,6 @@ categories:
 - calling
 - religion
 - christianity
-- dorothy sayers via tim keller's "<a href="http://goodnewsmag.org/2013/09/your-work-matters/">your work matters</a>"
 ---
 <blockquote>The church's approach to an intelligent carpenter is usually confined to exhorting him to not be drunk and disorderly in his leisure hours and to come to church on Sundays. What the church should be telling him is this: that the very first demand that his religion makes upon him is that he should make good tables.</blockquote>
 

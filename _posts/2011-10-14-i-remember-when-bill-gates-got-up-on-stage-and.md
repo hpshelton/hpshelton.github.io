@@ -12,7 +12,6 @@ categories:
 - microsoft
 - microsoft word
 - michael lopp
-- michael lopp, <a href="http://www.randsinrepose.com/archives/2011/10/03/building_serendipity.html">building serendipity</a>
 ---
 <blockquote>I remember when Bill Gates got up on stage and showed a new feature in Microsoft Word that allowed you to visually draw tables in a document. Times were simpler then.</blockquote>
 

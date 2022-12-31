@@ -10,7 +10,6 @@ categories:
 - carl sagan
 - knowledge
 - discovery
-- carl sagan (via <a href="http://emilyposts.com/" class="tumblr_blog">emilyposts</a>)
 ---
 <blockquote>Somewhere, something incredible is waiting to be known.</blockquote>
 

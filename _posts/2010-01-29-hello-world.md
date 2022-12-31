@@ -9,7 +9,6 @@ redirect_from:
 categories:
 - bill gates
 - quotes
-- <p>bill gates, <a title="bill gates' twitter" target="_blank" href="http://twitter.com/billgates/status/7957453193">http://twitter.com/billgates/status/7957453193</a></p> 
 ---
 <blockquote>Hello World.</blockquote>
 

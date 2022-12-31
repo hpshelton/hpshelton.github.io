@@ -12,7 +12,6 @@ categories:
 - flawless
 - money
 - important
-- <a href="http://www.imdb.com/title/tt0780516/"><i>flawless</i></a>
 ---
 <blockquote>Life is for the living. It's there for the taking. Leave yourself no regrets.</blockquote>
 

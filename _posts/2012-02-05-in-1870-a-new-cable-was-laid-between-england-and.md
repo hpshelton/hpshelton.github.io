@@ -12,7 +12,6 @@ categories:
 - technology
 - wire
 - wired
-- <i>wired</i>, <a href="http://www.wired.com/wired/archive/4.12/ffglass_pr.html"> "mother earth mother board"</a>, a discussion of material pertaining to the business and technology of undersea fiber-optic cables, as well as an account of the laying of the longest wire on earth.</p>
 ---
 <blockquote>In 1870, a new cable was laid between England and France, and Napoleon III used it to send a congratulatory message to Queen Victoria. Hours later, a French fisherman hauled the cable up into his boat, identified it as either the tail of a sea monster or a new species of gold-bearing seaweed, and cut off a chunk to take home. Thus was inaugurated an almost incredibly hostile relationship between the cable industry and fishermen.</blockquote>
 

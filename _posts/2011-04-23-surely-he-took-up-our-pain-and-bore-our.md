@@ -13,7 +13,6 @@ categories:
 - sin
 - healing
 - sacrifice
-- <a href="http://www.biblegateway.com/passage/?search=isaiah 53&version=niv">isaiah 53:4-5 (niv)</a>
 ---
 <blockquote>Surely he took up our pain<br>
 and bore our suffering,<br>

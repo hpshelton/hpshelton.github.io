@@ -10,7 +10,7 @@ categories:
 - law
 - morality
 - conservative
-- bret l. stephens, <a href="https://www.nytimes.com/2019/12/18/opinion/trump-impeachment-fbi.html">the conservative case for impeachment — and removal</a>
+- bret l. stephens
 ---
 <blockquote>There are people who believe that law, morality, traditions and institutions are at least as important to the preservation of freedom as the will of the people. Such people are called conservative. What Republicans are now doing with their lock step opposition to impeachment — and with their indifference to the behavior that brought impeachment about — is not conservative. It is the abdication of principle to power.</blockquote>
 

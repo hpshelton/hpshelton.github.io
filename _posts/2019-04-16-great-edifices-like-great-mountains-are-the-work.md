@@ -11,7 +11,6 @@ categories:
 - victor hugo
 - ave maria
 - quotes
-- <p>victor hugo, <i>the hunchback of notre-dame</i></p>
 ---
 <blockquote>Great edifices, like great mountains, are the work of ages.</blockquote>
 

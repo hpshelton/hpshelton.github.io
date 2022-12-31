@@ -11,7 +11,6 @@ categories:
 - love
 - tom robbins
 - security
-- <a href="http://thinkexist.com/quotation/when-two-people-meet-and-fall-in-love-there-s-a/357303.html">tom robbins</a>
 ---
 <blockquote>Love is the ultimate outlaw. It just won't adhere to any rules. The most any of us can do is to sign on as its accomplice. Instead of vowing to honor and obey, maybe we should swear to aid and abet. That would mean that security is out of the question.</blockquote>
 

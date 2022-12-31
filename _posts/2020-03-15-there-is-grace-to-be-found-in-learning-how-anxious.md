@@ -13,7 +13,7 @@ categories:
 - coronavirus
 - jesus
 - christianity
-- <p>bryant trinh, <a href="https://mbird.com/2020/03/the-pandemic-and-the-coffee-shop-what-we-learn-in-chaos/">"the pandemic and the coffee shop"</a></p>
+- bryant trinh
 ---
 <blockquote>There is grace to be found in learning how anxious and afraid we actually are. It is a grace to learn how much of a jerk we can be to our neighbors when we fight over toilet paper and hand sanitizer. It is a grace for those that have been overreactive and also for those who have brushed it all off as not-serious. The worst being brought out of each of us can be exactly what reveals our need for Jesus — the one person who really does save us from ourselves.</blockquote>
 

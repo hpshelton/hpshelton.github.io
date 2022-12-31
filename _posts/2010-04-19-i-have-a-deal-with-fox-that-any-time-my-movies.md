@@ -11,7 +11,6 @@ categories:
 - james cameron
 - quotes
 - movies
-- <p>james cameron</p> 
 ---
 <blockquote>I have a deal with Fox that any time my movies make over a billion dollars, I can leave the crap trailers off the DVD.</blockquote>
 

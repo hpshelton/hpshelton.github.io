@@ -11,7 +11,6 @@ categories:
 - date
 - computer science
 - programming
-- <a href="http://thedailywtf.com/articles/date_not_found.aspx">date_not_found - the daily wtf</a>
 ---
 <blockquote>There are only three hard things in Computer Science: cache invalidation, naming things, and handling of the 29th of February.</blockquote>
 

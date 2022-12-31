@@ -14,7 +14,6 @@ categories:
 - feeling
 - sherry turkle
 - quotes
-- sherry turkle, <a href="http://plazm.com/magazine/features/"><i>plazm</i></a>
 ---
 <blockquote>Continual connectivity has led to a new sensibility. People move from a way of thinking in which they say, 'I have a feeling, I want to make a call,' to one where they say, 'I want to have a feeling, I need to send a text (or post on a social network).' Social networking nurtures a way of thinking about the self in which one constitutes a feeling by sending out for comments.</blockquote>
 

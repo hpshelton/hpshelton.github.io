@@ -13,7 +13,7 @@ categories:
 - policy
 - security
 - privacy
-- <p><a href="http://mashable.com/2016/03/01/microsoft-brad-smith-rsa-encryption/">brad smith</a>, chief legal officer, microsoft</p>
+- brad smith
 ---
 <blockquote>The path to hell starts at the backdoor, and we need to make sure that encryption technology remains strong.</blockquote>
 

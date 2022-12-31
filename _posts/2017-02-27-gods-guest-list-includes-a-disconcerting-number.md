@@ -13,7 +13,6 @@ categories:
 - broken
 - need
 - community
-- <p>- christine d. pohl, <i>making room: recovering hospitality as a christian tradition</i></p>
 ---
 <blockquote>God's guest list includes a disconcerting number of poor and broken people, those who appear to bring little to any gathering except their need.</blockquote>
 

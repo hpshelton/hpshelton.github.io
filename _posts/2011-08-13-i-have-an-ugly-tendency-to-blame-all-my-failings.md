@@ -11,7 +11,7 @@ categories:
 - failing
 - failure
 - blame
-- <a href="http://echostation57.wordpress.com/">matt wedel</a>
+- matt wedel
 ---
 <blockquote>I have an ugly tendency to blame all my failings on others.  It's something I picked up from my parents.
 

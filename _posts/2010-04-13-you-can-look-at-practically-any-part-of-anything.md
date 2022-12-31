@@ -10,7 +10,6 @@ categories:
 - quotes
 - xkcd
 - engineering
-- <a href="http://xkcd.com/277/">"long light", xkcd</a>
 ---
 <blockquote>You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this'</blockquote>
 

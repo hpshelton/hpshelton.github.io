@@ -11,7 +11,6 @@ categories:
 - evil
 - edmund burke
 - quotes
-- <i>bartlett's familiar quotations</i>, 14 ed. (1968). attributed to edmund burke (1729 -1797).
 ---
 <blockquote>The only thing necessary for the triumph of evil is for good men to do nothing.</blockquote>
 

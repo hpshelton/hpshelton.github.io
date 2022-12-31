@@ -11,7 +11,6 @@ categories:
 - social networks
 - personality
 - sociology
-- <a href="http://arstechnica.com/science/2013/03/on-facebook-smart-people-like-the-colbert-report-and-curly-fries/">on facebook, smart people like the colbert report and curly fries</a>
 ---
 <blockquote>For example, the authors found that Hello Kitty fans tended to score high on openness but lower on things like conscientiousness, agreeableness, and emotional stability. They also tended to be Democrats.</blockquote>
 

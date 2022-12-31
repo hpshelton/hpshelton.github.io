@@ -9,7 +9,7 @@ redirect_from:
 categories:
 - politics
 - congress
-- freshman rep. trey gowdy (r-s.c.) on <a href="http://www.politico.com/news/stories/1011/66956.html">congress's 9% approval rating</a>.
+- trey gowdy
 ---
 <blockquote>We're below sharks and contract killers.</blockquote>
 

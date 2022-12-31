@@ -9,7 +9,7 @@ redirect_from:
   - /post/7103250638/the-lego-barad-d%C3%BBr
 categories:
 - lord of the rings
-- j.r.r. tolkein
+- j.r.r. tolkien
 - lego
 - barad-dûr
 ---

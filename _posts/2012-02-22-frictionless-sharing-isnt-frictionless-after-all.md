@@ -10,7 +10,7 @@ categories:
 - facebook
 - friction
 - privacy
-- nick bradbury, "<a href="http://nick.typepad.com/blog/2012/01/the-friction-in-frictionless-sharing.html">the friction in frictionless sharing</a>"
+- nick bradbury
 ---
 <blockquote>Frictionless sharing isn't frictionless after all. All it does is trade the small friction of having to choose what to share with the large friction of having to think about whether what you're about to do will be shared.</blockquote>
 

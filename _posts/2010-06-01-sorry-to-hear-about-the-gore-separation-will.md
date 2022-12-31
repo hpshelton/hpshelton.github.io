@@ -12,7 +12,7 @@ categories:
 - internet
 - divorce
 - custody
-- jian ghomeshi via <a href="http://twitter.com/jianghomeshi/status/15200230552">twitter</a>
+- jian ghomeshi
 ---
 <blockquote>Sorry to hear about the Gore separation. Will Tipper get shared custody of the internet?</blockquote>
 

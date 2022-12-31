@@ -9,9 +9,9 @@ redirect_from:
   - /post/24103412078/could-you-build-a-scale-lego-model-of-the-death
 categories:
 - lego
-- "star wars"
+- star wars
 - geek
-- "death star"
+- death star
 - model
 - scale
 ---

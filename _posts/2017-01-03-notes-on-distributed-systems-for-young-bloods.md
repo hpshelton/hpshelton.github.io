@@ -10,6 +10,8 @@ redirect_from:
 categories:
 - distributed systems
 - software engineering
+- software
+- reliability
 ---
 
 <p><blockquote><p>When asked what separates distributed systems from other fields of software engineering, the new engineer often cites latency, believing that's what makes distributed computation hard.</p>

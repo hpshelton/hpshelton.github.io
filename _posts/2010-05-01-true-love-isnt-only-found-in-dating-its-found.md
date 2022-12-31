@@ -11,7 +11,6 @@ categories:
 - nathan zacharias
 - boundless
 - love
-- nathan zacharias, <a href="http://www.boundlessline.org/2010/04/love-is-all-around.html">boundless</a>
 ---
 <blockquote>True love isn't only found in dating. It's found in being a reliable and empowering presence in someone's life.</blockquote>
 

@@ -11,7 +11,6 @@ categories:
 - sherlock holmes
 - impossible
 - truth
-- sherlock holmes, <i>a study in scarlet</i>
 ---
 <blockquote>How often have I said to you that when you have eliminated the impossible, whatever remains, however improbable, must be the truth?</blockquote>
 

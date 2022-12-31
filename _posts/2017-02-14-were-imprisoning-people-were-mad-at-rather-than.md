@@ -10,7 +10,7 @@ categories:
 - prison
 - mass incarceration
 - society
-- frederick hutson at the <a href="http://able.is/able-forum/">2017 ableforum</a>
+- frederick hutson
 ---
 <blockquote>We're imprisoning people we're mad at rather than people we're afraid of.</blockquote>
 

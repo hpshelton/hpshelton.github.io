@@ -13,7 +13,6 @@ categories:
 - programming
 - computer science
 - strings
-- <a href="https://twitter.com/#!/thegdb/status/148293778019581952">greg brockman</a>
 ---
 <blockquote>Web programming is the science of coming up with increasingly complicated ways of concatenating strings.</blockquote>
 

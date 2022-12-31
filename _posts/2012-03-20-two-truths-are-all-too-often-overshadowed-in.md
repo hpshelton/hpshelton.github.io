@@ -14,7 +14,6 @@ categories:
 - cooperation
 - senate
 - olympia snowe
-- senator olympia snowe, <a href="http://www.washingtonpost.com/opinions/olympia-snowe-why-im-leaving-the-senate/2012/03/01/giqapgyzlr_story.html">why i’m leaving the senate</a>
 ---
 <blockquote>Two truths are all too often overshadowed in today's political discourse: Public service is a most honorable pursuit, and so is bipartisanship.</blockquote>
 

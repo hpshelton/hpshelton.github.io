@@ -13,8 +13,6 @@ categories:
 - video
 - conan o'brien
 ---
-False
-
 Louis CK on "The Tonight Show" with Conan O'Brien. So true.<br>
 <br>
-[Edit] Clip since taken off of YouTube. Permanent video <a href="http://enjoyment.posterous.com/everything-is-amazingand-nobodys-happy">here</a>.
+[Edit] Clip since taken off of YouTube. Current link <a href="https://youtu.be/8r1CZTLk-Gk">here</a>.

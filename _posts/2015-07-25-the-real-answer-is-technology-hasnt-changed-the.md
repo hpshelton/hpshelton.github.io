@@ -10,7 +10,7 @@ categories:
 - quotes
 - technology
 - progress
-- maciej cegłowski, <a href="http://idlewords.com/talks/web_design_first_100_years.htm">web design - the first 100 years</a></p>
+- maciej cegłowski
 ---
 <blockquote>The real answer is, technology hasn't changed the world because we haven't cared enough to change it.</blockquote>
 

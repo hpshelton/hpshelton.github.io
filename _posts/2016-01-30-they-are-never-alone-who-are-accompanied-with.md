@@ -14,7 +14,6 @@ categories:
 - alone
 - loneliness
 - character
-- <p>sir philip sidney</p>
 ---
 <blockquote>They are never alone who are accompanied with noble thoughts.</blockquote>
 

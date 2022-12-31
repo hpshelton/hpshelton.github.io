@@ -12,7 +12,6 @@ categories:
 - devil
 - beauty
 - goodness
-- daniel nayeri, <i>another faust</i>
 ---
 <blockquote>I think the biggest lie the devil ever told was that beauty and goodness are the same.</blockquote>
 

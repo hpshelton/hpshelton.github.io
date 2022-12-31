@@ -11,7 +11,6 @@ categories:
 - purchasing
 - consumer
 - product
-- <a href="http://twitter.com/petterihiisila/status/22602545109">http://twitter.com/petterihiisila/status/22602545109</a>
 ---
 <blockquote>If you're not paying for it, you're not the customer; you are the product being sold.</blockquote>
 

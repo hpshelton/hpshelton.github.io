@@ -11,7 +11,6 @@ categories:
 - politics
 - conservative
 - republican
-- <a href="http://cosmiclog.msnbc.msn.com/_news/2012/03/29/10911111-study-tracks-how-conservatives-lost-their-faith-in-science">msnbc - study tracks how conservatives lost their faith in science</a>
 ---
 <blockquote>In a political climate in which all sides do not share a basic trust in science, scientific evidence no longer is viewed as a politically neutral factor in judging whether a public policy is good or bad.</blockquote>
 

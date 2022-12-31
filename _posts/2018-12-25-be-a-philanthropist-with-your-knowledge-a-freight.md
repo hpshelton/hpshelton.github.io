@@ -11,7 +11,7 @@ categories:
 - work
 - culture
 - impact
-- jonathan zdziarski, "<a href="https://www.zdziarski.com/blog/?p=7437">living with depression in tech</a>"
+- jonathan zdziarski
 ---
 <blockquote>Be a philanthropist with your knowledge, a freight train with your work, and indifferent about your reputation.</blockquote>
 

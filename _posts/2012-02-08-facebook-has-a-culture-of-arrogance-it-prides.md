@@ -9,7 +9,7 @@ redirect_from:
 categories:
 - facebook
 - privacy
-- paul robert lloyd, <a href="http://paulrobertlloyd.com/2012/01/facebook/">facebook and the future of the web</a>
+- paul robert lloyd
 ---
 <blockquote>Facebook has a culture of arrogance. It prides itself on a 'move fast and break things' attitude, which I find grossly inappropriate for organisation entrusted with the personal and private data of over 800 million people.</blockquote>
 

@@ -15,7 +15,7 @@ categories:
 - faith
 - believers
 - skeptics
-- <a href="http://www.jamesshelley.net/2011/04/believers-and-skeptics/">believers and skeptics</a> by james shelley
+- james shelley
 ---
 <blockquote>No matter how you explain the world around you, your explanation is the nucleus and kernel of how you explain yourself.</blockquote>
 

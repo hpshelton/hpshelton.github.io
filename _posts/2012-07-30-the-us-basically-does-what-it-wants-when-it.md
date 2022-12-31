@@ -11,7 +11,7 @@ categories:
 - united states
 - us
 - flag
-- mark dyreson, <a href="http://www.latimes.com/sports/olympics/la-sp-0723-oly-dropping-flag-20120723,0,1766090,full.story">america's refusal to dip the flag has complicated olympic history</a>
+- mark dyreson
 ---
 <blockquote>The U.S. basically does what it wants when it comes to the Olympics. I don't see anything changing.</blockquote>
 

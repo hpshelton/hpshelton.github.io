@@ -9,7 +9,6 @@ redirect_from:
 categories:
 - immigration
 - free market economy
-- <a href="http://online.barrons.com/article/sb50001424052970204757804575467741700397402.html">arizona's missing famine</a>
 ---
 <blockquote>It seems the only things immigrants threaten are services that the government provides, whether directly, as with public schooling, or indirectly, by compelling hospitals to treat anyone who staggers through the doors. In contrast, markets free of government's grip don't suffer chronic shortages.</blockquote>
 

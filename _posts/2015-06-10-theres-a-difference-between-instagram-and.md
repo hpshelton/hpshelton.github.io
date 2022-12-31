@@ -9,7 +9,7 @@ redirect_from:
 categories:
 - photography
 - instagram
-- tom zimberoff, <a href="https://medium.com/vantage/cameras-were-invented-for-inarticulate-photographers-like-me-960e16e9e0cd">“cameras were invented for inarticulate photographers like me”</a>
+- tom zimberoff
 ---
 <blockquote>There's a difference between Instagram and photography — the way they're used. An Instagram is to photography as texting is to prose.</blockquote>
 

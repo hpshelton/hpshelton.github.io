@@ -15,7 +15,6 @@ categories:
 - soul
 - john eldredge
 - wild at heart
-- john eldredge, <i>wild at heart</i>
 ---
 <blockquote>There is a masculine heart and a feminine heart, which in their own ways reflect or portray to the world God's heart. God <i>meant</i> something when he meant man.</blockquote>
 

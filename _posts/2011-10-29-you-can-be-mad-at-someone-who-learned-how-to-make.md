@@ -11,7 +11,6 @@ categories:
 - government
 - occupy wall street
 - money
-- <a href="http://brooksreview.net/2011/10/occupy-this/">this occupy wall street stuff</a>, <a href="http://brooksreview.net/"><i>the brooks review</i></a>
 ---
 <blockquote>You can be mad at someone who learned how to make the system work exceptionally well for them, but should you get pissed at the system for not paying attention when people circumvent it. That is: should we be mad at Wall Street for doing their jobs exceptionally well, or mad at the governments for doing their jobs exceptionally poor?</blockquote>
 

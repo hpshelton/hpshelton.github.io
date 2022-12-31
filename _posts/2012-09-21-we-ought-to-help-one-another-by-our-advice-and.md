@@ -13,7 +13,6 @@ categories:
 - advice
 - example
 - the practice of the presence of god
-- brother lawrence, <i>the practice of the presence of god</i>
 ---
 <blockquote>We ought to help one another by our advice, and yet more by our good example. </blockquote>
 

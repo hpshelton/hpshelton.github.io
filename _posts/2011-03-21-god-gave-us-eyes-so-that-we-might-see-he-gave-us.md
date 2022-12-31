@@ -12,8 +12,7 @@ categories:
 - heart
 - soul
 - john eldredge
-- wild  at heart
-- john eldredge, <i>wild at heart</i>
+- wild at heart
 ---
 <blockquote>God gave us eyes so that we might see; He gave us ears that we might hear; He gave us wills that we might choose, and He gave us hearts that we might <i>live</i>.</blockquote>
 

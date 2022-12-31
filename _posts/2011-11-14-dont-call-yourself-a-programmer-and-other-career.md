@@ -8,9 +8,14 @@ permalink: /post/12772542126/dont-call-yourself-a-programmer-and-other-career
 redirect_from: 
   - /post/12772542126/dont-call-yourself-a-programmer-and-other-career
 categories:
-- programming
+- career
 - careers
 - jobs
+- programmer
+- programming
+- software engineering
+- business
+- resume
 - computer science
 - communication
 - life
@@ -26,4 +31,4 @@ categories:
 <strong>At the end of the day, your life happiness will not be dominated by your career.</strong>
 <p>Either talk to older people or trust the social scientists who have: family, faith, hobbies, etc etc generally swamp career achievements and money in terms of things which actually produce happiness.  Optimize appropriately.  Your career is important, and right now it might seem like the most important thing in your life, but odds are that is not what you'll believe forever.  Work to live, don't live to work.</p>
 </blockquote>
-<p>Good advice. </p>
+<p>Good advice.</p>

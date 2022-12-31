@@ -8,7 +8,7 @@ redirect_from:
   - /post/18702563066/kickstarter-steam-app-store-food-carts
 categories:
 - disruption
-- <a href="https://twitter.com/cabel/status/167685869707333632">cabel m. sasser</a> (@cabel)
+- cabel m. sasser
 ---
 <blockquote>Kickstarter. Steam. App Store. Food carts. Netflix. Square. I like this trend. DISRUPT ALL THE THINGS!</blockquote>
 

@@ -11,7 +11,6 @@ categories:
 - law
 - lawsuit
 - htc
-- <a href="http://fosspatents.blogspot.com/2011/11/apple-to-htc-dont-you-call-me-apple-inc.html">apple to htc: your comma is incorect</a>
 ---
 <blockquote>Apple denies that its correct name is Apple, Inc. The correct name of Respondent is Apple Inc.</blockquote>
 

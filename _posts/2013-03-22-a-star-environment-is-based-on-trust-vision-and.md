@@ -12,7 +12,6 @@ categories:
 - workplace
 - quotes
 - david heinemeier hansson
-- david heinemeier hansson, <a href="http://37signals.com/svn/posts/3461-b-environment-merits-b-effort"><i>b- environment merits b- effort</i></a>
 ---
 <blockquote>A star environment is based on trust, vision, and congruent behavior.</blockquote>
 

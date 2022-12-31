@@ -10,7 +10,6 @@ categories:
 - programming
 - exception
 - error
-- c#<br><br>i say it is, c#. i call your bluff.
 ---
 <blockquote><div style="font-size:11pt">System.FormatException: The string 'True' is not a valid Boolean value.<div></blockquote>
 

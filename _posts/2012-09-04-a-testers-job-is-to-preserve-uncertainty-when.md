@@ -12,7 +12,8 @@ categories:
 - testing
 - uncertainty
 - quote
-- <a href="http://www.developsense.com/blog/">michael bolton</a> (paraphrased by <a href="http://www.testthisblog.com/2012/08/critical-thinking-for-testers-with.html">eric jacobson</a>)
+- michael bolton
+- eric jacobson
 ---
 <blockquote>A tester's job is to preserve uncertainty when everyone around us is certain.</blockquote>
 

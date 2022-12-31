@@ -11,8 +11,6 @@ categories:
 - ash wednesday
 - christianity
 - sin
-- <a href="http://www.patheos.com/blogs/nadiabolzweber/2014/03/ash-wednesday-sermon-on-truth-dust-babies-and-funerals/">nadia bolz-weber</a>
-
 ---
 <blockquote>There's no shame in the truth that our lives on earth will all end and that we are in bondage to sin and cannot free ourselves. It's not depressing. What's depressing is the desperation of trying to pretend otherwise. What's depressing is to insist that I can free myself I just haven't managed to pull it off yet.</blockquote>
 

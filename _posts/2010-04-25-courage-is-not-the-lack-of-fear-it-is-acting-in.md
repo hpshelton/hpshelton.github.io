@@ -11,7 +11,6 @@ categories:
 - mark twain
 - courage
 - fear
-- mark twain (via <a href="http://rulesformyunbornson.tumblr.com/" class="tumblr_blog">rulesformyunbornson</a>)
 ---
 <blockquote>Courage is not the lack of fear, it is acting in spite of it.</blockquote>
 

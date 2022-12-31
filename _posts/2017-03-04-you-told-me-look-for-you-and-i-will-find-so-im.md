@@ -9,7 +9,6 @@ redirect_from:
 categories:
 - starfield
 - christianity
-- <a href="https://youtu.be/mgllddk741g">"rediscover you"</a>, starfield
 ---
 <blockquote>You told me, look for You and I will find<br/>
 So I'm here like I'm searching for the first time<br/>

@@ -14,7 +14,6 @@ categories:
 - end
 - ending
 - sonata
-- alan watts (via <a href="http://notentirely.tumblr.com/" class="tumblr_blog">notentirely</a>)
 ---
 <blockquote>You do not play a sonata in order to reach the final chord, and if the meanings of things were simply in ends, composers would write nothing but finales.</blockquote>
 

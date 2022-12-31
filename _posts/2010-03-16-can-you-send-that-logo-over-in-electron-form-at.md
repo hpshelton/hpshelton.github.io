@@ -9,7 +9,6 @@ redirect_from:
 categories:
 - design
 - logo
-- (via <a href="http://clientsfromhell.tumblr.com/" class="tumblr_blog">clientsfromhell</a>)
 ---
 <blockquote>Can you send that logo over in electron form, at the highest granularity you have.</blockquote>
 

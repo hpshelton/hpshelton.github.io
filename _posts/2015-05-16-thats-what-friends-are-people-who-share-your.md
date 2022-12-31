@@ -11,7 +11,6 @@ categories:
 - friendship
 - quotes
 - ray bradbury
-- <p>ray bradbury</p>
 ---
 <blockquote>That's what friends are — people who share your crazy outlook and protect you from the world… Friendship is an island you retreat to, and you're all on the floor and laugh at all the other ninnies who don't have enough brains to have your good taste.</blockquote>
 
