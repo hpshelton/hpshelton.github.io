@@ -6,6 +6,7 @@ title: "Shortchanging Your Business with User-Hostile Platforms"
 link: http://al3x.net/2011/01/15/user-hostile-platforms.html
 permalink: /post/2781536898/shortchanging-your-business-with-user-hostile
 redirect_from: 
+  - /post/2820347219/shortchanging-your-business-with-user-hostile
   - /post/2781536898/shortchanging-your-business-with-user-hostile
 categories:
 - adobe

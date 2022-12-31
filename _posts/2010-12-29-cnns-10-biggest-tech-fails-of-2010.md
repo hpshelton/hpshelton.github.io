@@ -7,6 +7,7 @@ link: http://www.cnn.com/2010/TECH/innovation/12/28/tech.fails.year/
 permalink: /post/2505103232/cnns-10-biggest-tech-fails-of-2010
 redirect_from: 
   - /post/2505103232/cnns-10-biggest-tech-fails-of-2010
+  - /post/2530772624/cnns-10-biggest-tech-fails-of-2010
 categories:
 - technology
 ---

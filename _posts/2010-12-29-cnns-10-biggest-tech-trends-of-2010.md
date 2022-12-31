@@ -7,6 +7,7 @@ link: http://www.cnn.com/2010/TECH/innovation/12/27/top.tech.trends.year/index.h
 permalink: /post/2505069716/cnns-10-biggest-tech-trends-of-2010
 redirect_from: 
   - /post/2505069716/cnns-10-biggest-tech-trends-of-2010
+  - /post/2530772022/cnns-10-biggest-tech-trends-of-2010
 categories:
 - technology
 ---

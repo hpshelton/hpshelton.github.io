@@ -7,6 +7,7 @@ link: http://www.boston.com/bigpicture/2010/12/a_new_year_rolls_in.html
 permalink: /post/2587353239/a-new-year-rolls-in
 redirect_from: 
   - /post/2587353239/a-new-year-rolls-in
+  - /post/2620526809/a-new-year-rolls-in
 categories:
 - new year's
 - 2011

@@ -6,6 +6,7 @@ title: "Top 11 Technologies for the Decade"
 link: http://spectrum.ieee.org/static/special-report-top-11-technologies-of-the-decade
 permalink: /post/2634222131/top-11-technologies-for-the-decade
 redirect_from: 
+  - /post/2694925485/top-11-technologies-for-the-decade
   - /post/2634222131/top-11-technologies-for-the-decade
 categories:
 - ieee

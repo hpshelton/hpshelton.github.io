@@ -6,6 +6,7 @@ title: "Video post"
 permalink: /post/2634276321/polar-bears-smash-spy-cams-via-bbc-ive-always
 redirect_from: 
   - /post/2634276321/polar-bears-smash-spy-cams-via-bbc-ive-always
+  - /post/2708649577/polar-bears-smash-spy-cams-via-bbc-ive-always
 categories:
 - polar bears
 - cameras

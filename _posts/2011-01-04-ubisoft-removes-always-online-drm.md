@@ -7,6 +7,7 @@ link: http://www.gamasutra.com/view/news/32261/Ubisoft_Removes_Constant_Online_A
 permalink: /post/2599635893/ubisoft-removes-always-online-drm
 redirect_from: 
   - /post/2599635893/ubisoft-removes-always-online-drm
+  - /post/2753979289/ubisoft-removes-always-online-drm
 categories:
 - drm
 - video games

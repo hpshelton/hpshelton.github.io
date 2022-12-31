@@ -6,6 +6,7 @@ title: "Video post"
 permalink: /post/2177149545/christmas-food-court-flash-mob-sings-the
 redirect_from: 
   - /post/2177149545/christmas-food-court-flash-mob-sings-the
+  - /post/2396647693/christmas-food-court-flash-mob-sings-the
 categories:
 - christmas
 - hallelujah chorus
