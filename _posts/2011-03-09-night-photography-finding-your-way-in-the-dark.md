@@ -17,6 +17,6 @@ categories:
 ---
 <p><a href="http://folio.jorgeq.com/post/3571975645/night-photography-finding-your-way-in-the-dark" class="tumblr_blog">jorgeqfolio</a>:</p>
 
-<blockquote><p>We&#8217;re so use to associating the opportunity of taking amazing photographs when it&#8217;s 80 degrees on a bright sunny day that we can&#8217;t help feel we&#8217;ve wasted this chance if we didn&#8217;t make it outside with our camera but this beautiful video on night photography gives you the encouragement to experiment shooting once the sun goes down. </p></blockquote>
+<blockquote><p>We're so use to associating the opportunity of taking amazing photographs when it's 80 degrees on a bright sunny day that we can't help feel we've wasted this chance if we didn't make it outside with our camera but this beautiful video on night photography gives you the encouragement to experiment shooting once the sun goes down. </p></blockquote>
 
 Really cool stuff from Big Bend.

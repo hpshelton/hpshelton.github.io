@@ -16,6 +16,6 @@ categories:
 
 <p><a href="http://stream.simplebits.com/post/1392242584/mediocrity" class="tumblr_blog">simplebits</a>:</p>
 
-<blockquote><p>&#8220;This car is an exact replica&#8230;of a car.&#8221; <a href="http://2011mediocrity.com">2011 Mediocrity</a></p></blockquote>
+<blockquote><p>"This car is an exact replica … of a car." <a href="http://2011mediocrity.com">2011 Mediocrity</a></p></blockquote>
 
 Nice new campaign from Subaru. Have no fun whatsoever on Subaru's <a href="http://www.subaru.com/content/static/fightmediocrity/index.html">website</a>.

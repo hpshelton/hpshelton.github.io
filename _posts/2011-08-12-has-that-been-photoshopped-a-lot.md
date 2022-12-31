@@ -19,7 +19,7 @@ categories:
 <blockquote><p>Ben Long, CreativePro.com:</p>
 
 <blockquote>
-  <p>&#8220;Image editing&#8221; starts as soon as you lift your eye to the viewfinder. What you choose to include in the frame is a massive edit of the scene before you, and it&#8217;s important to understand just how powerful this &#8220;cropping&#8221; of the real world can be.</p>
+  <p>"Image editing" starts as soon as you lift your eye to the viewfinder. What you choose to include in the frame is a massive edit of the scene before you, and it's important to understand just how powerful this "cropping" of the real world can be.</p>
 </blockquote></blockquote>
 
 <p></p>

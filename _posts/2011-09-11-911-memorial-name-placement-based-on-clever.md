@@ -19,7 +19,7 @@ categories:
 <blockquote><p>Linda Tischler, Co. Design:</p>
 
 <blockquote>
-  <p>When the National September 11 Memorial opens this fall &#8230; friends' names will be inscribed next to each other on the granite wall surrounding the Memorial Garden's fountains.</p>
+  <p>When the National September 11 Memorial opens this fall … friends' names will be inscribed next to each other on the granite wall surrounding the Memorial Garden's fountains.</p>
   
-  <p>Their adjacency is product of a masterful bit of programming undertaken by the New York media design firm Local Projects, which took 1,800 requests from families of the 3,500&#160;9/11 victims, and created an algorithm that let them be grouped by affinity: firefighters with firefighters, cops with cops, all the members of each of the flights, first responders, or just pals.</p>
+  <p>Their adjacency is product of a masterful bit of programming undertaken by the New York media design firm Local Projects, which took 1,800 requests from families of the 3,500 9/11 victims, and created an algorithm that let them be grouped by affinity: firefighters with firefighters, cops with cops, all the members of each of the flights, first responders, or just pals.</p>
 </blockquote>

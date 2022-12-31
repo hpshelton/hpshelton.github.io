@@ -18,7 +18,7 @@ categories:
 ---
 <p><a href="http://cameronmoll.tumblr.com/post/908963963/journey-through-canyons" class="tumblr_blog">cameronmoll</a>:</p>
 
-<blockquote><p>I&#8217;ve hiked or backpacked three of the four canyons featured in Metron&#8217;s (no name given) film, <a href="http://vimeo.com/13888708">Journey Through Canyons</a>. Surprisingly, the Grand Canyon is the only one I&#8217;ve not seen in person.</p>
+<blockquote><p>I've hiked or backpacked three of the four canyons featured in Metron's (no name given) film, <a href="http://vimeo.com/13888708">Journey Through Canyons</a>. Surprisingly, the Grand Canyon is the only one I've not seen in person.</p>
 
 <p>Be sure to check the Flickr photoset showing the DSLR gear used to create the film: <a href="http://www.flickr.com/photos/vmetron/sets/72157624654296344/with/4860573917/">Canyons, Making Of</a>.</p></blockquote>
 

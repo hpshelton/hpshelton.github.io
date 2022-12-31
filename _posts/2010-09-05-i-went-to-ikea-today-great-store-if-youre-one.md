@@ -16,7 +16,7 @@ I went to IKEA today. Great store, if you're one of the two people on the planet
 
 And I seriously have no idea what the math on the box is supposed to mean!
 
-11 W !&#x02248; 50 W ... unless the units don't mean the same thing.
+11 W !≈ 50 W ... unless the units don't mean the same thing.
 10,000 h = 10 x 1,000 h ... always?
 
 They should just stick to the pictorial instructions; math is not their strong suit. 

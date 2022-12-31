@@ -17,4 +17,5 @@ categories:
 ---
 <p><a href="http://blog.onefps.net/post/4728056538" class="tumblr_blog">chartier</a>:</p>
 
-<blockquote><p>&#8220;Recompile the kernel again. Switch distros. Recompile the kernel again but this time using a CPU powered by refracted light from Saturn.&#8221;</p></blockquote>
+<blockquote><p>"Recompile the kernel again. Switch distros. Recompile the kernel again but this time using a CPU powered by refracted light from Saturn."</p></blockquote>
+

@@ -16,7 +16,7 @@ categories:
 
 <p><a href="http://topherchris.com/post/558594718" class="tumblr_blog">topherchris</a>:</p>
 
-<blockquote><p>Steve Jobs&#8217; <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Thoughts on Flash</a>, in Flash.  Big improvement.</p>
+<blockquote><p>Steve Jobs' <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Thoughts on Flash</a>, in Flash.  Big improvement.</p>
 
 <p>(Better: Adobe Flash CS4 crashed twice while I threw this together.)</p></blockquote>
 

@@ -22,7 +22,7 @@ categories:
 
 <p>by <a href="https://www.youtube.com/watch?v=TKF6nFzpHBU">justkylevids</a></p>
 
-<p>It&#8217;s an effect of the &#8220;rolling shutter&#8221; that the iPhone and most other consumer gadgets use. <a href="http://www.tuaw.com/2010/08/26/rolling-shutter-effect-can-make-stunning-iphone-photos/">Richard Gaywood</a> offered a decent summary of what&#8217;s going on last year when this effect was used on airplane propellers.</p>
+<p>It's an effect of the "rolling shutter" that the iPhone and most other consumer gadgets use. <a href="http://www.tuaw.com/2010/08/26/rolling-shutter-effect-can-make-stunning-iphone-photos/">Richard Gaywood</a> offered a decent summary of what's going on last year when this effect was used on airplane propellers.</p>
 
 <p>via <a href="http://techcrunch.com/2011/07/14/iphone-camera-classical-guitar-wild-rolling-shutter-effects/">TechCrunch</a></p></blockquote>
 
