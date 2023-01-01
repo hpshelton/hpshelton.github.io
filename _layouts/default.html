@@ -73,7 +73,7 @@
       {{ content }}
       </div>
 
-      {% unless page.title == "Now" or page.next.url contains "tagged" or page.previous.url contains "tagged" %}
+      {% unless page.title == "Now" or page.title == "Not Found" or page.next.url contains "tagged" or page.previous.url contains "tagged" %}
       <!-- Pagination -->
       <div id="permalink-navigation" class="grid_8 mod prefix_3">
         <div class="mod-inner">          
