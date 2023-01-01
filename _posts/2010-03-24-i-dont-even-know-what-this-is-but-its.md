@@ -11,6 +11,6 @@ categories:
 - magazine
 - video
 ---
-False
+<iframe width="500" height="281" src="http://www.youtube.com/embed/wJLJOwn-ozs" frameborder="0" allowfullscreen></iframe>
 
 I don't even know what this is, but it's hilarious.

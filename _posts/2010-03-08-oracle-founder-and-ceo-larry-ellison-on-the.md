@@ -11,6 +11,6 @@ categories:
 - cloud computing
 - technology
 ---
-False
+<iframe width="500" height="281" src="https://www.youtube.com/embed/0FacYAI6DY0" title="Larry Ellison - What The Hell Is Cloud Computing?" frameborder="0" allowfullscreen></iframe>
 
 Oracle founder and CEO Larry Ellison on the "fashion" of cloud computing. "The cloud is just water vapor."
