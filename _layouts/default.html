@@ -22,8 +22,8 @@
   <link rel="shortcut icon" href="/assets/images/favicon.jpg" />
   
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" href="https://hpshelton.com/rss">
-  
+  {% feed_meta %}
+
   <!-- CSS -->
   <style>
     body {
@@ -54,8 +54,7 @@
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/now">Now</a></li>
-            <!-- <li><a href="/archive/">Archive</a></li> -->
-            <li><a href="/rss">Subscribe</a></li>
+            <li><a href="/feeds/atom.xml">RSS</a></li>
           </ul>
         </div>
       </div> 
@@ -105,7 +104,7 @@
             <div id="big-footer-elsewhere">
               <h1>Links</h1>
               <ul>
-                <li><a href="/rss">RSS</a></li>
+                <li><a href="/feeds/atom.xml">RSS</a></li>
                 <li><a href="https://github.com/hpshelton">GitHub</a></li>
                 <li><a href="https://www.tumblr.com/liked/by/hpshelton">Liked Posts</a></li>
                 <li><a href="https://linkedin.com/in/hpshelton">LinkedIn</a></li>
