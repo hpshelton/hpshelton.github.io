@@ -10,5 +10,5 @@ redirect_from:
 categories:
 - dialect
 ---
-<img src="assets/images/tumblr_moiatqIa461qb098no1_500.png"/>
+<img src="/assets/images/tumblr_moiatqIa461qb098no1_500.png"/>
 <p>Y'all, soda pop, caramel, and donuts all appear in this fascinating set of maps showing the various regional differences in pronunciation and even word choice across the U.S.</p>

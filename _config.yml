@@ -1,6 +1,6 @@
 defaults:
   - scope:
-      path: "images"
+      path: "assets/images"
     values:
       image: true
   - scope:

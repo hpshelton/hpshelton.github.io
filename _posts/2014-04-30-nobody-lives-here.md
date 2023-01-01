@@ -17,4 +17,4 @@ categories:
 - infographic
 ---
 <p>The nearly 5 million U.S. blocks with zero population per the U.S. Census Bureau:</p>
-<p><figure class="tmblr-full" data-orig-height="781" data-orig-width="1280" data-orig-src="assets/images/tumblr_n4pjarZfWa1qb098no1_1280.png"><img src="assets/images/tumblr_inline_pk1i1fcFDh1qaf504_540.png" data-orig-height="781" data-orig-width="1280" data-orig-src="assets/images/tumblr_n4pjarZfWa1qb098no1_1280.png"></figure></p>
+<p><figure class="tmblr-full" data-orig-height="781" data-orig-width="1280" data-orig-src="/assets/images/tumblr_n4pjarZfWa1qb098no1_1280.png"><img src="/assets/images/tumblr_inline_pk1i1fcFDh1qaf504_540.png" data-orig-height="781" data-orig-width="1280" data-orig-src="/assets/images/tumblr_n4pjarZfWa1qb098no1_1280.png"></figure></p>

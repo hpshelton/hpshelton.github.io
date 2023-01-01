@@ -11,4 +11,4 @@ categories:
 - earthquakes
 - california
 ---
-<div style="text-align:center"><figure class="tmblr-full" data-orig-height="464" data-orig-width="486"><img src="assets/images/a219279c71ac76fdc71438a1831c7e6e741e918e.png" data-orig-height="464" data-orig-width="486"></figure></div>
+<div style="text-align:center"><figure class="tmblr-full" data-orig-height="464" data-orig-width="486"><img src="/assets/images/a219279c71ac76fdc71438a1831c7e6e741e918e.png" data-orig-height="464" data-orig-width="486"></figure></div>

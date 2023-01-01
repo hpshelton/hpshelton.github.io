@@ -14,5 +14,5 @@ categories:
 - quiz
 - society
 ---
-<figure class="tmblr-full" data-orig-height="398" data-orig-width="500"><img src="assets/images/44585d3156568ffeb4e2957e437fc757e8930101.png" data-orig-height="398" data-orig-width="500"></figure>
+<figure class="tmblr-full" data-orig-height="398" data-orig-width="500"><img src="/assets/images/44585d3156568ffeb4e2957e437fc757e8930101.png" data-orig-height="398" data-orig-width="500"></figure>
 I suppose I should be proud of myself, but I'm generally just embarrassed by our society.

@@ -12,5 +12,5 @@ categories:
 - photography
 - nathan myhrvold
 ---
-<p><figure class="tmblr-full" data-orig-height="2048" data-orig-width="2048"><img src="assets/images/e92109c0428b252aaaf829355a23b1723928337b.jpg" data-orig-height="2048" data-orig-width="2048"></figure></p>
+<p><figure class="tmblr-full" data-orig-height="2048" data-orig-width="2048"><img src="/assets/images/e92109c0428b252aaaf829355a23b1723928337b.jpg" data-orig-height="2048" data-orig-width="2048"></figure></p>
 <p>Nathan Myhrvold does weird and crazy things again.</p>

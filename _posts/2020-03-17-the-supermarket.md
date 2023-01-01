@@ -24,7 +24,7 @@ categories:
 <p>The groceries I buy regularly have a suspicious overlap with the list of recommended emergency non-perishables. It's unclear if my diet is just constantly in a state of emergency.</p> 
 
 <p style="margin-bottom: 12px;">There is only one worthwhile brownie mix, Ghirardelli triple chocolate:</p>
-<figure style="text-align: center; margin-bottom: 24px;" class="tmblr-full" data-orig-height="3024" data-orig-width="4032"><img src="assets/images/3f77a9f4e9fe4a6bb59771f0ab07f64f950ded9b.jpg" data-orig-height="3024" data-orig-width="4032"></figure><p>Chicken? Running low. Breaded pre-cut frozen chicken in cute dinosaur shapes? Running right into my tummy.</p> 
+<figure style="text-align: center; margin-bottom: 24px;" class="tmblr-full" data-orig-height="3024" data-orig-width="4032"><img src="/assets/images/3f77a9f4e9fe4a6bb59771f0ab07f64f950ded9b.jpg" data-orig-height="3024" data-orig-width="4032"></figure><p>Chicken? Running low. Breaded pre-cut frozen chicken in cute dinosaur shapes? Running right into my tummy.</p> 
 
 <p>What does it say about us when the only soups left on the shelf are Campbell's chicken noodle and all the Campbell's Chunky&trade;? What does it say about me that those are the only soups I buy?</p> 
 

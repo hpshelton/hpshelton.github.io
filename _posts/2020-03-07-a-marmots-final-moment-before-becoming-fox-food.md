@@ -13,6 +13,6 @@ categories:
 - photographer
 - nature
 ---
-<p text-align:><figure class="tmblr-full" data-orig-height="810" data-orig-width="1440" data-orig-src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TG62OHXQIMI6TO362IBG5YGBTE.jpg&amp;w=1440"><img src="assets/images/67019bfa020920046bb664c30a3a8fa399a82281.jpg" data-orig-height="810" data-orig-width="1440" data-orig-src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TG62OHXQIMI6TO362IBG5YGBTE.jpg&amp;w=1440"></figure></p>
+<p text-align:><figure class="tmblr-full" data-orig-height="810" data-orig-width="1440" data-orig-src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TG62OHXQIMI6TO362IBG5YGBTE.jpg&amp;w=1440"><img src="/assets/images/67019bfa020920046bb664c30a3a8fa399a82281.jpg" data-orig-height="810" data-orig-width="1440" data-orig-src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TG62OHXQIMI6TO362IBG5YGBTE.jpg&amp;w=1440"></figure></p>
 
 <p>Juke!</p>

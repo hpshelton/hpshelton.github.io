@@ -13,4 +13,4 @@ categories:
 - data
 - tweets
 ---
-<figure class="tmblr-full" data-orig-height="640" data-orig-width="640" data-orig-src="https://g.twimg.com/blog/blog/image/new-york-city.jpg"><img src="assets/images/tumblr_inline_pk1ijxb2ZK1qaf504_540.jpg" data-orig-height="640" data-orig-width="640" data-orig-src="https://g.twimg.com/blog/blog/image/new-york-city.jpg"></figure><p>A look at geotagging data from Twitter.</p>
+<figure class="tmblr-full" data-orig-height="640" data-orig-width="640" data-orig-src="https://g.twimg.com/blog/blog/image/new-york-city.jpg"><img src="/assets/images/tumblr_inline_pk1ijxb2ZK1qaf504_540.jpg" data-orig-height="640" data-orig-width="640" data-orig-src="https://g.twimg.com/blog/blog/image/new-york-city.jpg"></figure><p>A look at geotagging data from Twitter.</p>
