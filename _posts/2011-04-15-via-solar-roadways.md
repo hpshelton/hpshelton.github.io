@@ -17,6 +17,6 @@ categories:
 - technology
 - energy
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/Ep4L18zOEYI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Solar Roadways: The Prototype"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/Ep4L18zOEYI?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Solar Roadways: The Prototype"></iframe>
 
  (via <a href="http://www.solarroadways.com/intro.shtml">Solar Roadways</a>)

@@ -15,6 +15,6 @@ categories:
 - apple
 - iphone
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/zsjZ2r9Ygzw?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Encryption: Last Week Tonight with John Oliver (HBO)"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/zsjZ2r9Ygzw?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Encryption: Last Week Tonight with John Oliver (HBO)"></iframe>
 
 <p>Last Week Tonight with John Oliver covers encryption, and man does he do a good job.</p>

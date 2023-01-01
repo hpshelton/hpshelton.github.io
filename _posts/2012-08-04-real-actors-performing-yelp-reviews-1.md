@@ -12,6 +12,6 @@ categories:
 - actor
 - humor
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/QEdXhH97Z7E?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Real Actors Read Yelp™  #1"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/QEdXhH97Z7E?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Real Actors Read Yelp™  #1"></iframe>
 
 Real Actors Performing Yelp Reviews #1

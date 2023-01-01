@@ -15,6 +15,6 @@ categories:
 - hitler
 - parody
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/A25VgNZDQ08?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Hitler finds out Google Reader is shutting down"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/A25VgNZDQ08?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Hitler finds out Google Reader is shutting down"></iframe>
 
 Hitler finds out Google Reader is shutting down

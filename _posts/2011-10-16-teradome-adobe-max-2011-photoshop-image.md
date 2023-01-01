@@ -14,7 +14,7 @@ categories:
 - sharpen
 - enhance
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/xxjiQoTp864?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Adobe MAX 2011 - Photoshop Image Deblurring sneak"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/xxjiQoTp864?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Adobe MAX 2011 - Photoshop Image Deblurring sneak"></iframe>
 
 <p><a href="http://teradome.com/post/11316951785" class="tumblr_blog">teradome</a>:</p>
 

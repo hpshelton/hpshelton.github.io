@@ -14,7 +14,7 @@ categories:
 - music
 - sound
 ---
-<iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/TKF6nFzpHBU?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Guitar Oscillations Captured with iPhone 4"></iframe>
+<iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/TKF6nFzpHBU?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Guitar Oscillations Captured with iPhone 4"></iframe>
 
 <p><a href="http://onefps.net/post/7616174107" class="tumblr_blog">chartier</a>:</p>
 

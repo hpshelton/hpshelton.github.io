@@ -12,7 +12,7 @@ categories:
 - animation
 - video
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/qLWn8HngycY?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Jurassic World in 90 seconds (LEGO animation)"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/qLWn8HngycY?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Jurassic World in 90 seconds (LEGO animation)"></iframe>
 
 
 <p>Jurassic World in 90 seconds. In LEGO. In totality.</p>

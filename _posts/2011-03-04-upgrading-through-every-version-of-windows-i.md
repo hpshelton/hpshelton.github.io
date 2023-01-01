@@ -16,7 +16,7 @@ categories:
 - user interface
 - technology
 ---
-<iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/vPnehDhGa14?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chain of Fools : Upgrading through every version of windows (HQ)"></iframe>
+<iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/vPnehDhGa14?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Chain of Fools : Upgrading through every version of windows (HQ)"></iframe>
 
 <a href="http://www.youtube.com/watch?v=vPnehDhGa14">Upgrading Through Every Version of Windows</a><br>
 <br>

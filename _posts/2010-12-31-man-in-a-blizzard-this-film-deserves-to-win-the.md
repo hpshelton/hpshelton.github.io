@@ -14,7 +14,7 @@ categories:
 - video
 - roger ebert
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/_kD_M50-V6s?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Man in a  Blizzard"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/_kD_M50-V6s?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Man in a  Blizzard"></iframe>
 
 <a href="http://www.youtube.com/watch?v=_kD_M50-V6s&feature=player_embedded">Man in a Blizzard</a> 
 

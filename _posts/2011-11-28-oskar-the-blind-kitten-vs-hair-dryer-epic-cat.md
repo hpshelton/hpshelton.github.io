@@ -13,7 +13,7 @@ categories:
 - cute
 - video
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/ElzPZNSdd5w?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Oskar the Blind Kitten Versus Hair Dryer - Epic Cat Battle"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/ElzPZNSdd5w?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Oskar the Blind Kitten Versus Hair Dryer - Epic Cat Battle"></iframe>
 
 <p>Oskar the Blind Kitten vs Hair Dryer - Epic Cat Battle (via<a href="http://www.youtube.com/watch?v=ElzPZNSdd5w"> Youtube</a>)</p>
 <p>So cute.</p>

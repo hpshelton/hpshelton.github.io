@@ -15,7 +15,7 @@ categories:
 - future
 - superconductor
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/Ws6AAhTw7RA?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Quantum Levitation"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/Ws6AAhTw7RA?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Quantum Levitation"></iframe>
 
 <p><a href="http://jasonadriaan.com/post/11595319387/the-future-in-laymans-terms-when-a" class="tumblr_blog">jasonadriaan</a>:</p>
 

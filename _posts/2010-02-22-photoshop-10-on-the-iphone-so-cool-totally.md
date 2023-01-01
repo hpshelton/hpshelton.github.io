@@ -12,7 +12,7 @@ categories:
 - demo
 - video
 ---
-<iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/zGc8OBp-Wh0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Photoshop 1.0 on the iPhone!"></iframe>
+<iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/zGc8OBp-Wh0?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Photoshop 1.0 on the iPhone!"></iframe>
 
 Photoshop 1.0 on the iPhone
 

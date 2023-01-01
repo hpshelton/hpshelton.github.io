@@ -12,6 +12,6 @@ categories:
 - computer science
 - computational theory
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/uNjxe8ShM-8?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="On The Turing Completeness of PowerPoint (SIGBOVIK)"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/uNjxe8ShM-8?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="On The Turing Completeness of PowerPoint (SIGBOVIK)"></iframe>
 
 <p><a href="https://www.youtube.com/watch?v=uNjxe8ShM-8">On The Turing Completeness of PowerPoint</a></p>

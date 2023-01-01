@@ -12,6 +12,6 @@ categories:
 - groot
 - engineering
 ---
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/6spi7nBqrro?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Disney Imagineering's Project Kiwi is free walking robot that will make you believe in Groot"></iframe>
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/6spi7nBqrro?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Disney Imagineering's Project Kiwi is free walking robot that will make you believe in Groot"></iframe>
 
 <p>(via <a href="https://techcrunch.com/2021/04/23/disney-imagineerings-project-kiwi-is-free-walking-robot-that-will-make-you-believe-in-groot/">Disney Imagineering's Project Kiwi is a free-walking robot that will make you believe in Groot</a>) </p>
