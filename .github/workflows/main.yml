@@ -12,4 +12,4 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '14'
-      - run: npx -p @percy/cli snapshot snapshots.yml
+      - run: npx percy snapshot snapshots.yml
