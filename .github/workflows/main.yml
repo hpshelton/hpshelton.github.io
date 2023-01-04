@@ -1,10 +1,7 @@
-name: Visual Regression Tests
-
 on:
   push:
     branches:
-      - master
-  pull_request:
+      - main
 
 jobs:
   build:
@@ -12,5 +9,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Percy Test
-        run: npx @percy/cli snapshot snapshots.yml
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+      - run: npx @percy/cli snapshot snapshots.yml
