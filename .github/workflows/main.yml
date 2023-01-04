@@ -13,4 +13,6 @@ jobs:
         with:
           node-version: '14'
       - run: npm install --save-dev @percy/cli
-      - run: npx percy snapshot snapshots.yml
+      - run: npx percy snapshot snapshots.yml env:
+        env:
+          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
