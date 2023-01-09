@@ -12,6 +12,8 @@ categories:
 - art
 - privacy
 ---
-<blockquote><p>Earlier this month, a photo [David Welly Sombra Rodrigues] took in Ireland for his more than 7,000 Instagram followers went viral. But he didn't realize it until a friend messaged him, pointing him to a <a href="https://www.bloomberg.com/news/articles/2022-09-13/new-art-video-combines-instagram-posts-with-surveillance-footage">news article</a> about "<a href="https://driesdepoorter.be/thefollower/">The Follower,</a>," a digital art project that showed just how much can be captured by webcams broadcasting from public spaces — and how surprising it can be for those who are unwittingly filmed by them.</p>
+<blockquote>
+<p>Earlier this month, a photo [David Welly Sombra Rodrigues] took in Ireland for his more than 7,000 Instagram followers went viral. But he didn't realize it until a friend messaged him, pointing him to a <a href="https://www.bloomberg.com/news/articles/2022-09-13/new-art-video-combines-instagram-posts-with-surveillance-footage">news article</a> about "<a href="https://driesdepoorter.be/thefollower/">The Follower,</a>," a digital art project that showed just how much can be captured by webcams broadcasting from public spaces — and how surprising it can be for those who are unwittingly filmed by them.</p>
 
 <p>The artist had paired Instagram photos with video footage that showed the process of taking them.</p>
+</blockquote>
