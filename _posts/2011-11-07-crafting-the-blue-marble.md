@@ -16,5 +16,6 @@ categories:
 - blue marble
 - nasa
 ---
-<p><img src="http://earthobservatory.nasa.gov/blogs/elegantfigures/files/2011/10/globe_west_720.jpg"/></p>
+![](http://earthobservatory.nasa.gov/blogs/elegantfigures/files/2011/10/globe_west_720.jpg)
+
 <p>I had no idea until reading this post that the image was Photoshopped together with tens of thousands of satellite photos and used texturing and 3D rendering. Awesome.</p>

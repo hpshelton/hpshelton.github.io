@@ -13,4 +13,4 @@ categories:
 - photography
 - photographs
 ---
-<img src="http://cdn.theatlantic.com/static/infocus/ngm092112/s_n50_lakebrun.jpg" />
+![](/assets/images/lakebrun.jpg)

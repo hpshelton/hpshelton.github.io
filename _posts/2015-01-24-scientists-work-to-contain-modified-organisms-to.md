@@ -15,5 +15,5 @@ categories:
 - gmo
 ---
 <blockquote>The scientists have given a common type of bacterium a unique genetic code that makes it dependent for survival on unnatural amino acids that must be fed to it. If such organisms escaped into the wild, where those amino acids are not available, they would die.</blockquote>
-<p>I think this was tried before. They clearly did not learn the lesson.</p><p style="text-align:center">
-<img src="http://3.bp.blogspot.com/-p9r8sEX6uE4/T_KFV_nMMCI/AAAAAAAACKM/MP8X9TG6MnU/s1600/1993+jurassic+park+2.jpg" /></p>
+<p>I think this was tried before. They clearly did not learn the lesson.</p>
+![](http://3.bp.blogspot.com/-p9r8sEX6uE4/T_KFV_nMMCI/AAAAAAAACKM/MP8X9TG6MnU/s1600/1993+jurassic+park+2.jpg)

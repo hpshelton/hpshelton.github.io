@@ -14,6 +14,6 @@ categories:
 - iphone
 - phones
 ---
-<div style="text-align:center; margin-bottom: 10px;"><img src="http://www.asymco.com/wp-content/uploads/2010/12/Screen-shot-2010-12-13-at-12-13-12.37.25-PM-440x280.png"/></div>
+![](http://www.asymco.com/wp-content/uploads/2010/12/Screen-shot-2010-12-13-at-12-13-12.37.25-PM-440x280.png)
 
 Interesting little graph in a nice article about Verizon and the iPhone. And make sure to note that's just the iPhone, not the other phones AT&T sells.

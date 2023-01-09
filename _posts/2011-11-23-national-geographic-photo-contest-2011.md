@@ -12,6 +12,7 @@ categories:
 - photographs
 - national geographic
 ---
-<p>All gorgeous, but this one in particular struck a chord:</p>
-<p><img src="http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/ngmphotocontest_111811/bp51.jpg"/></p>
+All gorgeous, but this one in particular struck a chord:
+
+![](http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/ngmphotocontest_111811/bp51.jpg)
 

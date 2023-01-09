@@ -13,4 +13,6 @@ categories:
 - inbox
 - email
 ---
-Copying Hotmail now are we, Gmail? Welcome to 1996. <p style="text-align:center"><img src="http://blogs.technet.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-80-73-metablogapi/2425.huffpoedit_5F00_lg_5F00_5F45A0FB.jpg"/></p>
+Copying Hotmail now are we, Gmail? Welcome to 1996. 
+
+![](http://blogs.technet.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-80-73-metablogapi/2425.huffpoedit_5F00_lg_5F00_5F45A0FB.jpg)

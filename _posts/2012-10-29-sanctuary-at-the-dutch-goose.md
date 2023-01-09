@@ -11,5 +11,6 @@ categories:
 - fellowship
 - friends
 ---
-<p><img src="https://kjrcgq.sn2.df.livefilestore.com/y1pAdIzCg2Vfuvtw2ccYN35vSMTnx8688nZArO7pLmXnvLPaRMrHjDQkGB9q2-spvL6TZslSzhyn_4/V__EAA4.jpg?psid=2"></img></p>
-<p>I didn't realize until people started taking pictures that I had ended up on a bench surrounded by lovely Sanctuary ladies.</p>
+![](/assets/images/santuarygoose.jpg)
+
+I didn't realize until people started taking pictures that I had ended up on a bench surrounded by lovely Sanctuary ladies.

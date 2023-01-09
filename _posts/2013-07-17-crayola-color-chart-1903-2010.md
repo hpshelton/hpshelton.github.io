@@ -14,5 +14,6 @@ categories:
 - crayola
 - crayon
 ---
-<p><img src="http://www.datapointed.net/media/2010/10/crayola_color_chart_bow.jpg" /></p>
-<p>Great data visualization. Click through to see the associated color names.</p>
+![](/assets/images/crayola_color_chart_bow.jpg)
+
+Great data visualization. Click through to see the associated color names.

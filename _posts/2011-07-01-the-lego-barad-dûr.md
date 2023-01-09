@@ -15,6 +15,6 @@ categories:
 ---
 This is insane. 50,000 lego pieces and 2 months of work:
 
-<img src="http://farm6.static.flickr.com/5144/5854766944_831d2cc531_b.jpg"/>
+![](http://farm6.static.flickr.com/5144/5854766944_831d2cc531_b.jpg)
 
 Even more nerdy is the <a href="http://www.mocpages.com/moc.php/276793">full Lego LOTR world</a> others helped create along with it.

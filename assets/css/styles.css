@@ -480,6 +480,14 @@ input:focus {
   max-width: 99%;
 }
 
+.mod p:has(> img) {
+  text-align: center;
+}
+
+.mod p:has(> figure) {
+  text-align: center;
+}
+
 .mod p {
   font-weight: normal;
   margin-top: 0px;

@@ -17,4 +17,4 @@ categories:
 
 <p>The greatest feature I never knew I needed from Skype:
 
-</p><p style="text-align:center"><figure class="tmblr-full" data-orig-height="750" data-orig-width="422" data-orig-src="/assets/images/tumblr_p0rqr84xEJ1qb098no1_500.jpg"><img src="/assets/images/tumblr_inline_pk1hvfeCXi1qaf504_540.jpg" data-orig-height="750" data-orig-width="422" data-orig-src="/assets/images/tumblr_p0rqr84xEJ1qb098no1_500.jpg"></figure></p>
+![](/assets/images/tumblr_p0rqr84xEJ1qb098no1_500.jpg)

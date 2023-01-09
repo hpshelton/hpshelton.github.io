@@ -13,5 +13,6 @@ categories:
 - iphone
 - photos
 ---
-<p><img src="http://b.fastcompany.net/multisite_files/fastcompany/imagecache/slideshow_large/slideshow/2014/02/3026935-slide-s-1-everything-about-these-iphone-pictures-of-a-lego-lensman-taking-pictures-is-awesome.jpg" /></p>
-<p>Legos and photography? Perfect.</p>
+![](http://b.fastcompany.net/multisite_files/fastcompany/imagecache/slideshow_large/slideshow/2014/02/3026935-slide-s-1-everything-about-these-iphone-pictures-of-a-lego-lensman-taking-pictures-is-awesome.jpg)
+
+Legos and photography? Perfect.

@@ -15,6 +15,6 @@ categories:
 - wireframe
 - wirify
 ---
-<a href="http://www.volkside.com/tools/wirify/">Wirify</a> is a bookmarklet that lets you turn any web page into a wireframe in one click:
+[Wirify](http://www.volkside.com/tools/wirify/) is a bookmarklet that lets you turn any web page into a wireframe in one click:
 
-<img src="http://www.volkside.com/wp/wp-content/uploads/2010/12/New-York-Times-Original-vs-Wirify-wireframe-540x501.jpg">
+![](http://www.volkside.com/wp/wp-content/uploads/2010/12/New-York-Times-Original-vs-Wirify-wireframe-540x501.jpg)
