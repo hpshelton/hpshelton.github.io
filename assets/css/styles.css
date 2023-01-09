@@ -474,7 +474,7 @@ input:focus {
 }
 
 .mod p img {
-  border-width: 5x;
+  border-width: 2px;
   border-style: solid;
   border-color: white;
   max-width: 99%;
