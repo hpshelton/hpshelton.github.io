@@ -9,10 +9,22 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-node@v3
         with:
           node-version: '14'
+
       - run: npm install --save-dev @percy/cli
-      - run: npx percy snapshot snapshots.yml
+
+      - name: Snapshot Tumblr
+        run: npx percy snapshot snapshots.tumblr.yml
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+          PERCY_BRANCH: tumblr
+
+      - name: Snapshot GitHub Pages
+        run: npx percy snapshot snapshots.github.yml
+        env:
+          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+          PERCY_BRANCH: github
+          PERCY_TARGET_BRANCH: tumblr
