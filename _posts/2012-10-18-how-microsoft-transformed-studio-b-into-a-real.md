@@ -13,4 +13,4 @@ categories:
 - tablet
 - technology
 ---
-<p>Ars Technica details a walkthough of Redmond's Studio B where the Surface was designed, prototyped, fabricated, and tested.</p>
+<p>Ars Technica details a walkthrough of Redmond's Studio B where the Surface was designed, prototyped, fabricated, and tested.</p>

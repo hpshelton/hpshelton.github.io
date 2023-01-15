@@ -10,7 +10,7 @@ redirect_from:
 categories:
 - uber
 - sucks
-- canegie mellon
+- carnegie mellon
 - robotics
 - cars
 ---

@@ -15,4 +15,4 @@ categories:
 <blockquote><p>It turns out that transferring cyber arms, while technically easy, is actually a lot more complicated than delivering conventional weapons.</p>
 
 <p>Selling fighter jets to an ally doesn't make the planes in your own fleet dramatically less effective. But when an exploit or tool is shared with a country and then used, its usefulness is reduced for everyone. This means that governments are more likely to help other states develop their own offensive capabilities by providing the expertise to find exploits, develop tools, and innovate themselves.</p></blockquote>
-<p>Discovery of a exploit, attribution, and deconfliction are all attributes that influcence this dynamic.</p>
+<p>Discovery of a exploit, attribution, and deconfliction are all attributes that influence this dynamic.</p>

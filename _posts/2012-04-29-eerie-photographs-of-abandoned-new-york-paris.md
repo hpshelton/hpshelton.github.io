@@ -12,7 +12,7 @@ categories:
 - new york
 - paris
 - beijing
-- adandoned
+- abandoned
 - empty
 ---
 ![](/assets/images/tumblr_m1s4ozlKuW1qb098no1_640.jpg)

@@ -13,7 +13,7 @@ categories:
 - spending
 - politics
 - economics
-- defecit
+- deficit
 - debt
 ---
 <blockquote>There is a very strong correlation, then, between a state voting for Republicans and receiving more in federal spending than its residents pay to the federal government in taxes. In essence, those in blue states are subsidizing those in red states. Both red and blue states appear to be acting politically in opposition to their economic interests. Blue states are voting for candidates who are likely to continue the policies of red state subsidization while red states are voting for candidates who profess a desire to reduce federal spending (and presumably red state subsidization).</blockquote>

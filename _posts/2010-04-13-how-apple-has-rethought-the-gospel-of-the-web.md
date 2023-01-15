@@ -10,7 +10,7 @@ redirect_from:
 categories:
 - apple
 - technology
-- ipone
+- iphone
 - app store
 - innovation
 - openness

@@ -9,7 +9,7 @@ redirect_from:
   - /post/691176494/saudi-arabia-gives-israel-clear-skies-to-attack
 categories:
 - israel
-- saudia arabia
+- saudi arabia
 - iran
 - politics
 ---

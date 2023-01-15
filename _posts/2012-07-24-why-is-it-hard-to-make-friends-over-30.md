@@ -3,7 +3,7 @@ layout: post
 type: link
 date: 2012-07-24 02:00:10 GMT
 title: "Why Is It Hard to Make Friends Over 30?"
-link: http://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html?utm_medium=email&_r=2&adxnnl=1&utm_source=hackernewsletter&adxnnlx=1342897499-mN3Y6J7LCDy no5Fe85ktw&pagewanted=all
+link: http://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html
 permalink: /post/27877829473/why-is-it-hard-to-make-friends-over-30
 redirect_from: 
   - /post/27877829473/why-is-it-hard-to-make-friends-over-30

@@ -11,5 +11,5 @@ categories:
 - frances allen
 - computer science
 ---
-<blckquote>Frances Allen, a computer scientist and researcher who helped create the fundamental ideas that allow practically anyone to build fast, efficient and useful software for computers, smartphones and websites, died on Tuesday, her 88th birthday, in Schenectady, N.Y.</blockquote>
+<blockquote>Frances Allen, a computer scientist and researcher who helped create the fundamental ideas that allow practically anyone to build fast, efficient and useful software for computers, smartphones and websites, died on Tuesday, her 88th birthday, in Schenectady, N.Y.</blockquote>
 <p>First woman to win the Turing award. What a life.</p>

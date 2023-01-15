@@ -15,6 +15,6 @@ categories:
 ---
 <blockquote>As we continue to grow and plan for the future, Microsoft is modernizing our workplaces in all regions where we do business. In Silicon Valley, we are creating our smartest, greenest office yet.</blockquote>
 
-<p>So excited to see this come to fruition and proud to work for a company investing in such great concepts for employees and the environment. Don't miss the detials behind our <a href="https://news.microsoft.com/stories/microsoft-silicon-valley/">net-zero water usage goal</a>.</p>
+<p>So excited to see this come to fruition and proud to work for a company investing in such great concepts for employees and the environment. Don't miss the details behind our <a href="https://news.microsoft.com/stories/microsoft-silicon-valley/">net-zero water usage goal</a>.</p>
 
 <p><iframe width="728" height="440" src="https://www.youtube.com/embed/WJzn-60BX14" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>

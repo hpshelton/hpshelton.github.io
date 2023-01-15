@@ -14,4 +14,4 @@ categories:
 ---
 <blockquote>Apple denies that its correct name is Apple, Inc. The correct name of Respondent is Apple Inc.</blockquote>
 
- — <a href="http://fosspatents.blogspot.com/2011/11/apple-to-htc-dont-you-call-me-apple-inc.html">Apple to HTC: Your Comma Is Incorect</a>
+ — <a href="http://fosspatents.blogspot.com/2011/11/apple-to-htc-dont-you-call-me-apple-inc.html">Apple to HTC: Your Comma Is Incorrect</a>

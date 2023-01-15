@@ -13,6 +13,6 @@ categories:
 - materials
 - exoskeleton
 ---
-<blockequote><p>In 2015, Jesus Rivera filmed a very unusual science experiment for posterity.</p>
+<blockquote><p>In 2015, Jesus Rivera filmed a very unusual science experiment for posterity.</p>
 <p>On the asphalt of a sun-soaked parking lot, he placed a mottled black beetle on a pillow of dirt and had a colleague run it over with a Toyota Camry. Twice.</p>
-<p>Just about any other bug would have died. This one, a species called Phloeodes diabolicus, did not.</p></blockquote>
+<p>Just about any other bug would have died. This one, a species called <i>Phloeodes diabolicus</i>, did not.</p></blockquote>

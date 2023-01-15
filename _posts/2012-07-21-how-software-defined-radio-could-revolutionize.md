@@ -8,7 +8,7 @@ permalink: /post/27667476621/how-software-defined-radio-could-revolutionize
 redirect_from: 
   - /post/27667476621/how-software-defined-radio-could-revolutionize
 categories:
-- wirless
+- wireless
 - radio
 - software
 - technology

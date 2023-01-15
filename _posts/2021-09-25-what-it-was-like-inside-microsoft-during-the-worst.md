@@ -13,4 +13,4 @@ categories:
 - cybersecurity
 - security
 ---
-<p>Microsoft president Brad Smith describes Microsoft's efforts to detect and defend both itself and its customers during the Solarwinds attack earlier this year.</blockuqote>
+<p>Microsoft president Brad Smith describes Microsoft's efforts to detect and defend both itself and its customers during the Solarwinds attack earlier this year.</p>

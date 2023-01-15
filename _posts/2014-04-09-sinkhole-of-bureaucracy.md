@@ -11,7 +11,7 @@ categories:
 - politics
 - bureaucracy
 - government
-- reitrement
+- retirement
 - technology
 - paper
 ---

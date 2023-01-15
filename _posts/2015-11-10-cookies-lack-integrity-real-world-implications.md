@@ -13,5 +13,4 @@ categories:
 - http
 - security
 ---
-
-<p>Great paper from USENIX on the security asymetry between writing and reading cookies (even those ones marked secure) and some practical security implications.</p>
+<p>Great paper from USENIX on the security asymmetry between writing and reading cookies (even those ones marked secure) and some practical security implications.</p>

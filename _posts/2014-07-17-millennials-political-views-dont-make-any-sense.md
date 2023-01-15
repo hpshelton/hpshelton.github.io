@@ -9,7 +9,7 @@ redirect_from:
   - /post/92002998657/millennials-political-views-dont-make-any-sense
 categories:
 - politics
-- milennials
+- millennials
 - youth
 - economics
 ---

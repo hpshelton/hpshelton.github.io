@@ -9,7 +9,7 @@ redirect_from:
 categories:
 - organization
 - church
-- heirarchy
+- hierarchy
 ---
 ![](/assets/images/tumblr_l89h40MTlQ1qb098no1_640.jpg)
 

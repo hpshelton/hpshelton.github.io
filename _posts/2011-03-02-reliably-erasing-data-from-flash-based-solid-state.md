@@ -24,6 +24,6 @@ SSDs. Degaussing is a fast, effective means of destroying hard drives, since it 
 ...<br>
 In all cases, the data remained intact.</blockquote>
 
-Yeah, it's apparently a tricky litte feat...
+Yeah, it's apparently a tricky little feat...
 
 (via <a href="http://brooksreview.net/2011/02/ssd-erase/">The Brooks Review</a>)

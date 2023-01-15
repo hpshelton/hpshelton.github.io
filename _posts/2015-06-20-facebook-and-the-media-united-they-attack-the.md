@@ -8,7 +8,7 @@ permalink: /post/121963186943/facebook-and-the-media-united-they-attack-the
 redirect_from: 
   - /post/121963186943/facebook-and-the-media-united-they-attack-the
 categories:
-- facbook
+- facebook
 - media
 - internet
 - web

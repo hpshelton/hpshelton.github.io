@@ -12,4 +12,4 @@ categories:
 - platforms
 - technology
 ---
-<blockquote>Self-service is one of the most powerful patterns for decoupling engineering teams from each other, and preventing an engineering organizatino from slowing down. This post describes self service and how to move to it.</blockquote>
+<blockquote>Self-service is one of the most powerful patterns for decoupling engineering teams from each other, and preventing an engineering organization from slowing down. This post describes self service and how to move to it.</blockquote>

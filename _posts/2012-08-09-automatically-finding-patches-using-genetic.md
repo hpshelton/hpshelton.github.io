@@ -20,7 +20,6 @@ categories:
 - bugs
 - defects
 ---
-<blockquote>We propose an automatic technique for repairing program defects. Our approach does not require difﬁcult formal speciﬁcations, program annotations or special coding practices. Instead, it works on
-off-the-shelf legacy applications and readily-available testcases. We use genetic programming to evolve program variants until one is found that both retains required functionality and also avoids the defect in question. Our technique takes as input a program, a set of successful positive testcases that encode required program behavior, and a failing negative testcase that demonstrates a defect.</blockquote>
+<blockquote>We propose an automatic technique for repairing program defects. Our approach does not require difficult formal specifications, program annotations or special coding practices. Instead, it works on off-the-shelf legacy applications and readily-available testcases. We use genetic programming to evolve program variants until one is found that both retains required functionality and also avoids the defect in question. Our technique takes as input a program, a set of successful positive testcases that encode required program behavior, and a failing negative testcase that demonstrates a defect.</blockquote>
 <p>A best paper award winner at ICSE in 2009, this is a very interesting read on the possibility that test suites can sufficiently declare the specification of the program, and defects discovered can be removed automatically.</p>
 <p>Via <a href="http://jeffhuang.com/best_paper_awards.html">http://jeffhuang.com/best_paper_awards.html</a></p>

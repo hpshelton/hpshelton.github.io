@@ -13,6 +13,5 @@ categories:
 - iphone
 - apple
 ---
-
 <p><blockquote>Thus began the Crypto Wars. The government warned that unrestrained crypto would empower "bad guys" (terrorists, drug lords, kiddie porn purveyors). Business interests and privacy advocates argued that the only ones hurt would be citizens seeking to protect their information.</blockquote>
-<p>Eventually the Clinton adminstration ended the first skirmish in the Crypto Wars. The FBI has re-ignited the conflict.</p></p>
+<p>Eventually the Clinton administration ended the first skirmish in the Crypto Wars. The FBI has re-ignited the conflict.</p></p>

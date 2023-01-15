@@ -12,8 +12,8 @@ categories:
 - apple
 - safari
 ---
-<p><a href="http://html5watch.tumblr.com/post/662199043/apples-html5-and-web-standards-website" class="tumblr_blog">html5watch</a>:</p>
+<p><a href="http://html5watch.tumblr.com/post/662199043/apples-html5-and-web-standards-website">html5watch</a>:</p>
 
-<blockquote><p>Apple just launched a website which demoes some great examples of rich webpages made using standards-based technologies. A fantastic resource.</p></blockquote>
+<blockquote><p>Apple just launched a website which demos some great examples of rich webpages made using standards-based technologies. A fantastic resource.</p></blockquote>
 
 <p></p>

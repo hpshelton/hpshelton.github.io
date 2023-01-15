@@ -15,4 +15,4 @@ categories:
 - transfer
 - bitcoin
 ---
-<blockquote>In my expecience, almost <em>nobody</em> actually understands how payment systems work. That is: if you "wire" funds to a supplier or"make a payment" to a friend, how does the money get from <em>your</em> account to <em>theirs?</em></blockquote>
+<blockquote>In my experience, almost <em>nobody</em> actually understands how payment systems work. That is: if you "wire" funds to a supplier or "make a payment" to a friend, how does the money get from <em>your</em> account to <em>theirs?</em></blockquote>

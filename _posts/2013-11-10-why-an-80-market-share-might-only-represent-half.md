@@ -9,7 +9,7 @@ redirect_from:
   - /post/66526818918/why-an-80-market-share-might-only-represent-half
 categories:
 - smartphones
-- andriod
+- android
 - ios
 - apple
 - google

@@ -9,6 +9,6 @@ redirect_from:
   - /post/110397104258/the-fccs-net-neutrality-regime-explained
 categories:
 - fcc
-- net neturality
+- net neutrality
 ---
 <p>Wow, seems perfectly reasonable. I'm sure I'm missing an existential threat to Internet companies' ability to earn a profit, though.</p>

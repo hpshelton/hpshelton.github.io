@@ -12,7 +12,7 @@ categories:
 - video
 - ted
 - alone
-- lonliness
+- loneliness
 - technology
 - society
 - social networking

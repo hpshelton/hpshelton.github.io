@@ -19,4 +19,4 @@ categories:
 
 <p>That's why what we're selling is organizational transformation.</p></blockquote>
 
-<p>I have some nit-picks about the practical realization of organizational transformation that Slack claims to provide, but this is one of the few corporate memos that I've read that clearly and succintly explains what a startup business is about and why.</p>
+<p>I have some nit-picks about the practical realization of organizational transformation that Slack claims to provide, but this is one of the few corporate memos that I've read that clearly and succinctly explains what a startup business is about and why.</p>

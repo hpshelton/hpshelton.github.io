@@ -17,4 +17,4 @@ categories:
 - movie
 - computer graphics
 ---
-<p>The renderer used to model black holes in <i>Intersteller</i> was written from scratch using actual astronomical mathematics including relativity and gravitational lensing. Phenomenal.</p>
+<p>The renderer used to model black holes in <i>Interstellar</i> was written from scratch using actual astronomical mathematics including relativity and gravitational lensing. Phenomenal.</p>

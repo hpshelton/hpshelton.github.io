@@ -11,5 +11,4 @@ categories:
 - challenger
 - bob ebeling
 ---
-
 <p>The most touching story I've read in a while. RIP, Mr. Bob Ebeling.</p>

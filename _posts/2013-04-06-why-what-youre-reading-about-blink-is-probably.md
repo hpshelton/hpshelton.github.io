@@ -13,6 +13,6 @@ categories:
 - chrome
 - internet
 - web
-- web browers
+- web browsers
 ---
 Great post from a Chrome engineer on the underlying goal for the Blink transition - go faster.

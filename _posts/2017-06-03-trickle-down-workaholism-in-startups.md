@@ -15,4 +15,4 @@ categories:
 
 <p><blockquote>[...] Don't tell me that there's something uniquely demanding about building yet another fucking startup that dwarfs the accomplishments of <i>The Origin of Species</i> or winning five championship rings. It's bullshit. Extractive, counterproductive bullshit peddled by people who either need a narrative to explain their personal sacrifices and regrets or who are in a position to treat the lives and wellbeing of others like cannon fodder.</blockquote>
 
-See also <a href="https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131">"Expontential growth devours and corrupts"</a> and <a href="https://m.signalvnoise.com/reconsider-41adf356857f">"RECONSIDER"</a>.</p>
+See also <a href="https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131">"Exponential growth devours and corrupts"</a> and <a href="https://m.signalvnoise.com/reconsider-41adf356857f">"RECONSIDER"</a>.</p>

@@ -9,7 +9,7 @@ redirect_from:
   - /post/142873998442/canadian-police-obtained-blackberrys-global
 categories:
 - surveillance
-- canda
+- canada
 - royal canadian mounted police
 - rcmp
 - security

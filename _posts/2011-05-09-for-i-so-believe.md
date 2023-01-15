@@ -14,4 +14,4 @@ categories:
 - philosophy
 - imagination
 ---
-<blockquote>Michael Polanyi pro­posed that the pri­mary task of the sci­en­tist is to <i>believe wisely</i>. Him­self a chemist, he had a great love for evi­dence and for due sci­en­tific process, but as a philoso­pher he rec­og­nized that evidence and process were the cre­ations of the human imag­i­na­tion and, in turn, so were also human beliefs.</blockquote>
+<blockquote>Michael Polanyi pro­posed that the pri­mary task of the scientist is to <i>believe wisely</i>. Him­self a chemist, he had a great love for evidence and for due scientific process, but as a philosopher he recognized that evidence and process were the creations of the human imagination and, in turn, so were also human beliefs.</blockquote>

@@ -14,4 +14,4 @@ categories:
 - foreign policy
 ---
 
-<p>Paul and Kasich were the only ones who apparently understand how the  world actaully works.</p>
+<p>Paul and Kasich were the only ones who apparently understand how the world actually works.</p>

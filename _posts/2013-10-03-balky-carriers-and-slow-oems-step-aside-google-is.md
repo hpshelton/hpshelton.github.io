@@ -13,4 +13,4 @@ categories:
 - technology
 - mobile
 ---
-<p>A nice look at how Google is sidestepping the most obvious problems with Android to continue to deliver high-quality software and seemless application updates for their own applications.</p>
+<p>A nice look at how Google is sidestepping the most obvious problems with Android to continue to deliver high-quality software and seamless application updates for their own applications.</p>

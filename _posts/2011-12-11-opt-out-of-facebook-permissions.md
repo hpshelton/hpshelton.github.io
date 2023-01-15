@@ -13,4 +13,4 @@ categories:
 - plugin
 - privacy
 ---
-<p>Nice little Chrome plugin that modifes the permissions facebook apps are asking for so you can opt-out.</p>
+<p>Nice little Chrome plugin that modifies the permissions Facebook apps are asking for so you can opt-out.</p>

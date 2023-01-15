@@ -16,4 +16,4 @@ categories:
 - race
 - society
 ---
-<p>A New Yorker's perspective on gentrification and the historical differencee between it and the current "hyper-gentrification" that is affecting San Francisco and New York.</p>
+<p>A New Yorker's perspective on gentrification and the historical difference between it and the current "hyper-gentrification" that is affecting San Francisco and New York.</p>

@@ -15,4 +15,4 @@ categories:
 ---
 
 <blockquote>Nine of the world's biggest financial institutions have partnered to develop distributed ledger technologies - the same technologies that underpin Bitcoin's block chain.</blockquote>
-<p>The block chain has always been the most interesting part of Bitcoin and related cryptocurrencies - a mechanism for publically trustable, auditable transactions. A refresher of the principles and benefits is <a href="http://hpshelton.com/post/88718140310/minimum-viable-block-chain">here</a>.
+<p>The block chain has always been the most interesting part of Bitcoin and related cryptocurrencies - a mechanism for publicly trustable, auditable transactions. A refresher of the principles and benefits is <a href="http://hpshelton.com/post/88718140310/minimum-viable-block-chain">here</a>.
