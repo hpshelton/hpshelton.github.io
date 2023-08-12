@@ -7,6 +7,7 @@ link: https://www.foodandwine.com/capn-crunch-stripes-uniform-correct-7564570
 permalink: /post/2023/08/12/capn-crunch-stripes
 categories: 
 - Cap'n Crunch
+- Captain Crunch
 - branding
 - marketing
 - captain
