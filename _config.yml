@@ -1,3 +1,10 @@
+title: HPShelton
+description: Programming, Privacy, Politics, Photography
+author: H. Parker Shelton
+url: https://hpshelton.com
+feed:
+  path: /feeds/atom.xml
+
 defaults:
   - scope:
       path: "assets/images"
@@ -16,7 +23,6 @@ commonmark:
    options: ["UNSAFE"]
 
 plugins:
-  - jekyll-feed
   - jekyll-paginate
 
 exclude:
@@ -31,11 +37,3 @@ paginate: 10
 paginate_path: "/page/:num/"
 
 timezone: America/Los_Angeles
-
-# Feed variables
-
-title: HPShelton
-description: Programming, Privacy, Politics, Photography
-url: https://hpshelton.com
-feed:
-  path: /feeds/atom.xml

@@ -5,13 +5,13 @@
   <title>HPShelton{% if page.title != "" %} | {{ page.title }}{% endif %}</title>
     
   <!-- The description shown under the link on search pages, like Google. -->
-  <meta name="description" content="Programming, Privacy, Politics, Photography">
+  <meta name="description" content="{{ site.description }}">
   
   <!-- Identifies the Author -->
-  <meta name="author" content="H. Parker Shelton" />
+  <meta name="author" content="{{ site.author }}" />
   
   <!-- Who owns the content -->
-  <meta name="copyright" content="H. Parker Shelton" />
+  <meta name="copyright" content="Copyright &copy; 2023, {{ site.author }}" />
     
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="distribution" content="global" /> 
@@ -22,7 +22,7 @@
   <link rel="shortcut icon" href="/assets/images/favicon.jpg" />
   
   <!-- RSS -->
-  {% feed_meta %}
+  <link type="application/atom+xml" rel="alternate" href="https://hpshelton.com/feeds/atom.xml" title="HPShelton">
 
   <!-- CSS -->
   <style>
@@ -114,7 +114,7 @@
           
           <div id="big-footer-section-two" class="grid_8">
             <div id="big-footer-bio">
-              <h1>H. Parker Shelton</h1>
+              <h1>{{ site.author }}</h1>
               <p>I'm just an ordinary thirty-something who's had some extraordinary opportunities. I graduated from Johns Hopkins University, work for Microsoft in Silicon Valley, code websites and applications, take the occasional photograph, and keep a constant eye on current events, politics, and technology. This blog is the best of what catches that eye.</p>
             </div>
           </div>
