@@ -14,4 +14,4 @@ categories:
 - Aptos
 ---
 <blockquote>The U.S. State Department is going sans serif: It has directed staff at home and overseas to phase out the Times New Roman font and adopt Calibri in official communications and memos, in a bid to help employees who are visually impaired or have other difficulties reading.</blockquote>
-In an akward bit of news, Microsoft [announced](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d) a successor to Calibri just 7 months later.
+In an akward bit of news, Microsoft <a href="https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d">announced</a> a successor to Calibri just 7 months later.
