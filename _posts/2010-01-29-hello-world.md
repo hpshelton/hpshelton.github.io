@@ -11,5 +11,4 @@ categories:
 - quotes
 ---
 <blockquote>Hello World.</blockquote>
-
- — <p>Bill Gates, <a title="Bill Gates' Twitter" target="_blank" href="http://twitter.com/BillGates/status/7957453193">http://twitter.com/BillGates/status/7957453193</a></p> 
+<p>— Bill Gates, <a title="Bill Gates' Twitter" target="_blank" href="http://twitter.com/BillGates/status/7957453193">http://twitter.com/BillGates/status/7957453193</a></p> 
