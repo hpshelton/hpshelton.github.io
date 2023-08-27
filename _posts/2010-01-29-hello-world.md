@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2010-01-29 05:17:00 GMT
-title: "Quote post"
+title: "Hello World"
 permalink: /post/359137099/hello-world
 redirect_from: 
   - /post/359137099/hello-world
