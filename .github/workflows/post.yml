@@ -1,0 +1,45 @@
+name: publish-post
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  publish_post:
+    name: publish-post
+    if: ${{ !github.event.issue.pull_request && github.event.comment.body == 'post' && github.event.comment.user.login == 'hpshelton' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add GitHub file
+        shell: pwsh
+        run: |
+          $env:CONTENT -match "date: ((\d{4})-\d{2}-\d{2})" | Out-Null
+          $date = $Matches[1]
+          $year = $Matches[2]
+
+          $env:CONTENT -match "permalink: [^\s]*/([^\s]*)" | Out-Null
+          $fileName = "$date-$($Matches[1]).md"
+
+          $filePath = "_posts/$year/$fileName.md"
+          $fileContent = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($env:CONTENT))
+
+          $Headers = @{
+            "Authorization" = "Bearer $env:COMMIT_TOKEN"
+          }
+
+          $Body = @{
+            message = "Create $fileName"
+            branch  = "main"
+            content = "$fileContent"
+          } | ConvertTo-Json
+          $result = Invoke-WebRequest -Method PUT -Uri "https://api.github.com/repos/${{ github.repository }}/contents/$filePath" -Headers $Headers -Body $Body
+          $commitUrl = ($result | ConvertFrom-Json).commit.html_url
+          
+          $Body = @{
+            body = $commitUrl
+          } | ConvertTo-Json
+          Invoke-WebRequest -Method POST -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$($env:ISSUE_NUMBER)/comments" -Headers $Headers -Body $Body
+        env:
+          COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
+          CONTENT: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
