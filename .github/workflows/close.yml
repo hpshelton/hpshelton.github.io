@@ -1,0 +1,97 @@
+name: close-issues
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types:
+      - completed
+
+jobs:
+  check-comments:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    outputs:
+      issue_numbers: ${{ steps.filter-issues.outputs.issue_numbers }}
+      
+    steps:
+    - name: Get issues with comment "post"
+      id: get-issues
+      run: |
+        ISSUES=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues?state=open" | jq '.[] | select(.comments > 0) | .number')
+        echo "Issues with comments: $ISSUES"
+        echo "::set-output name=issue_numbers::$ISSUES"
+    
+    - name: Filter issues by comment body
+      id: filter-issues
+      run: |
+        COMMIT_URLS=""
+        for ISSUE in ${{ steps.get-issues.outputs.issue_numbers }}
+        do
+          COMMENT_BODIES=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE/comments" | jq '.[] | select(.body | contains("post")) | .body')
+          for BODY in $COMMENT_BODIES
+          do
+            if [[ $BODY == *"https://github.com/hpshelton/hpshelton.github.io/"* ]]; then
+              COMMIT_URL=$(echo $BODY | grep -o "https://github.com/hpshelton/hpshelton.github.io/commit/[a-f0-9]\{40\}")
+              COMMIT_URLS="$COMMIT_URLS $COMMIT_URL"
+            fi
+          done
+        done
+        echo "::set-output name=commit_urls::$COMMIT_URLS"
+
+  extract-sha:
+    needs: check-comments
+    runs-on: ubuntu-latest
+    outputs:
+      commit_shas: ${{ steps.extract.outputs.commit_shas }}
+
+    steps:
+    - name: Extract commit SHA from URL
+      id: extract
+      run: |
+        SHAS=""
+        for URL in ${{ needs.check-comments.outputs.commit_urls }}
+        do
+          SHA=$(echo $URL | grep -o "[a-f0-9]\{40\}$")
+          SHAS="$SHAS $SHA"
+        done
+        echo "::set-output name=commit_shas::$SHAS"
+
+  get-changed-paths:
+    needs: extract-sha
+    runs-on: ubuntu-latest
+    outputs:
+      file_paths: ${{ steps.changed.outputs.file_paths }}
+
+    steps:
+    - name: Get changed file paths for each commit SHA
+      id: changed
+      run: |
+        PATHS=""
+        for SHA in ${{ needs.extract-sha.outputs.commit_shas }}
+        do
+          FILES=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" "https://api.github.com/repos/hpshelton/hpshelton.github.io/commits/$SHA" | jq '.files[].filename')
+          PATHS="$PATHS $FILES"
+        done
+        echo "::set-output name=file_paths::$PATHS"
+
+  check-logs:
+    needs: get-changed-paths
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Fetch and Check logs for each file path
+      run: |
+        JOBS_URL="https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs"
+        JOB_ID=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" $JOBS_URL | jq '.jobs[] | select(.name == "build").id')
+        LOGS_URL="https://api.github.com/repos/${{ github.repository }}/actions/jobs/$JOB_ID/logs"
+
+        for FILE_PATH in ${{ needs.get-changed-paths.outputs.file_paths }}
+        do
+          curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" $LOGS_URL | grep "Skipping: $FILE_PATH has a future date"
+          
+          if [ $? -eq 0 ]; then
+            echo "Found the specified log content for $FILE_PATH!"
+          else
+            echo "Specified log content not found for $FILE_PATH."
+          fi
+        done
