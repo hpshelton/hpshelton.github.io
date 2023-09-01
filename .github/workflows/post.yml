@@ -20,7 +20,7 @@ jobs:
           $env:CONTENT -match "permalink: [^\s]*/([^\s]*)" | Out-Null
           $fileName = "$date-$($Matches[1]).md"
 
-          $filePath = "_posts/$year/$fileName.md"
+          $filePath = "_posts/$year/$fileName"
           $fileContent = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($env:CONTENT))
 
           $Headers = @{
