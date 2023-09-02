@@ -1,7 +1,7 @@
 ---
 layout: post
 type: link
-date: 2023-09-02 06:00:00 -0700
+date: 2023-09-02 18:00:00 -0700
 title: '"A Pleasure to Burn": We Are Closer to Bradbury''s Dystopia Than Orwell''s or Huxley''s'
 link: https://quillette.com/2022/02/12/a-pleasure-to-burn-closer-to-bradburys-dystopia-than-orwells-or-huxleys/
 permalink: /post/2023/09/02/a-pleasure-to-burn

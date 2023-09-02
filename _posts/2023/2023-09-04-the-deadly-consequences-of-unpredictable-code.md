@@ -1,7 +1,7 @@
 ---
 layout: post
 type: link
-date: 2023-09-04 06:00:00 -0700
+date: 2023-09-04 18:00:00 -0700
 title: "Franken-algorithms: the deadly consequences of unpredictable code"
 link: https://www.theguardian.com/technology/2018/aug/29/coding-algorithms-frankenalgos-program-danger
 permalink: /post/2023/09/04/the-deadly-consequences-of-unpredictable-code
