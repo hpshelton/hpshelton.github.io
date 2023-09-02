@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get issues with comments
+    - name: Get open issues with comments
       id: get-issues
       shell: pwsh
       env:
@@ -37,22 +37,25 @@ jobs:
 
         foreach ($issue in ('${{ steps.get-issues.outputs.issue_numbers }}' | ConvertFrom-Json )) {
           $comments = Invoke-WebRequest -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issue/comments" -Headers $headers | ConvertFrom-Json
-          $urls = $comments | Where-Object { $_.body -match $commitUrlRegex } | ForEach-Object { $_.body -match $commitUrlRegex | Out-Null; $Matches[0] }
-          $commitUrls += $urls
+          $comments | Where-Object { $_.body -match $commitUrlRegex } | ForEach-Object { 
+            $_.body -match $commitUrlRegex | Out-Null
+            $pair = @{ "IssueNumber" = "$issue"; "CommitUrl" = $Matches[0] }
+          }
+          $commitUrls += $pair
         }
         $commitUrls = $commitUrls | ConvertTo-Json -Compress
         "commit_urls=$commitUrls" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
 
-    - name: Extract commit SHA from comments
+    - name: Extract commit SHA from comment
       id: extract-shas
       shell: pwsh
       run: |
         $shas = @()
         $commitUrlRegex = "https://github.com/hpshelton/hpshelton.github.io/commit/([a-f0-9]{40})"
-        foreach ($url in ('${{ steps.filter-comments.outputs.commit_urls }}' | ConvertFrom-Json )) {
-          $url -match $commitUrlRegex | Out-Null
+        foreach ($pair in ('${{ steps.filter-comments.outputs.commit_urls }}' | ConvertFrom-Json )) {
+          $pair.CommitUrl -match $commitUrlRegex | Out-Null
           $sha = $Matches[1]
-          $shas += $sha
+          $shas += @{ "IssueNumber" = "$($pair.IssueNumber)"; "CommitSha" = $sha }
         }
         $shas = $shas | ConvertTo-Json -Compress
         "commit_shas=$shas" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
@@ -66,7 +69,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get changed files for each commit SHA
+    - name: Get changed Markdown files for each commit
       id: changed-files
       shell: pwsh
       env:
@@ -75,10 +78,13 @@ jobs:
         $paths = @()
         $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
 
-        foreach ($sha in ('${{ needs.get-shas.outputs.commit_shas }}' | ConvertFrom-Json )) {
+        foreach ($pair in ('${{ needs.get-shas.outputs.commit_shas }}' | ConvertFrom-Json )) {
+          $sha = $pair.CommitSha
           $commit = Invoke-WebRequest -Uri "https://api.github.com/repos/hpshelton/hpshelton.github.io/commits/$sha" -Headers $headers | ConvertFrom-Json
-          $files = $commit.files.filename
-          $paths += $files
+          $files = $commit.files.filename | Where-Object { $_ -ilike "*.md"}
+          $files | ForEach-Object {
+            $paths += @{ "IssueNumber" = "$($pair.IssueNumber)"; "FilePath" = $_ }
+          }
         }
         $paths = $paths | ConvertTo-Json -Compress
         "file_paths=$paths" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
@@ -97,17 +103,26 @@ jobs:
       env:
         COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
+        $posted
         $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
 
         $jobUrl = "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs"
         $jobId = (Invoke-WebRequest -Uri $jobUrl -Headers $headers | ConvertFrom-Json).jobs | Where-Object { $_.name -eq "build" } | ForEach-Object { $_.id }
         $logsUrl = "https://api.github.com/repos/${{ github.repository }}/actions/jobs/$jobId/logs"
-        
-        foreach ($path in ('${{ needs.get-files.outputs.file_paths }}' | ConvertFrom-Json )) {
-          $logs = Invoke-WebRequest -Uri $logsUrl -Headers $headers | Out-String
+        $logs = (Invoke-WebRequest -Uri $logsUrl -Headers $headers -TimeoutSec 300).Content
+                
+        $Body = @{
+          body = "Posted by $jobUrl"
+        } | ConvertTo-Json
+
+        foreach ($pair in ('${{ needs.get-files.outputs.file_paths }}' | ConvertFrom-Json )) {
+          $path = $pair.FilePath
           if ($logs -like "*Skipping: $path has a future date*") {
-            Write-Output "Found the specified log content for $path!"
+            Write-Output "$path is still scheduled to be posted"
+          } elseif ($logs -like "*Reading: $path*") {
+            Write-Output "$path has been posted"
+            # Invoke-WebRequest -Method POST -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$($pair.IssueNumber)/comments" -Headers $Headers -Body $Body
           } else {
-            Write-Output "Specified log content not found for $path."
-          }
+            Write-Output "Log content not found for $path."
+          }          
         }
