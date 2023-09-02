@@ -7,91 +7,107 @@ on:
       - completed
 
 jobs:
-  check-comments:
-    runs-on: ubuntu-latest
+  get-shas:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    outputs:
-      issue_numbers: ${{ steps.filter-issues.outputs.issue_numbers }}
-      
+    runs-on: ubuntu-latest
+
     steps:
-    - name: Get issues with comment "post"
+    - name: Get issues with comments
       id: get-issues
+      shell: pwsh
+      env:
+        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
-        ISSUES=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues?state=open" | jq '.[] | select(.comments > 0) | .number')
-        echo "Issues with comments: $ISSUES"
-        echo "::set-output name=issue_numbers::$ISSUES"
+        $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
+
+        $issues = Invoke-WebRequest -Uri "https://api.github.com/repos/${{ github.repository }}/issues?state=open" -Headers $headers | ConvertFrom-Json
+        $issueNumbers = ($issues | Where-Object { $_.comments -gt 0 } | ForEach-Object { $_.number }) | ConvertTo-Json -Compress
+        echo "Issue numbers: $issueNumbers"
+        "issue_numbers=$issueNumbers" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
     
-    - name: Filter issues by comment body
-      id: filter-issues
+    - name: Filter issue comments containing a commit SHA
+      id: filter-comments
+      shell: pwsh
+      env:
+        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
-        COMMIT_URLS=""
-        for ISSUE in ${{ steps.get-issues.outputs.issue_numbers }}
-        do
-          COMMENT_BODIES=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE/comments" | jq '.[] | select(.body | contains("post")) | .body')
-          for BODY in $COMMENT_BODIES
-          do
-            if [[ $BODY == *"https://github.com/hpshelton/hpshelton.github.io/"* ]]; then
-              COMMIT_URL=$(echo $BODY | grep -o "https://github.com/hpshelton/hpshelton.github.io/commit/[a-f0-9]\{40\}")
-              COMMIT_URLS="$COMMIT_URLS $COMMIT_URL"
-            fi
-          done
-        done
-        echo "::set-output name=commit_urls::$COMMIT_URLS"
+        $commitUrls = @()
+        $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
+        $commitUrlRegex = "https://github.com/hpshelton/hpshelton.github.io/commit/([a-f0-9]{40})"
 
-  extract-sha:
-    needs: check-comments
-    runs-on: ubuntu-latest
+        foreach ($issue in ('${{ steps.get-issues.outputs.issue_numbers }}' | ConvertFrom-Json )) {
+          $comments = Invoke-WebRequest -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issue/comments" -Headers $headers | ConvertFrom-Json
+          $urls = $comments | Where-Object { $_.body -match $commitUrlRegex } | ForEach-Object { $_.body -match $commitUrlRegex | Out-Null; $Matches[0] }
+          $commitUrls += $urls
+        }
+        $commitUrls = $commitUrls | ConvertTo-Json -Compress
+        "commit_urls=$commitUrls" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+
+    - name: Extract commit SHA from comments
+      id: extract-shas
+      shell: pwsh
+      run: |
+        $shas = @()
+        $commitUrlRegex = "https://github.com/hpshelton/hpshelton.github.io/commit/([a-f0-9]{40})"
+        foreach ($url in ('${{ steps.filter-comments.outputs.commit_urls }}' | ConvertFrom-Json )) {
+          $url -match $commitUrlRegex | Out-Null
+          $sha = $Matches[1]
+          $shas += $sha
+        }
+        $shas = $shas | ConvertTo-Json -Compress
+        "commit_shas=$shas" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+
     outputs:
-      commit_shas: ${{ steps.extract.outputs.commit_shas }}
+      commit_shas: ${{ steps.extract-shas.outputs.commit_shas }}
+
+  get-files:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    needs: get-shas
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Extract commit SHA from URL
-      id: extract
+    - name: Get changed files for each commit SHA
+      id: changed-files
+      shell: pwsh
+      env:
+        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
-        SHAS=""
-        for URL in ${{ needs.check-comments.outputs.commit_urls }}
-        do
-          SHA=$(echo $URL | grep -o "[a-f0-9]\{40\}$")
-          SHAS="$SHAS $SHA"
-        done
-        echo "::set-output name=commit_shas::$SHAS"
+        $paths = @()
+        $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
 
-  get-changed-paths:
-    needs: extract-sha
-    runs-on: ubuntu-latest
+        foreach ($sha in ('${{ needs.get-shas.outputs.commit_shas }}' | ConvertFrom-Json )) {
+          $commit = Invoke-WebRequest -Uri "https://api.github.com/repos/hpshelton/hpshelton.github.io/commits/$sha" -Headers $headers | ConvertFrom-Json
+          $files = $commit.files.filename
+          $paths += $files
+        }
+        $paths = $paths | ConvertTo-Json -Compress
+        "file_paths=$paths" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+
     outputs:
-      file_paths: ${{ steps.changed.outputs.file_paths }}
-
-    steps:
-    - name: Get changed file paths for each commit SHA
-      id: changed
-      run: |
-        PATHS=""
-        for SHA in ${{ needs.extract-sha.outputs.commit_shas }}
-        do
-          FILES=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" "https://api.github.com/repos/hpshelton/hpshelton.github.io/commits/$SHA" | jq '.files[].filename')
-          PATHS="$PATHS $FILES"
-        done
-        echo "::set-output name=file_paths::$PATHS"
+      file_paths: ${{ steps.changed-files.outputs.file_paths }}
 
   check-logs:
-    needs: get-changed-paths
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    needs: get-files
     runs-on: ubuntu-latest
 
     steps:
-    - name: Fetch and Check logs for each file path
+    - name: Scan build log for each post
+      shell: pwsh
+      env:
+        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
-        JOBS_URL="https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs"
-        JOB_ID=$(curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" $JOBS_URL | jq '.jobs[] | select(.name == "build").id')
-        LOGS_URL="https://api.github.com/repos/${{ github.repository }}/actions/jobs/$JOB_ID/logs"
+        $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
 
-        for FILE_PATH in ${{ needs.get-changed-paths.outputs.file_paths }}
-        do
-          curl -s -H "Authorization: token ${{ secrets.COMMIT_TOKEN }}" $LOGS_URL | grep "Skipping: $FILE_PATH has a future date"
-          
-          if [ $? -eq 0 ]; then
-            echo "Found the specified log content for $FILE_PATH!"
-          else
-            echo "Specified log content not found for $FILE_PATH."
-          fi
-        done
+        $jobUrl = "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs"
+        $jobId = (Invoke-WebRequest -Uri $jobUrl -Headers $headers | ConvertFrom-Json).jobs | Where-Object { $_.name -eq "build" } | ForEach-Object { $_.id }
+        $logsUrl = "https://api.github.com/repos/${{ github.repository }}/actions/jobs/$jobId/logs"
+        
+        foreach ($path in ('${{ needs.get-files.outputs.file_paths }}' | ConvertFrom-Json )) {
+          $logs = Invoke-WebRequest -Uri $logsUrl -Headers $headers | Out-String
+          if ($logs -like "*Skipping: $path has a future date*") {
+            Write-Output "Found the specified log content for $path!"
+          } else {
+            Write-Output "Specified log content not found for $path."
+          }
+        }
