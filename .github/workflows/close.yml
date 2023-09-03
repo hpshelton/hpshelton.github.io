@@ -99,21 +99,18 @@ jobs:
 
     steps:
     - name: Scan build log for each post
+      id: log-scan
       shell: pwsh
       env:
         COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
-        $posted
+        $posted = $()
         $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
 
         $jobUrl = "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs"
         $jobId = (Invoke-WebRequest -Uri $jobUrl -Headers $headers | ConvertFrom-Json).jobs | Where-Object { $_.name -eq "build" } | ForEach-Object { $_.id }
         $logsUrl = "https://api.github.com/repos/${{ github.repository }}/actions/jobs/$jobId/logs"
         $logs = (Invoke-WebRequest -Uri $logsUrl -Headers $headers -TimeoutSec 300).Content
-                
-        $Body = @{
-          body = "Posted by $jobUrl"
-        } | ConvertTo-Json
 
         foreach ($pair in ('${{ needs.get-files.outputs.file_paths }}' | ConvertFrom-Json )) {
           $path = $pair.FilePath
@@ -121,8 +118,36 @@ jobs:
             Write-Output "$path is still scheduled to be posted"
           } elseif ($logs -like "*Reading: $path*") {
             Write-Output "$path has been posted"
-            # Invoke-WebRequest -Method POST -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$($pair.IssueNumber)/comments" -Headers $Headers -Body $Body
+            $posted += $pair.IssueNumber
           } else {
             Write-Output "Log content not found for $path."
-          }          
+          }
+        }
+        $posted = $posted | ConvertTo-Json -Compress
+        "posts=$posted" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+
+    outputs:
+      posts: ${{ steps.log-scan.outputs.posts }}
+
+  close-issues:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    needs: check-logs
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Close issues
+      id: close-issues
+      shell: pwsh
+      env:
+        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
+      run: |
+        $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
+        $jobUrl = "https://github.com/hpshelton/hpshelton.github.io/actions/runs/${{ github.event.workflow_run.id }}"
+        $commentBody = @{
+          body = "Posted by $jobUrl"
+        } | ConvertTo-Json
+
+        foreach ($issueNumber in ('${{ needs.check-logs.outputs.posts }}' | ConvertFrom-Json )) {
+          Invoke-WebRequest -Method POST -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issueNumber/comments" -Headers $Headers -Body $commentBody
+          Invoke-WebRequest -Method PATCH -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issueNumber" -Headers $Headers -Body '{"state":"closed"}'
         }
