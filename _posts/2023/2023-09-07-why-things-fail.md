@@ -4,7 +4,7 @@ type: link
 date: 2023-09-07 16:00:00 -0700
 title: "Why Things Fail: From Tires to Helicopter Blades, Everything Breaks Eventually"
 link: https://www.wired.com/2012/10/ff-why-products-fail/
-permalink: /post/2023/09/07/why-things-fail/
+permalink: /post/2023/09/07/why-things-fail
 categories: 
 - failure
 - testing

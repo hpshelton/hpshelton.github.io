@@ -17,7 +17,7 @@ jobs:
           $date = $Matches[1]
           $year = $Matches[2]
 
-          $env:CONTENT -match "permalink: [^\s]*/([^\s]*)" | Out-Null
+          $env:CONTENT -match "permalink: [^\s]*/([^\s/]+)/?" | Out-Null
           $fileName = "$date-$($Matches[1]).md"
 
           $filePath = "_posts/$year/$fileName"
