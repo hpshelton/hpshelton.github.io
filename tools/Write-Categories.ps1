@@ -15,9 +15,9 @@ permalink: "/tagged/{0}"
 ---
 "@
 
-Get-ChildItem $postsPath | % { 
+Get-ChildItem $postsPath -Recurse -Include "*.md" | % { 
     Write-Host "Processing post $_"
-    $content = [string](Get-Content -Raw (Join-Path $postsPath $_))
+    $content = [string](Get-Content -Raw $_)
     $frontMatter = $content.Substring(0, $content.LastIndexOf("---"))
     $yaml = ConvertFrom-YAML $frontMatter
     if ($yaml.categories.Count -gt 0) {
@@ -28,7 +28,7 @@ Get-ChildItem $postsPath | % {
             {
                Write-Error "Do you need to enclose a category in quotes?" 
             }
-            $output | Out-File (Join-Path $postsPath ../_category/$category.md) -Encoding ascii
+            $output | Out-File (Join-Path $scriptPath ../_category/$category.md) -Encoding ascii
         }
     }
 }
