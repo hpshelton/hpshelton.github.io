@@ -118,7 +118,7 @@ jobs:
             Write-Output "$path is still scheduled to be posted"
           } elseif ($logs -like "*Reading: $path*") {
             Write-Output "$path has been posted"
-            $posted += $pair.IssueNumber
+            $posted += $pair
           } else {
             Write-Output "Log content not found for $path."
           }
@@ -143,11 +143,19 @@ jobs:
       run: |
         $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
         $jobUrl = "https://github.com/hpshelton/hpshelton.github.io/actions/runs/${{ github.event.workflow_run.id }}"
-        $commentBody = @{
-          body = "Posted by $jobUrl"
-        } | ConvertTo-Json
 
-        foreach ($issueNumber in ('${{ needs.check-logs.outputs.posts }}' | ConvertFrom-Json )) {
+        foreach ($pair in ('${{ needs.check-logs.outputs.posts }}' | ConvertFrom-Json )) {
+          $issueNumber = $pair.IssueNumber
+          $path = $pair.FilePath
+          
+          # TODO: This should be based on the permalink, not the Markdown file path
+          $s = $path.split('.')[-2].split("/")[-1].split("-")
+          $postUrl = "http://hpshelton.com/post/" + ($s[0..2] -join "/") + "/" + ($s[3..20] -join "-")
+
+          $commentBody = @{
+            body = "Posted by $jobUrl<br/>$postUrl"
+          } | ConvertTo-Json
+
           Invoke-WebRequest -Method POST -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issueNumber/comments" -Headers $Headers -Body $commentBody
           Invoke-WebRequest -Method PATCH -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issueNumber" -Headers $Headers -Body '{"state":"closed"}'
         }
