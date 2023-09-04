@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2020-03-15 19:32:59 GMT
-title: "Quote post"
+title: "A bodily resurrection"
 permalink: /post/612683774180933632/the-reminder-that-the-christian-faith-carries
 redirect_from: 
   - /post/612683774180933632/the-reminder-that-the-christian-faith-carries

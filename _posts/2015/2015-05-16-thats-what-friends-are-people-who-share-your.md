@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2015-05-16 01:30:05 GMT
-title: "Quote post"
+title: "Friends"
 permalink: /post/119069821014/thats-what-friends-are-people-who-share-your
 redirect_from: 
   - /post/119069821014/thats-what-friends-are-people-who-share-your

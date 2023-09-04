@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2018-04-30 01:30:16 GMT
-title: "Quote post"
+title: "Praise to the Lord"
 permalink: /post/173434249646/praise-to-the-lord-who-when-tempests-their
 redirect_from: 
   - /post/173434249646/praise-to-the-lord-who-when-tempests-their

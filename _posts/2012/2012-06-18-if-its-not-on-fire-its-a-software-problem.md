@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2012-06-18 01:58:39 GMT
-title: "Quote post"
+title: "Software problem"
 permalink: /post/25334454017/if-its-not-on-fire-its-a-software-problem
 redirect_from: 
   - /post/25334454017/if-its-not-on-fire-its-a-software-problem
@@ -15,5 +15,4 @@ categories:
 - anonymous
 ---
 <blockquote>If it's not on fire, it's a software problem.</blockquote>
-
- — Anonymous
+<p>— Anonymous</p>

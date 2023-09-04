@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2013-10-09 01:30:27 GMT
-title: "Quote post"
+title: "Informing and dividing"
 permalink: /post/63517600835/the-triumph-of-opinion-driven-cable-tv-and-the
 redirect_from: 
   - /post/63517600835/the-triumph-of-opinion-driven-cable-tv-and-the

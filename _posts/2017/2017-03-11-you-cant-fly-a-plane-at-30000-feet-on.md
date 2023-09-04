@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2017-03-11 02:30:26 GMT
-title: "Quote post"
+title: "Post-modern philosophies"
 permalink: /post/158252199486/you-cant-fly-a-plane-at-30000-feet-on
 redirect_from: 
   - /post/158252199486/you-cant-fly-a-plane-at-30000-feet-on
@@ -13,5 +13,4 @@ categories:
 - theology
 ---
 <blockquote>You can't fly a plane at 30,000 feet on post-modern philosophies.</blockquote>
-
- — Os Guinness, "The Journey: a Thinking Person's Quest for Meaning"
+<p>— Os Guinness, "The Journey: a Thinking Person's Quest for Meaning"</p>

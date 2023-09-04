@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2020-03-20 01:30:10 GMT
-title: "Quote post"
+title: "A kind gamble"
 permalink: /post/613068633693896704/marriage-ends-up-as-a-hopeful-generous
 redirect_from: 
   - /post/613068633693896704/marriage-ends-up-as-a-hopeful-generous

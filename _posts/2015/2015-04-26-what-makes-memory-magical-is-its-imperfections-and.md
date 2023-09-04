@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2015-04-26 01:30:14 GMT
-title: "Quote post"
+title: "Memory"
 permalink: /post/117383870777/what-makes-memory-magical-is-its-imperfections-and
 redirect_from: 
   - /post/117383870777/what-makes-memory-magical-is-its-imperfections-and

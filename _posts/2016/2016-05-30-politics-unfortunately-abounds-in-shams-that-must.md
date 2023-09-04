@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2016-05-30 01:30:24 GMT
-title: "Quote post"
+title: "Reverent shams"
 permalink: /post/145129938482/politics-unfortunately-abounds-in-shams-that-must
 redirect_from: 
   - /post/145129938482/politics-unfortunately-abounds-in-shams-that-must

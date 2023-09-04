@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2014-01-09 02:30:18 GMT
-title: "Quote post"
+title: "Privacy and liberty"
 permalink: /post/72723563517/the-response-of-those-who-are-worried-about
 redirect_from: 
   - /post/72723563517/the-response-of-those-who-are-worried-about

@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2015-07-18 01:30:11 GMT
-title: "Quote post"
+title: "Fish in a barrel"
 permalink: /post/124369449976/and-there-is-so-much-more-of-it-in-florida-he
 redirect_from: 
   - /post/124369449976/and-there-is-so-much-more-of-it-in-florida-he

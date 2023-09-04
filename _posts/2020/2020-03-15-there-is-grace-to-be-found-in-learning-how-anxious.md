@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2020-03-15 19:21:49 GMT
-title: "Quote post"
+title: "Grace in fear"
 permalink: /post/612683071124357120/there-is-grace-to-be-found-in-learning-how-anxious
 redirect_from: 
   - /post/612683071124357120/there-is-grace-to-be-found-in-learning-how-anxious

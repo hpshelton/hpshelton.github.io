@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2012-02-27 03:01:06 GMT
-title: "Quote post"
+title: "Genius and fool"
 permalink: /post/18359413261/the-genius-is-always-puzzled-by-answers-it-is-the
 redirect_from: 
   - /post/18359413261/the-genius-is-always-puzzled-by-answers-it-is-the
@@ -14,5 +14,4 @@ categories:
 - answers
 ---
 <blockquote>The genius is always puzzled by answers, it is the fool who is satisfied by them.</blockquote>
-
- — Bertrand Russell
+<p>— Bertrand Russell</p>

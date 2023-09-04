@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2017-02-15 02:30:04 GMT
-title: "Quote post"
+title: "Evidence-based treatment"
 permalink: /post/157257158181/you-wouldnt-walk-into-a-hospital-and-want-to-be
 redirect_from: 
   - /post/157257158181/you-wouldnt-walk-into-a-hospital-and-want-to-be

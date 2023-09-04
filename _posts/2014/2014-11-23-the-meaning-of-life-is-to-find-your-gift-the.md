@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2014-11-23 02:30:04 GMT
-title: "Quote post"
+title: "Meaning and purpose"
 permalink: /post/103332102951/the-meaning-of-life-is-to-find-your-gift-the
 redirect_from: 
   - /post/103332102951/the-meaning-of-life-is-to-find-your-gift-the
@@ -15,5 +15,4 @@ categories:
 - picasso
 ---
 <blockquote>The meaning of life is to find your gift. The purpose of life is to give it away.</blockquote>
-
- — Pablo Picasso.
+<p>— Pablo Picasso</p>

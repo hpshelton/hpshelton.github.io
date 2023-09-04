@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2015-05-23 01:30:17 GMT
-title: "Quote post"
+title: "Anger and courage"
 permalink: /post/119643747551/hope-has-two-beautiful-daughters-their-names-are
 redirect_from: 
   - /post/119643747551/hope-has-two-beautiful-daughters-their-names-are

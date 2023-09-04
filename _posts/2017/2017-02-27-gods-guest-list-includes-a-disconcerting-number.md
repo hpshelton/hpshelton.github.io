@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2017-02-27 02:30:14 GMT
-title: "Quote post"
+title: "God's guest list"
 permalink: /post/157760351032/gods-guest-list-includes-a-disconcerting-number
 redirect_from: 
   - /post/157760351032/gods-guest-list-includes-a-disconcerting-number

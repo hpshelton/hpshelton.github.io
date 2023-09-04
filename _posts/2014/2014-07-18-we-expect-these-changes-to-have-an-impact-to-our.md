@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2014-07-18 01:30:13 GMT
-title: "Quote post"
+title: "Team structure"
 permalink: /post/92100884787/we-expect-these-changes-to-have-an-impact-to-our
 redirect_from: 
   - /post/92100884787/we-expect-these-changes-to-have-an-impact-to-our

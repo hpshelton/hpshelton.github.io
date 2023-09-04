@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2012-05-05 02:02:39 GMT
-title: "Quote post"
+title: "Debugging the specification"
 permalink: /post/22419348252/much-of-the-essence-of-building-a-program-is-in
 redirect_from: 
   - /post/22419348252/much-of-the-essence-of-building-a-program-is-in
@@ -15,5 +15,4 @@ categories:
 - the mythical man-month
 ---
 <blockquote>Much of the essence of building a program is in fact the debugging of the specification.</blockquote>
-
- — Fred Brooks, <i>The Mythical Man-Month</i>
+<p>— Fred Brooks, <i>The Mythical Man-Month</i></p>

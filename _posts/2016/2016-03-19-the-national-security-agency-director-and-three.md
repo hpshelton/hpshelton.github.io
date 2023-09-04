@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2016-03-19 01:30:09 GMT
-title: "Quote post"
+title: "Apple encryption"
 permalink: /post/141284511616/the-national-security-agency-director-and-three
 redirect_from: 
   - /post/141284511616/the-national-security-agency-director-and-three

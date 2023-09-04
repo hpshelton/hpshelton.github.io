@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2013-03-31 17:29:24 GMT
-title: "Quote post"
+title: "He is risen"
 permalink: /post/46770878439/why-do-you-seek-the-living-among-the-dead-he-is
 redirect_from: 
   - /post/46770878439/why-do-you-seek-the-living-among-the-dead-he-is
@@ -13,5 +13,4 @@ categories:
 - resurrection
 ---
 <blockquote>Why do you seek the living among the dead? He is not here, but is risen!</blockquote>
-
- — Luke 24:5-6
+<p>— Luke 24:5-6</p>

@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2017-04-03 06:03:12 GMT
-title: "Quote post"
+title: "The dead made living"
 permalink: /post/159142252692/by-his-grace-we-are-water-made-wine-we-are-the
 redirect_from: 
   - /post/159142252692/by-his-grace-we-are-water-made-wine-we-are-the
@@ -15,5 +15,4 @@ categories:
 - life
 ---
 <blockquote>By His grace, we are water made wine, we are the dust made flesh made dust made flesh again. We are the whores made brides and the thieves made saints and the killers made apostles. We are the dead made living.</blockquote>
-
- — N.D. Wilson, <i>Living by Death</i>
+<p>— N.D. Wilson, <i>Living by Death</i></p>
