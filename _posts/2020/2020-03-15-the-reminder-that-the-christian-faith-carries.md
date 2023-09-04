@@ -14,5 +14,4 @@ categories:
 - christianity
 ---
 <blockquote>[T]he reminder that the Christian faith carries with it not simply an acknowledgment of the inevitability of death but also the promise of a bodily resurrection [is] all the more astounding and all the more seemingly out of step with an era in which our bodies are sacrosanct and in which sickness is seen as such an alien part of the human condition.</blockquote>
-
- — <p>Tara Isabella Burton, <a href="https://religionnews.com/2020/03/03/fleeing-coronavirus-and-finding-our-mortality/">"Fleeing coronavirus and finding our mortality"</a></p>
+<p>— Tara Isabella Burton, <a href="https://religionnews.com/2020/03/03/fleeing-coronavirus-and-finding-our-mortality/">"Fleeing coronavirus and finding our mortality"</a></p>

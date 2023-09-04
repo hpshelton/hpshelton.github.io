@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2010-11-14 21:43:00 GMT
-title: "Quote post"
+title: "Both are right"
 permalink: /post/1575346889/each-party-tries-to-proves-that-the-other-party-is
 redirect_from: 
   - /post/1575346889/each-party-tries-to-proves-that-the-other-party-is
@@ -12,5 +12,4 @@ categories:
 - hl. mencken
 ---
 <blockquote>Each party tries to proves that the other party is unfit to rule. Both commonly succeed and are right.</blockquote>
-
- — HL. Mencken
+<p>— HL. Mencken</p>

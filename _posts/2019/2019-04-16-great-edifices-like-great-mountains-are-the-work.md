@@ -13,5 +13,4 @@ categories:
 - quotes
 ---
 <blockquote>Great edifices, like great mountains, are the work of ages.</blockquote>
-
- — <p>Victor Hugo, <i>The Hunchback of Notre-Dame</i></p>
+<p>— Victor Hugo, <i>The Hunchback of Notre-Dame</i></p>

@@ -15,5 +15,4 @@ categories:
 - richard clarke
 ---
 <blockquote>The National Security Agency director and three past National Security Agency directors, a former CIA director, a former Homeland Security secretary have all said that they're much more sympathetic with Apple in this case.</blockquote>
-
- — <p>Richard Clarke, former counterterrorism official. (via <a href="http://www.npr.org/2016/03/14/470347719/encryption-and-privacy-are-larger-issues-than-fighting-terrorism-clarke-says">NPR</a>)</p>
+<p>— Richard Clarke, former counterterrorism official. (via <a href="http://www.npr.org/2016/03/14/470347719/encryption-and-privacy-are-larger-issues-than-fighting-terrorism-clarke-says">NPR</a>)</p>

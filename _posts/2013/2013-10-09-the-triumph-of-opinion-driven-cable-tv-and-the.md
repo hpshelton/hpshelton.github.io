@@ -12,5 +12,4 @@ categories:
 - david rohde
 ---
 <blockquote>The triumph of opinion-driven cable TV and the collapse of newspapers has created an American news media that does an increasingly poor job of informing the public. And an excellent job of dividing it.</blockquote>
-
- — <p>David Rohde, "<a href="http://www.theatlantic.com/politics/archive/2013/10/how-the-broken-media-helped-break-the-government/280261/">How the Broken Media Helped Break the Government</a>"</p>
+ <p>— David Rohde, "<a href="http://www.theatlantic.com/politics/archive/2013/10/how-the-broken-media-helped-break-the-government/280261/">How the Broken Media Helped Break the Government</a>"</p>

@@ -14,5 +14,4 @@ categories:
 - courage
 ---
 <blockquote>Hope has two beautiful daughters. Their names are anger and courage; anger at the way things are, and courage to see that they do not remain the way they are.</blockquote>
-
- — <p>St. Augustine</p>
+<p>— St. Augustine</p>

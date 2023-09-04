@@ -16,5 +16,4 @@ categories:
 - character
 ---
 <blockquote>They are never alone who are accompanied with noble thoughts.</blockquote>
-
- — <p>Sir Philip Sidney</p>
+<p>— Sir Philip Sidney</p>

@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2011-01-25 03:28:37 GMT
-title: "Quote post"
+title: "Algorithms and RAM"
 permalink: /post/2919032401/algorithms-are-for-people-who-dont-know-how-to
 redirect_from: 
   - /post/2919032401/algorithms-are-for-people-who-dont-know-how-to

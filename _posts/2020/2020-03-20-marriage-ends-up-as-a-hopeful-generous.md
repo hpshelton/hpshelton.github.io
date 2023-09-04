@@ -12,5 +12,4 @@ categories:
 - alain de botton
 ---
 <blockquote>Marriage ends up as a hopeful, generous, infinitely kind gamble taken by two people who don't know yet who they are or who the other might be, binding themselves to a future they cannot conceive of and have carefully avoided investigating.</blockquote>
-
- — <p>Alain de Botton, <a href="https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html">Why You Will Marry the Wrong Person</a></p>
+<p>— Alain de Botton, <a href="https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html">Why You Will Marry the Wrong Person</a></p>

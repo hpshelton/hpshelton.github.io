@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2010-02-05 16:32:51 GMT
-title: "Quote post"
+title: "Climb a thousand mountains"
 permalink: /post/372520014/how-is-it-that-i-have-to-climb-a-thousand
 redirect_from: 
   - /post/372520014/how-is-it-that-i-have-to-climb-a-thousand

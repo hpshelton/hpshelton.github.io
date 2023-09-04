@@ -16,5 +16,4 @@ categories:
 - brad smith
 ---
 <blockquote>The path to hell starts at the backdoor, and we need to make sure that encryption technology remains strong.</blockquote>
-
- — <p><a href="http://mashable.com/2016/03/01/microsoft-brad-smith-rsa-encryption/">Brad Smith</a>, Chief Legal Officer, Microsoft</p>
+<p>— <a href="http://mashable.com/2016/03/01/microsoft-brad-smith-rsa-encryption/">Brad Smith</a>, Chief Legal Officer, Microsoft</p>

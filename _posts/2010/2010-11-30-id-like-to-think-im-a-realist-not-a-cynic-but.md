@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2010-11-30 07:39:25 GMT
-title: "Quote post"
+title: "Cynicism"
 permalink: /post/1984315642/id-like-to-think-im-a-realist-not-a-cynic-but
 redirect_from: 
   - /post/1984315642/id-like-to-think-im-a-realist-not-a-cynic-but

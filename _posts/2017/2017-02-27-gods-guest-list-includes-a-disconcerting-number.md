@@ -15,5 +15,4 @@ categories:
 - community
 ---
 <blockquote>God's guest list includes a disconcerting number of poor and broken people, those who appear to bring little to any gathering except their need.</blockquote>
-
- — <p>- Christine D. Pohl, <i>Making Room: Recovering Hospitality as a Christian Tradition</i></p>
+<p>— Christine D. Pohl, <i>Making Room: Recovering Hospitality as a Christian Tradition</i></p>

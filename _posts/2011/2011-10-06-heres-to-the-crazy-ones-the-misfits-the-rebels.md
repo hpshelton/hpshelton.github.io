@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2011-10-06 02:47:41 GMT
-title: "Quote post"
+title: "Here's to the crazy ones"
 permalink: /post/11087560477/heres-to-the-crazy-ones-the-misfits-the-rebels
 redirect_from: 
   - /post/11087560477/heres-to-the-crazy-ones-the-misfits-the-rebels

@@ -11,5 +11,4 @@ categories:
 - fish
 ---
 <blockquote>It's not just shooting fish in a barrel, but shooting mutated, deranged, slow-moving fish.</blockquote>
-
- — <p><a href="http://www.nytimes.com/2015/05/11/us/both-hapless-and-harebrained-florida-man-enlivens-internet.html">@_FloridaMan Beguiles With the Hapless and Harebrained</a>, The New York Times</p>
+<p>— <a href="http://www.nytimes.com/2015/05/11/us/both-hapless-and-harebrained-florida-man-enlivens-internet.html">@_FloridaMan Beguiles With the Hapless and Harebrained</a>, The New York Times</p>

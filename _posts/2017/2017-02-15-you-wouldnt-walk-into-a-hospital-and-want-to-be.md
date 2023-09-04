@@ -14,5 +14,4 @@ categories:
 - george gascón
 ---
 <blockquote>You wouldn't walk into a hospital and want to be treated without evidence-based treatment, but we do that all the time with incarceration.</blockquote>
-
- — <p>George Gascón, San Francisco District Attorney at the <a href="http://able.is/able-forum/">2017 AbleForum</a></p>
+<p>— George Gascón, San Francisco District Attorney at the <a href="http://able.is/able-forum/">2017 AbleForum</a></p>

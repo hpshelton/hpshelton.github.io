@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2010-07-04 21:22:05 GMT
-title: "Quote post"
+title: "The soldier"
 permalink: /post/770405683/it-is-the-soldier-not-the-minister-who-has-given
 redirect_from: 
   - /post/770405683/it-is-the-soldier-not-the-minister-who-has-given
@@ -23,5 +23,4 @@ It is the Soldier who salutes the flag,
 Who serves beneath the flag,
 And whose coffin is draped by the flag,
 Who allows the protester to burn the flag.</blockquote>
-
- — Charles Province
+<p>— Charles Province</p>

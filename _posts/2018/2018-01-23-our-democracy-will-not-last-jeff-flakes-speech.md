@@ -14,6 +14,5 @@ categories:
 - press
 - truth
 ---
-
 <blockquote>[F]or those who cherish American constitutional democracy, what matters is the effect on America and her people and her standing in an increasingly unstable world - made all the more unstable by these very fabrications. What matters is the daily disassembling of our democratic institutions. We are a mature democracy – it is well past time that we stop excusing or ignoring – or worse, endorsing - these attacks on the truth. For if we compromise the truth for the sake of our politics, we are lost.</blockquote>
-<p>- Sen. Jeff Flake (R-Ariz.)</p>
+<p>— Sen. Jeff Flake (R-Ariz.)</p>

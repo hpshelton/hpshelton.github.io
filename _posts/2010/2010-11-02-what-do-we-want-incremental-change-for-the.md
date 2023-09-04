@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2010-11-02 01:57:55 GMT
-title: "Quote post"
+title: "Incremental change"
 permalink: /post/1457805238/what-do-we-want-incremental-change-for-the
 redirect_from: 
   - /post/1457805238/what-do-we-want-incremental-change-for-the

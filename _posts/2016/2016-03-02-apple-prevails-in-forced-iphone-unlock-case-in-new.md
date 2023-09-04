@@ -15,7 +15,6 @@ categories:
 - law
 - policy
 ---
-
-<p><blockquote>In short, whatever else the AWA's "usages and principles" clause may be intended to accomplish, it cannot be a means for the executive branch to achieve a legislative goal that Congress has considered and rejected.</blockquote>
-<p>- US Magistrate Judge James Orenstein, New York</p>
-<p>A big win for Apple and one that possibly sets up a circuit split between the 2nd and 9th Circuits.</p></p>
+<blockquote>In short, whatever else the AWA's "usages and principles" clause may be intended to accomplish, it cannot be a means for the executive branch to achieve a legislative goal that Congress has considered and rejected.</blockquote>
+<p>— US Magistrate Judge James Orenstein, New York</p>
+<p>A big win for Apple and one that possibly sets up a circuit split between the 2nd and 9th Circuits.</p>

@@ -2,7 +2,7 @@
 layout: post
 type: quote
 date: 2011-03-10 03:32:07 GMT
-title: "Quote post"
+title: "Rend your heart"
 permalink: /post/3756764239/even-now-declares-the-lord-return-to-me
 redirect_from: 
   - /post/3756764239/even-now-declares-the-lord-return-to-me
@@ -25,5 +25,4 @@ Who knows? He may turn and relent
 &nbsp;&nbsp;&nbsp;and leave behind a blessing— 
 grain offerings and drink offerings 
 &nbsp;&nbsp;&nbsp;for the LORD your God.</blockquote>
-
- — Joel 2:12-14 (from Ash Wednesday service)
+<p>— Joel 2:12-14 (from Ash Wednesday service)</p>
