@@ -39,9 +39,8 @@ jobs:
           $comments = Invoke-WebRequest -Uri "https://api.github.com/repos/${{ github.repository }}/issues/$issue/comments" -Headers $headers | ConvertFrom-Json
           $comments | Where-Object { $_.body -match $commitUrlRegex } | ForEach-Object { 
             $_.body -match $commitUrlRegex | Out-Null
-            $pair = @{ "IssueNumber" = "$issue"; "CommitUrl" = $Matches[0] }
+            $commitUrls +=  @{ "IssueNumber" = "$issue"; "CommitUrl" = $Matches[0] }
           }
-          $commitUrls += $pair
         }
         $commitUrls = $commitUrls | ConvertTo-Json -Compress
         "commit_urls=$commitUrls" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
