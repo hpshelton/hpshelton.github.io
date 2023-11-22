@@ -14,4 +14,4 @@ categories:
 - hemisphere
 ---
 <blockquote> A little-known surveillance program tracks more than a trillion domestic phone records within the United States each year, according to a letter WIRED obtained that was sent by US senator Ron Wyden to the Department of Justice (DOJ) on Sunday, challenging the program’s legality.</blockquote>
-See additional reporting from the [Electronic Frontier Foundation](https://www.eff.org/cases/hemisphere). 
+See additional reporting from the <a href="https://www.eff.org/cases/hemisphere">Electronic Frontier Foundation</a>. 
