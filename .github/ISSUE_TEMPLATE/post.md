@@ -4,9 +4,8 @@ about: Create a new Jekyll-formatted blog post
 title: ''
 labels: ''
 assignees: ''
-
 ---
-
+```
 ---
 layout: post
 type: link
@@ -19,3 +18,4 @@ categories:
 ---
 <blockquote>Quote goes here.</blockquote>
 <p>Commentary goes here.</p>
+```
