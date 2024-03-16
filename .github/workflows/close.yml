@@ -140,7 +140,7 @@ jobs:
       env:
         COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
-        $headers = @{ Authorization = "Bearer $env:COMMIT_TOKEN" }
+        $headers = @{ "Authorization" = "Bearer $env:COMMIT_TOKEN"; "Content-Type" = "text/json" }
         $jobUrl = "https://github.com/hpshelton/hpshelton.github.io/actions/runs/${{ github.event.workflow_run.id }}"
 
         foreach ($pair in ('${{ needs.check-logs.outputs.posts }}' | ConvertFrom-Json )) {
