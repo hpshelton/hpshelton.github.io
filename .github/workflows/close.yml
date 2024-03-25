@@ -108,21 +108,31 @@ jobs:
 
         $jobUrl = "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs"
         $jobId = (Invoke-WebRequest -Uri $jobUrl -Headers $headers | ConvertFrom-Json).jobs | Where-Object { $_.name -eq "build" } | ForEach-Object { $_.id }
+        
+        Write-Output "Fetching logs for jobId $jobId"
         $logsUrl = "https://api.github.com/repos/${{ github.repository }}/actions/jobs/$jobId/logs"
         $logs = (Invoke-WebRequest -Uri $logsUrl -Headers $headers -TimeoutSec 300).Content
 
-        foreach ($pair in ('${{ needs.get-files.outputs.file_paths }}' | ConvertFrom-Json )) {
-          $path = $pair.FilePath
-          if ($logs -like "*Skipping: $path has a future date*") {
-            Write-Output "$path is still scheduled to be posted"
-          } elseif ($logs -like "*Reading: $path*") {
-            Write-Output "$path has been posted"
-            $posted += $pair
-          } else {
-            Write-Output "Log content not found for $path."
+        if ($logs)
+        {
+          foreach ($pair in ('${{ needs.get-files.outputs.file_paths }}' | ConvertFrom-Json )) {
+            $path = $pair.FilePath
+            if ($logs -like "*Skipping: $path has a future date*") {
+              Write-Output "$path is still scheduled to be posted"
+            } elseif ($logs -like "*Reading: $path*") {
+              Write-Output "$path has been posted"
+              $posted += $pair
+            } else {
+              Write-Output "Log content not found for $path."
+            }
           }
         }
-        $posted = $posted | ConvertTo-Json -Compress
+        else
+        {          
+          Write-Output "Unable to fetch for jobId $jobId"
+        }
+        
+        $posted = $posted | ConvertTo-Json -Compress        
         "posts=$posted" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
 
     outputs:
