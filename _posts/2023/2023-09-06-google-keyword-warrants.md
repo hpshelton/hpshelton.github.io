@@ -9,5 +9,6 @@ categories:
 - Google
 - law
 - privacy
+- warrant
 ---
 <blockquote>While Google deals with thousands of such orders every year, the keyword warrant is one of the more contentious. In many cases, the government will already have a specific Google account that they want information on and have proof it’s linked to a crime. But search term orders are effectively fishing expeditions, hoping to ensnare possible suspects whose identities the government does not know.</blockquote>
