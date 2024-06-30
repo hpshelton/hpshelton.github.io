@@ -25,6 +25,7 @@ jobs:
 
           $Headers = @{
             "Authorization" = "Bearer $env:COMMIT_TOKEN"
+            "Content-Type" = "text/json"
           }
 
           $Body = @{
