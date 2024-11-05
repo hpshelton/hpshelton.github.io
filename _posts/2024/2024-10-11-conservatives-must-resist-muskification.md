@@ -11,4 +11,4 @@ categories:
 - efficiency
 - elon musk
 ---
-<blockquote>But the deeper problem with making Musk the face of government “efficiency” is that efficiency is not an end unto itself. How well government operates is one question—an important one. But what government is for is a very different question.</blockquote>
+<blockquote>But the deeper problem with making Musk the face of government "efficiency" is that efficiency is not an end unto itself. How <i>well</i> government operates is one question — an important one. But what government is <i>for</i> is a very different question.</blockquote>
