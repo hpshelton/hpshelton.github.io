@@ -7,7 +7,7 @@ on:
 jobs:
   publish_post:
     name: publish-post
-    if: ${{ !github.event.issue.pull_request && github.event.comment.body == 'post' && github.event.comment.user.login == 'hpshelton' }}
+    if: ${{ !github.event.issue.pull_request && github.event.comment.body =~ '(?i)post' && github.event.comment.user.login == 'hpshelton' }}
     runs-on: ubuntu-latest
     steps:
       - name: Add GitHub file
