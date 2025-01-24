@@ -11,5 +11,5 @@ categories:
 - law
 - privacy
 ---
-<blockquote><p>”Querying a Section 702 database in connection with a US person generally requires a warrant, even where the initial interception was lawfully conducted," DeArcy Hall ruled, partly because US persons maintain "a legitimate expectation of privacy."</p>
-<p>”The government cannot circumvent application of the warrant requirement simply because queried information is already collected and held by the government.”</p></blockquote>
+<blockquote><p>"Querying a Section 702 database in connection with a US person generally requires a warrant, even where the initial interception was lawfully conducted," DeArcy Hall ruled, partly because US persons maintain "a legitimate expectation of privacy."</p>
+<p>"The government cannot circumvent application of the warrant requirement simply because queried information is already collected and held by the government."</p></blockquote>
