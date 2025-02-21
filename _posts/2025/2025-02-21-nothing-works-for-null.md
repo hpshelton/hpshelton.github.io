@@ -10,3 +10,4 @@ categories:
 - null
 - programming
 ---
+<blockquote>The Nulls of the world, it turns out, endure a lifetime of website bouncebacks, processing errors and declarations by customer-service representatives that their accounts don't exist.<blockquote>
