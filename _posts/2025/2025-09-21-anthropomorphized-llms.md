@@ -2,7 +2,7 @@
 layout: post
 type: link
 date: 2025-09-21 18:00:00 -0700
-title: "ADD / XOR / ROL: A non-anthropomorphized view of LLMs"
+title: "A non-anthropomorphized view of LLMs"
 link: https://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html
 permalink: /post/2025/09/21/anthropomorphized-llms
 categories: 
